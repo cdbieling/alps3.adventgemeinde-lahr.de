@@ -1,0 +1,142 @@
+
+<!-- wp:heading {"className":"l-grid l-grid\u002d\u002d6-col l-grid-wrap\u002d\u002d5-of-7"} -->
+<h2 class="l-grid l-grid--6-col l-grid-wrap--5-of-7">
+Adventistische Bildungseinrichtungen </h2>
+<!-- /wp:heading -->
+
+<!-- Bildungseinrichtungen -->
+<div class="l-wrap">
+<main role="main">
+<section class="l-section__block-row l-grid l-grid--6-col l-grid-wrap--5-of-7">
+ <div class="l-grid-item u-padding--zero--sides u-flex">
+  <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+   <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div class="c-block__image-wrap ">
+    <picture class="picture">
+    <!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="" media="(min-width: 500px)"><!--[if IE 9]></video><![endif]--><br>
+    <a href="https://adventist.org" target="_blank"><img itemprop="image" srcset="/wp-content/uploads/2019/02/Thumbnail_SDA_300x200.jpg" alt="Offizielle Website der Freikirche der Siebenten-Tags-Adventisten"></a>
+    </div>
+   </div>
+   <!-- c-media-block__image -->
+   <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+    <div class="u-spacing c-block__group c-media-block__group ">
+     <div class="u-spacing u-width--100p">
+     <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+     Adventist.org</h3>
+     Offizielle Website der Weltkirche
+     </div>
+     <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+     <a href="https://adventist.org" target="_blank"><span class="c-block__category u-text-transform--upper">Adventist.org</span></a>
+     </div>
+    </div>
+   </div>
+  <!-- c-media-block__content -->
+  </div>
+  <!-- c-media-block -->
+
+  <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+   <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides c-block__icon c-block__icon--video">
+    <div class="c-block__image-wrap ">
+    <picture class="picture">
+    <!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="" media="(min-width: 500px)"><!--[if IE 9]></video><![endif]--><br>
+    <a href="https://eud.adventist.org" target="_blank"><img itemprop="image" srcset="/wp-content/uploads/2019/02/Thumbnail_STA_EUD_300x200.jpg" alt="INTER-EUROPÄISCHE DIVISION"></a>
+    </picture>
+    </div>
+   </div>
+   <!-- c-media-block__image -->
+   <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+    <div class="u-spacing c-block__group c-media-block__group ">
+     <div class="u-spacing u-width--100p">
+     <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+     EUD.Adventist.org</h3>
+     Inter Europäische Division<br />
+     &nbsp;
+     </div>
+     <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+     <a href="https://eud.adventist.org" target="_blank"><span class="c-block__category u-text-transform--upper">eud.adventist.org</span></a>
+     </div>
+    </div>
+   </div>
+   <!-- c-media-block__content -->
+  </div>
+  <!-- c-media-block -->
+  <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+   <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides c-block__icon c-block__icon--audio">
+    <div class="c-block__image-wrap ">
+    <picture class="picture">
+    <!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="" media="(min-width: 500px)"><!--[if IE 9]></video><![endif]--><br>
+    <a href="https://adventisten.de" target="_blank"> <img itemprop="image" srcset="/wp-content/uploads/2019/02/Thumbnail_STA_D_300x200.jpg" alt="Adventisten.de"></a>
+    </picture>
+    </div>
+   </div>
+   <!-- c-media-block__image -->
+   <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+    <div class="u-spacing c-block__group c-media-block__group ">
+     <div class="u-spacing u-width--100p">
+     <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+     Adventisten.de</h3>
+     Adventisten in Deutschland<br>
+     &nbsp;
+     </div>
+     <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+     <a href="https://adventisten.de" target="_blank"> <span class="c-block__category u-text-transform--upper">Adventisten.de</span></a>
+     </div>
+    </div>
+   </div>
+   <!-- c-media-block__content -->
+  </div>
+  <!-- c-media-block -->
+  <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+   <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides">
+    <div class="c-block__image-wrap ">
+    <picture class="picture">
+    <!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="" media="(min-width: 500px)"><!--[if IE 9]></video><![endif]--><br>
+    <a href="https://bw.adventisten.de" target="_blank"> <img itemprop="image" srcset="/wp-content/uploads/2019/02/Thumbnail_STA_BW_300x200.jpg" alt="Adventisten in Baden-Württemberg"></a>
+    </picture>
+    </div>
+   </div>
+   <!-- c-media-block__image -->
+   <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+    <div class="u-spacing c-block__group c-media-block__group ">
+     <div class="u-spacing u-width--100p">
+     <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+     BW.Adventisten.de</h3>
+     Adventisten in Baden-Württemberg
+     </div>
+     <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+     <a href="https://bw.adventisten.de" target="_blank"><span class="c-block__category u-text-transform--upper">bw.adventisten.de</span></a>
+     </div>
+    </div>
+   </div>
+   <!-- c-media-block__content -->
+  </div>
+  <!-- c-media-block -->
+  <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+   <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides">
+    <div class="c-block__image-wrap ">
+    <picture class="picture">
+    <!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="" media="(min-width: 500px)"><!--[if IE 9]></video><![endif]--><br>
+    <a href="https://adventjugend.de" target="_blank"><img itemprop="image" srcset="/wp-content/uploads/2019/02/Thumbnail_STA_Adventjugend_300x200.jpg" alt="Adventjugend in Deutschland"></a>
+    </picture>
+    </div>
+   </div>
+   <!-- c-media-block__image -->
+   <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+    <div class="u-spacing c-block__group c-media-block__group ">
+     <div class="u-spacing u-width--100p">
+     <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s">
+     Adventjugend.de</h3>
+     Adventjugend in Deutschland<br>
+     &nbsp;
+    </div>
+    <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+    <a href="https://adventjugend.de" target="_blank"><span class="c-block__category u-text-transform--upper">adventjugend.de</span></a>
+    </div>
+   </div>
+  </div>
+  <!-- c-media-block__content -->
+ </div>
+</div>
+</section>
+</main>
+</div>
