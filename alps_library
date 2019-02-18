@@ -1,7 +1,27 @@
 
+<!-- Line:25     Media Block Inline -->
+<!-- Line:70     Testemonies -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+<!-- Line:     Media Block Inline -->
+
+
 <!--- Media Block Inline --->
-
-
+<!--- Media Block Inline --->
 <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">
     <div class="c-media-block__image c-block__image l-grid-item u-padding--zero--sides">
         <div class="c-block__image-wrap ">
@@ -40,11 +60,84 @@
 <article class="c-article l-grid-item l-grid-item--l--4-col  post-1467 page type-page status-publish hentry odd">
     <div class="c-article__body">
       <div class="text u-spacing">
-        
-        
-        
-        
-        </div>
     </div>
+  </div>
 </article>
 -->
+
+
+<!--- 2. TESTEMONIES --->
+<!--- 2. TESTEMONIES --->
+<section class="c-testimonies u-spacing u-posititon--relative">
+  <div class="c-block__heading u-theme--border-color--darker u-space--double--bottom">
+    <h3 class="c-block__heading-title u-theme--color--darker">Testimonies</h3>
+    <a href="" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">See All</a>
+  </div>
+  <div class="l-grid l-grid-wrap l-grid-wrap--6-of-7 js-carousel__multi-item">
+    <div class="l-grid-item--6-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--1-col u-space--bottom u-padding--zero--sides">
+      <div class="c-block c-block__text  u-theme--border-color--darker u-border--left u-spacing--half u-padding--right">
+        <h3 class="u-theme--color--darker u-font--secondary--m u-text-transform--upper">
+          <strong>1.Aliquam malesuada viverra velit</strong>
+         </h3>
+         <p class="c-block__body text">Fusce interdum purus est, vel semper ex tristique ut. Proin dapibus luctus pellentesque.</p>
+       </div>
+       </div>
+       <div class="l-grid-item--6-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--1-col u-space--bottom u-padding--zero--sides">
+         <div class="c-block c-block__text  u-theme--border-color--darker u-border--left u-spacing--half u-padding--right">
+           <h3 class="u-theme--color--darker u-font--secondary--m u-text-transform--upper">
+             <strong>2.Fusce interdum purus est</strong>
+           </h3>
+           <p class="c-block__body text">Aenean quis velit vel purus est, vel semper ex tristique ut. Proin dapibus luctus pellentesque.</p>
+         </div>
+       </div>
+       <div class="l-grid-item--6-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--1-col u-space--bottom u-padding--zero--sides">
+         <div class="c-block c-block__text  u-theme--border-color--darker u-border--left u-spacing--half u-padding--right">
+           <h3 class="u-theme--color--darker u-font--secondary--m u-text-transform--upper">
+             <strong>3.Aliquam malesuada viverra velit</strong>
+           </h3>
+           <p class="c-block__body text">Fusce interdum purus est, vel semper ex tristique ut. Proin dapibus luctus pellentesque.</p>
+          </div>
+        </div>
+        <div class="l-grid-item--6-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--1-col u-space--bottom u-padding--zero--sides">
+          <div class="c-block c-block__text  u-theme--border-color--darker u-border--left u-spacing--half u-padding--right">
+            <h3 class="u-theme--color--darker u-font--secondary--m u-text-transform--upper">
+              <strong>4.Fusce interdum purus est</strong>
+            </h3>
+            <p class="c-block__body text">Aenean quis velit vel purus est, vel semper ex tristique ut. Proin dapibus luctus pellentesque.</p>
+          </div>
+        </div>
+        <div class="l-grid-item--6-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--1-col u-space--bottom u-padding--zero--sides">
+          <div class="c-block c-block__text  u-theme--border-color--darker u-border--left u-spacing--half u-padding--right">
+            <h3 class="u-theme--color--darker u-font--secondary--m u-text-transform--upper">
+              <strong>5.Aliquam malesuada viverra velit</strong>
+            </h3>
+            <p class="c-block__body text">Fusce interdum purus est, vel semper ex tristique ut. Proin dapibus luctus pellentesque.</p>
+          </div>
+        </div>
+        <div class="l-grid-item--6-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--1-col u-space--bottom u-padding--zero--sides">
+          <div class="c-block c-block__text  u-theme--border-color--darker u-border--left u-spacing--half u-padding--right">
+            <h3 class="u-theme--color--darker u-font--secondary--m u-text-transform--upper">
+              <strong>6.Fusce interdum purus est</strong>
+            </h3>
+            <p class="c-block__body text">Aenean quis velit vel purus est, vel semper ex tristique ut. Proin dapibus luctus pellentesque.</p>
+          </div>
+        </div>
+        <div class="l-grid-item--6-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--1-col u-space--bottom u-padding--zero--sides">
+          <div class="c-block c-block__text  u-theme--border-color--darker u-border--left u-spacing--half u-padding--right">
+            <h3 class="u-theme--color--darker u-font--secondary--m u-text-transform--upper">
+              <strong>7.Fusce interdum purus est</strong>
+            </h3>
+            <p class="c-block__body text">Aenean quis velit vel purus est, vel semper ex tristique ut. Proin dapibus luctus pellentesque.</p>
+          </div>
+        </div>
+        <div class="l-grid-item--6-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--1-col u-space--bottom u-padding--zero--sides">
+          <div class="c-block c-block__text  u-theme--border-color--darker u-border--left u-spacing--half u-padding--right">
+            <h3 class="u-theme--color--darker u-font--secondary--m u-text-transform--upper">
+              <strong>8.Fusce interdum purus est</strong>
+            </h3>
+            <p class="c-block__body text">Aenean quis velit vel purus est, vel semper ex tristique ut. Proin dapibus luctus pellentesque.</p>
+          </div>
+        </div>
+      </div>
+   <a href="" class="o-button  u-space--left">Share your testimony!</a>
+ </section> <!-- /.testimonies -->
