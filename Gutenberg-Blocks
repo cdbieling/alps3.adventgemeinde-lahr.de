@@ -37,5 +37,18 @@ One Column-Gid
 <!-- /wp:columns -->
 
 Download-Module:
-
 <!-- wp:file /-->
+
+Tabelle-Modul:
+<!-- wp:table -->
+
+Youtube-Video Einbetten:
+<!-- wp:core-embed/youtube /-->
+Vimeo-Videos
+<!-- wp:core-embed/vimeo /-->
+
+Einbinden:
+<!-- wp:embed /-->
+
+Media + Text
+<!-- wp:media-text -->
