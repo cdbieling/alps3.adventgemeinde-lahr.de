@@ -108,8 +108,10 @@
       </div><!-- c-related-posts__blocks -->
     </div>
 
-
-    <div class="c-related-posts u-spacing">
+    <!-- wp:spacer -->
+   <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+   <!-- /wp:spacer -->
+   <div class="c-related-posts u-spacing">
       <div class="c-block__heading u-theme--border-color--darker">
         <h3 class="c-block__heading-title u-theme--color--darker">Download Flyer</h3>
       </div>
@@ -135,58 +137,18 @@
                 </h3>
                 <small>Laden Sie den Flyer für das Kochtreff herunter.<br>
                 <span class="u-icon u-icon--s u-path-fill--gray">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 128">
                     <title>Download</title>
-                    <path d="M16,0a1,1,0,0,0-1,1V127a1,1,0,0,0,1,1h96a1,1,0,0,0,1-1V98H52a1,1,0,0,1-1-1V69a1,1,0,0,1,1-1h61V26H88a1,1,0,0,1-1-1V0H16ZM89,0V23a1,1,0,0,0,1,1h23ZM79.81,78.88a5.5,5.5,0,0,0-4.12,1.53,6.57,6.57,0,0,0,0,8.28,5.5,5.5,0,0,0,4.13,1.53A5.57,5.57,0,0,0,84,88.69a6.52,6.52,0,0,0,0-8.28A5.52,5.52,0,0,0,79.81,78.88Zm12.72,0a6.59,6.59,0,0,0-2.31.41,4.78,4.78,0,0,0-1.75,1.13,5,5,0,0,0-1.12,1.81,6.71,6.71,0,0,0-.41,2.34A6.82,6.82,0,0,0,87.34,87a4.63,4.63,0,0,0,2.94,2.84,6.82,6.82,0,0,0,2.25.38,7.61,7.61,0,0,0,1.28-.09,9.08,9.08,0,0,0,1-.22,6.49,6.49,0,0,0,.78-0.28l0.78-.34V86.66H96.09l-0.53.44a6,6,0,0,1-.66.44A4,4,0,0,1,94,88a3.32,3.32,0,0,1-1,.16,3.76,3.76,0,0,1-1.09-.19,2.68,2.68,0,0,1-1-.56,3.06,3.06,0,0,1-.72-1.09,4.53,4.53,0,0,1-.28-1.72,4.62,4.62,0,0,1,.25-1.66,3.19,3.19,0,0,1,.72-1.12,2.57,2.57,0,0,1,1-.59A3.52,3.52,0,0,1,93,81a3,3,0,0,1,1,.19,4.88,4.88,0,0,1,.88.38,6.32,6.32,0,0,1,.69.5c0.21,0.16.39,0.29,0.53,0.41h0.31V79.78l-0.69-.31a7.08,7.08,0,0,0-.91-0.31,8.35,8.35,0,0,0-1-.19,8.16,8.16,0,0,0-1.22-.09h0Zm-30.12.22V90h3.84a11.6,11.6,0,0,0,2.25-.19,5.4,5.4,0,0,0,1.75-.69A5.06,5.06,0,0,0,72,87.28a5.33,5.33,0,0,0,.69-2.72A5.55,5.55,0,0,0,72,81.81a4.9,4.9,0,0,0-1.75-1.87,5.26,5.26,0,0,0-1.62-.62,10.36,10.36,0,0,0-2.31-.22H62.41Zm17.44,1.84a2.58,2.58,0,0,1,1,.19,2.22,2.22,0,0,1,.88.63,3.32,3.32,0,0,1,.59,1.13,5.31,5.31,0,0,1,.22,1.66,5.68,5.68,0,0,1-.22,1.59,3.32,3.32,0,0,1-.59,1.19,2.26,2.26,0,0,1-.84.66,2.92,2.92,0,0,1-2.06,0,2.37,2.37,0,0,1-.87-0.66,3.25,3.25,0,0,1-.59-1.09,5.48,5.48,0,0,1-.22-1.66,5.67,5.67,0,0,1,.22-1.69A3.1,3.1,0,0,1,78,81.75a2.29,2.29,0,0,1,.84-0.62A2.82,2.82,0,0,1,79.84,80.94Zm-14.62.19h0.69a8.25,8.25,0,0,1,1.38.09,3.07,3.07,0,0,1,.88.28,2.71,2.71,0,0,1,1.25,1.19,4,4,0,0,1,.38,1.84,4.26,4.26,0,0,1-.34,1.84,2.67,2.67,0,0,1-1.12,1.16,3.47,3.47,0,0,1-.94.34,8.58,8.58,0,0,1-1.47.09H65.22V81.13h0Z" fill="#777"/>
+                    <defs><clipPath id="a" transform="translate(-15)"><path d="M87,0a1,1,0,0,0-1-1H16a1,1,0,0,0-1,1V127a1,1,0,0,0,1,1h96a1,1,0,0,0,1-1L114,99a1,1,0,0,0-1-1H52a1,1,0,0,1-1-1V69a1,1,0,0,1,1-1h61a1,1,0,0,0,1-1V27a1,1,0,0,0-1-1H88a1,1,0,0,1-1-1V0Z" fill="none"/></clipPath><clipPath id="b" transform="translate(-15)"><rect x="89" y="-2" width="26" height="26" rx="1" ry="1" fill="none"/></clipPath></defs><title>PDF Icon</title><g clip-path="url(#a)"><path d="M113,1a1,1,0,0,0-1-1H16a1,1,0,0,0-1,1V127a1,1,0,0,0,1,1h96a1,1,0,0,0,1-1V1Z" transform="translate(-15)"/></g><g clip-path="url(#b)"><polygon points="74 0 74 24 98 24 74 0"/></g><g style="isolation:isolate"><path d="M69.39,85.33a4.12,4.12,0,0,1-2.71.79H64.44V90H62.19V79.2h4.64a3.74,3.74,0,0,1,2.56.83,3.26,3.26,0,0,1,1,2.59A3.35,3.35,0,0,1,69.39,85.33Zm-1.72-3.89a1.82,1.82,0,0,0-1.2-.36h-2v3.18h2a1.72,1.72,0,0,0,1.2-.39,1.58,1.58,0,0,0,.43-1.23A1.49,1.49,0,0,0,67.67,81.44Z" transform="translate(-15)"/><path d="M78.47,79.44a3.56,3.56,0,0,1,1.84,1.37,4.81,4.81,0,0,1,.77,1.74,8.38,8.38,0,0,1,.21,1.79A7.18,7.18,0,0,1,80.42,88a3.91,3.91,0,0,1-3.62,2H72.15V79.2H76.8A5.67,5.67,0,0,1,78.47,79.44Zm-4.13,1.64v7h2.08a2.25,2.25,0,0,0,2.23-1.57A5.54,5.54,0,0,0,79,84.49,5.06,5.06,0,0,0,78.48,82a2.18,2.18,0,0,0-2.06-.88H74.34Z" transform="translate(-15)"/><path d="M83,79.22h7.7v1.9H85.22V83.6H90v1.88H85.22V90H83V79.22Z" transform="translate(-15)"/></g>
                   </svg>
+
                 </span>
                 <a href="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" download>Flyer: Kochtreff</a>
                 </small>
               </div>
-              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Jeden 1.Mo. im Monat | 17.30 Uhr</span>
-              </div>
             </div>
           </div> <!-- c-media-block__content -->
         </div><!-- c-media-block -->
-        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
-          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
-            <div class="c-block__image-wrap ">
-              <picture class="picture">
-                <!--[if IE 9]><video style="display: none;"><![endif]-->
-                <source srcset="/wp-content/uploads/2019/03/Aktivitaeten_Kochtreff_Thema_150x100.jpg" media="(min-width: 500px)">
-                <!--[if IE 9]></video><![endif]-->
-                <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Kochtreff_Thema_500x375.jpg" alt="Anschließender Gesundheitsvortrag zu einem lebensrelevanten Thema.">
-              </picture>
-            </div>
-          </div> <!-- c-media-block__image -->
-          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
-            <div class="u-spacing c-block__group c-media-block__group ">
-              <div class="u-spacing u-width--100p">
-                <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                  <a href="https://goo.gl/maps/ZQqw1e7MEeF2" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
-                    Gesundheitsvortrag
-                  </a>
-                </h3>
-                <small>Adventgemeinde Lahr<br>
-                Geroldsecker Vorstadt. 10 <br>
-                77933 Lahr<br>
-                <span class="u-icon u-icon--s u-path-fill--gray">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-                    <title>Telefon:</title>
-                    <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
-                  </svg>
-                </span>
-                <a href="tel:+49782124157"> 24157
-                </a>
-                </small>
-              </div>
-              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Jeden 1.Mo. im Monat | 19.30 Uhr</span>
-              </div>
-            </div>
-          </div> <!-- c-media-block__content -->
-        </div> <!-- c-media-block -->
       </div><!-- c-related-posts__blocks -->
     </div>
   </div>  <!-- END RIGHT-SIDEBAR | Kochtreff in LAHR -->
@@ -249,7 +211,6 @@
 </section>
 <!-- /wp:html -->
 
-<!-- wp:html -->
 
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
 
@@ -264,5 +225,5 @@
 <!-- wp:paragraph -->
 <p><span style="font-size: 8px;">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage</span></p>
 <!-- /wp:paragraph -->
-  </section><
-  <!-- /wp:html -->
+
+</section>
