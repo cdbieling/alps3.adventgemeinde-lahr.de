@@ -108,10 +108,10 @@
       </div><!-- c-related-posts__blocks -->
     </div>
 
-    <!-- wp:spacer -->
-   <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-   <!-- /wp:spacer -->
-   <div class="c-related-posts u-spacing">
+    <div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+    <div class="c-related-posts u-spacing">
       <div class="c-block__heading u-theme--border-color--darker">
         <h3 class="c-block__heading-title u-theme--color--darker">Download Flyer</h3>
       </div>
@@ -136,11 +136,11 @@
                 </a>
                 </h3>
                 <small>Laden Sie den Flyer für das Kochtreff herunter.<br>
-                <span class="u-icon u-icon--s u-path-fill--gray">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 128">
+                <span class="u-icon u-icon--l u-path-fill--gray">
+                  <a href="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" download><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129 128">
                     <title>Download</title>
                     <defs><clipPath id="a" transform="translate(-15)"><path d="M87,0a1,1,0,0,0-1-1H16a1,1,0,0,0-1,1V127a1,1,0,0,0,1,1h96a1,1,0,0,0,1-1L114,99a1,1,0,0,0-1-1H52a1,1,0,0,1-1-1V69a1,1,0,0,1,1-1h61a1,1,0,0,0,1-1V27a1,1,0,0,0-1-1H88a1,1,0,0,1-1-1V0Z" fill="none"/></clipPath><clipPath id="b" transform="translate(-15)"><rect x="89" y="-2" width="26" height="26" rx="1" ry="1" fill="none"/></clipPath></defs><title>PDF Icon</title><g clip-path="url(#a)"><path d="M113,1a1,1,0,0,0-1-1H16a1,1,0,0,0-1,1V127a1,1,0,0,0,1,1h96a1,1,0,0,0,1-1V1Z" transform="translate(-15)"/></g><g clip-path="url(#b)"><polygon points="74 0 74 24 98 24 74 0"/></g><g style="isolation:isolate"><path d="M69.39,85.33a4.12,4.12,0,0,1-2.71.79H64.44V90H62.19V79.2h4.64a3.74,3.74,0,0,1,2.56.83,3.26,3.26,0,0,1,1,2.59A3.35,3.35,0,0,1,69.39,85.33Zm-1.72-3.89a1.82,1.82,0,0,0-1.2-.36h-2v3.18h2a1.72,1.72,0,0,0,1.2-.39,1.58,1.58,0,0,0,.43-1.23A1.49,1.49,0,0,0,67.67,81.44Z" transform="translate(-15)"/><path d="M78.47,79.44a3.56,3.56,0,0,1,1.84,1.37,4.81,4.81,0,0,1,.77,1.74,8.38,8.38,0,0,1,.21,1.79A7.18,7.18,0,0,1,80.42,88a3.91,3.91,0,0,1-3.62,2H72.15V79.2H76.8A5.67,5.67,0,0,1,78.47,79.44Zm-4.13,1.64v7h2.08a2.25,2.25,0,0,0,2.23-1.57A5.54,5.54,0,0,0,79,84.49,5.06,5.06,0,0,0,78.48,82a2.18,2.18,0,0,0-2.06-.88H74.34Z" transform="translate(-15)"/><path d="M83,79.22h7.7v1.9H85.22V83.6H90v1.88H85.22V90H83V79.22Z" transform="translate(-15)"/></g>
-                  </svg>
+                  </svg></a>
 
                 </span>
                 <a href="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" download>Flyer: Kochtreff</a>
@@ -211,19 +211,133 @@
 </section>
 <!-- /wp:html -->
 
-
+<!-- wp:html -->
+<!-- Aktuelle Gesundheitsvorträge -->
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
+    <article class="text c-article__body">
 
-<!-- wp:heading -->
-<h2>Vortragsthemen zum Thema: Gesundheit 2018</h2>
-<!-- /wp:heading -->
+      <h2 style="padding-bottom:15px;">Gesundheitsvorträge 2019</h2>
+      <table class="wp-block-table"><tbody><tr><td>Januar</td><td>- -</td></tr><tr><td>Februar</td><td>»­Einfach Traumhaft - Guter Schlaf«</td></tr><tr><td>März</td><td>»Unsere Füße tragen uns durchs Leben" Richtige Körperhaltung im Alltag und Fußgymnastik«</td></tr><tr><td>April</td><td>(noch Ausstehend)</td></tr><tr><td>Mai</td><td>(noch Ausstehend)</td></tr><tr><td>Juni</td><td>(noch Ausstehend)</td></tr><tr><td>Juli</td><td><br></td></tr><tr><td>August</td><td>- - </td></tr><tr><td>September</td><td>- - </td></tr><tr><td>Oktober</td><td></td></tr><tr><td>November</td><td></td></tr><tr><td>Dezember</td><td><br></td></tr></tbody></table>
+      <p><span style="font-size: 8px; margin-top:-10px">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage</span></p>
+    </section>
+  </div>
+</article>
+<!-- Ende aktuelle Gesdunheitsvorträge -->
+<!-- /wp:html -->
 
-<!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td>Januar</td><td>- -</td></tr><tr><td>Februar</td><td>»Besser sehen!«</td></tr><tr><td>März</td><td>»Grundregeln der Ernährung«</td></tr><tr><td>April</td><td>- - </td></tr><tr><td>Mai</td><td>»Natürliche Heilmethoden - Wasser und das Küchenkabinett­«</td></tr><tr><td>Juni</td><td>»­Wie können wir gesünder leben mit Kräuter«</td></tr><tr><td>Juli</td><td>»Beweglichkeit im Alter, Welche Voraussetzung ist notwendig in Theorie und Praxis?«</td></tr><tr><td>August</td><td>- - </td></tr><tr><td>September</td><td>- - </td></tr><tr><td>Oktober</td><td>»Die ideale Körperhaltung«</td></tr><tr><td>November</td><td>»Arbeitet das Immunsystem für oder gegen mich?«</td></tr><tr><td>Dezember</td><td>- - </td></tr></tbody></table>
-<!-- /wp:table -->
+<!-- wp:html -->
 
-<!-- wp:paragraph -->
-<p><span style="font-size: 8px;">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage</span></p>
-<!-- /wp:paragraph -->
+<!-- Gesundheitsvorträge 2018 | Buttons Show More -->
+<!-- EXPAND BLOCK -->
+<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
 
+<div class="js-this c-block__expand ">
+  <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
+    <span class="u-icon u-icon--xs u-path-fill--white">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+        <title>Gesundheitsvorträge 2018</title>
+        <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
+      </svg>
+    </span> Gesundheitsvorträge 2018
+  </button>
+
+  <div class="c-block__body u-spacing"><!-- Expanding Part-->
+    <!-- Space -->
+    <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+
+    <div class="c-related-posts u-spacing">
+      <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">Gesundheitsvorträge aus dem Jahr 2018</h3>
+      </div>
+      <div class="c-related-posts__blocks u-spacing">
+        <table class="wp-block-table"><tbody><tr><td>Januar</td><td>- -</td></tr><tr><td>Februar</td><td>»Besser sehen!«</td></tr><tr><td>März</td><td>»Grundregeln der Ernährung«</td></tr><tr><td>April</td><td>- - </td></tr><tr><td>Mai</td><td>»Natürliche Heilmethoden - Wasser und das Küchenkabinett­«</td></tr><tr><td>Juni</td><td>»­Wie können wir gesünder leben mit Kräuter«</td></tr><tr><td>Juli</td><td>»Beweglichkeit im Alter, Welche Voraussetzung ist notwendig in Theorie und Praxis?«</td></tr><tr><td>August</td><td>- - </td></tr><tr><td>September</td><td>- - </td></tr><tr><td>Oktober</td><td>»Die ideale Körperhaltung«</td></tr><tr><td>November</td><td>»Arbeitet das Immunsystem für oder gegen mich?«</td></tr><tr><td>Dezember</td><td>- - </td></tr></tbody></table>
+        <p><span style="font-size: 8px; margin-top:-10px">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage</span></p>
+      </div>
+    </div>
+  </div><!-- End of Expanding part -->
+</div> <!-- /.c-block -->
+
+
+<div class="js-this c-block__expand ">
+  <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
+    <span class="u-icon u-icon--xs u-path-fill--white">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+        <title>Gesundheitsvorträge 2017</title>
+        <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
+      </svg>
+    </span> Gesundheitsvorträge 2017
+  </button>
+
+  <div class="c-block__body u-spacing"><!-- Expanding Part-->
+    <!-- space -->
+    <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+
+    <div class="c-related-posts u-spacing">
+      <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">Gesundheitsvorträge aus dem Jahr 2017</h3>
+      </div>
+      <div class="c-related-posts__blocks u-spacing">
+        <table class="wp-block-table"><tbody><tr><td>Februar</td><td>»Säure-Basen-Balance«</td></tr><tr><td>März</td><td>»Wie kann man besser sehen mit den Augen.«</td></tr><tr><td>April</td><td>»Sonnenlicht und Gesundheit«<br></td></tr><tr><td>Juli</td><td>»ALOE VERA (barbadensis miller) <br>Jenseits der Modeerscheinung oder ihre Wirkung«</td></tr><tr><td>November</td><td>»Zehn Jahre jünger, körperlich und mentaler fitter durch Sport!«</td></tr><tr><td>Dezember</td><td>»Schlaf - Wachrythmus«</td></tr></tbody></table>
+      </div>
+    </div>
+  </div><!-- End of Expanding part -->
+</div> <!-- /.c-block -->
+
+<div class="js-this c-block__expand ">
+  <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
+    <span class="u-icon u-icon--xs u-path-fill--white">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+        <title>Gesundheitsvorträge 2016</title>
+        <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
+      </svg>
+    </span> Gesundheitsvorträge 2016
+  </button>
+
+  <div class="c-block__body u-spacing"><!-- Expanding Part-->
+    <!-- space -->
+    <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+
+    <div class="c-related-posts u-spacing">
+      <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">Gesundheitsvorträge aus dem Jahr 2016</h3>
+      </div>
+      <div class="c-related-posts__blocks u-spacing">
+        <table class="wp-block-table"><tbody><tr><td>Februar</td><td>»Sonnenlicht und Gesundheit«</td></tr><tr><td>März</td><td>»Gesunde Zähne bis ins Alter«</td></tr><tr><td>April</td><td>»Gesundheitsexpo (Siehe aktuelle Veranstaltung)«<br></td></tr><tr><td>Mai</td><td>»Darm - Schlüssel der Gesundheit und Krankheit«</td></tr><tr><td>Juni</td><td>»­Was bedeutet ganzheitliche Medizin«</td></tr><tr><td>Juli</td><td>»ALOE VERA - Modeerscheinung oder nachhaltige Hilfe für Mensch und Tier?«</td></tr><tr><td>Oktober</td><td>»Die ideale Körperhaltung«</td></tr><tr><td>November</td><td>»Fasten und Heilen - Fastenarten - Theorie und Praxis«</td></tr><tr><td>Dezember</td><td>»Kräutertee für den Geschmack und für die Gesundheit«</td></tr></tbody></table>
+      </div>
+    </div>
+  </div><!-- End of Expanding part -->
+</div> <!-- /.c-block -->
+
+
+<div class="js-this c-block__expand ">
+  <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
+    <span class="u-icon u-icon--xs u-path-fill--white">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+        <title>Kochkurs 2016</title>
+        <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
+      </svg>
+    </span> Kochkurs 2016
+  </button>
+
+  <div class="c-block__body u-spacing"><!-- Expanding Part-->
+    <!-- space -->
+    <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+
+    <div class="c-related-posts u-spacing">
+      <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">Kochkursangebot aus dem Jahr 2016</h3>
+      </div>
+      <div class="c-related-posts__blocks u-spacing">
+        <table class="wp-block-table"><tbody><tr><td  style="width:200px;">02 / 09 / 16.Mai</td><td>Montags, am 02.05, 09.05 und 16.05 um 17:30 Uhr.
+          Bei Fragen und Anmeldung, einfach anrufen unter: 07821-24751 (Esther Bieling) Flyer siehe unter: Aktuelle Veranstaltungen auf der Homepage.</td></tr></tbody></table>
+      </div>
+    </div>
+  </div><!-- End of Expanding part -->
+</div> <!-- /.c-block -->
+
+  </div>
 </section>
+
+<!-- /wp:html -->
