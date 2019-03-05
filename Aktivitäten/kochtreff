@@ -219,7 +219,7 @@
 
       <h2 style="padding-bottom:15px;">Themen der Gesundheitsvorträge 2019</h2>
       <table class="wp-block-table"><tbody><tr><td>Januar</td><td>- -</td></tr><tr><td>Februar</td><td>»­Einfach Traumhaft - Guter Schlaf«</td></tr><tr><td>März</td><td>»Unsere Füße tragen uns durchs Leben" Richtige Körperhaltung im Alltag und Fußgymnastik«</td></tr><tr><td>April</td><td>(noch Ausstehend)</td></tr><tr><td>Mai</td><td>(noch Ausstehend)</td></tr><tr><td>Juni</td><td>(noch Ausstehend)</td></tr><tr><td>Juli</td><td><br></td></tr><tr><td>August</td><td>- - </td></tr><tr><td>September</td><td>- - </td></tr><tr><td>Oktober</td><td></td></tr><tr><td>November</td><td></td></tr><tr><td>Dezember</td><td><br></td></tr></tbody></table>
-      <p><span style="font-size: 8px; margin-top:-10px">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage</span></p>
+      <p><span style="font-size: 8px;">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage</span></p>
     </section>
   </div>
 </article>
@@ -244,16 +244,13 @@
       </button>
 
       <div class="c-block__body u-spacing"><!-- Expanding Part-->
-        <!-- Space -->
-        <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
         <div class="c-related-posts u-spacing">
           <div class="c-block__heading u-theme--border-color--darker">
             <h3 class="c-block__heading-title u-theme--color--darker">Gesundheitsvorträge aus dem Jahr 2018</h3>
           </div>
-          <div class="c-related-posts__blocks u-spacing">
+          <div class="c-related-posts__blocks">
             <table class="wp-block-table"><tbody><tr><td>Januar</td><td>- -</td></tr><tr><td>Februar</td><td>»Besser sehen!«</td></tr><tr><td>März</td><td>»Grundregeln der Ernährung«</td></tr><tr><td>April</td><td>- - </td></tr><tr><td>Mai</td><td>»Natürliche Heilmethoden - Wasser und das Küchenkabinett­«</td></tr><tr><td>Juni</td><td>»­Wie können wir gesünder leben mit Kräuter«</td></tr><tr><td>Juli</td><td>»Beweglichkeit im Alter, Welche Voraussetzung ist notwendig in Theorie und Praxis?«</td></tr><tr><td>August</td><td>- - </td></tr><tr><td>September</td><td>- - </td></tr><tr><td>Oktober</td><td>»Die ideale Körperhaltung«</td></tr><tr><td>November</td><td>»Arbeitet das Immunsystem für oder gegen mich?«</td></tr><tr><td>Dezember</td><td>- - </td></tr></tbody></table>
-            <p><span style="font-size: 8px; margin-top:-10px">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage</span></p>
+            <p><span style="font-size: 8px;">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage<br><br></span></p>
           </div>
         </div>
       </div><!-- End of Expanding part -->
@@ -270,10 +267,7 @@
         </span> Gesundheitsvorträge 2017
       </button>
 
-      <div class="c-block__body u-spacing"><!-- Expanding Part-->
-        <!-- space -->
-        <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
+      <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
         <div class="c-related-posts u-spacing">
           <div class="c-block__heading u-theme--border-color--darker">
             <h3 class="c-block__heading-title u-theme--color--darker">Gesundheitsvorträge aus dem Jahr 2017</h3>
@@ -295,10 +289,7 @@
         </span> Gesundheitsvorträge 2016
       </button>
 
-      <div class="c-block__body u-spacing"><!-- Expanding Part-->
-        <!-- space -->
-        <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
+      <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
         <div class="c-related-posts u-spacing">
           <div class="c-block__heading u-theme--border-color--darker">
             <h3 class="c-block__heading-title u-theme--color--darker">Gesundheitsvorträge aus dem Jahr 2016</h3>
@@ -320,10 +311,7 @@
         </span> Kochkurs 2016
       </button>
 
-      <div class="c-block__body u-spacing"><!-- Expanding Part-->
-        <!-- space -->
-        <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
+      <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
         <div class="c-related-posts u-spacing">
           <div class="c-block__heading u-theme--border-color--darker">
             <h3 class="c-block__heading-title u-theme--color--darker">Kochkursangebot 2016</h3>
@@ -346,10 +334,7 @@
         </span> Gesundheitsvorträge 2015
       </button>
 
-      <div class="c-block__body u-spacing"><!-- Expanding Part-->
-        <!-- space -->
-        <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
+      <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
         <div class="c-related-posts u-spacing">
           <div class="c-block__heading u-theme--border-color--darker">
             <h3 class="c-block__heading-title u-theme--color--darker">Gesundheitsvorträge aus dem Jahr 2015</h3>
@@ -368,19 +353,16 @@
             <title>Gesundheitsvorträge 2014</title>
             <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
           </svg>
-        </span> Gesundheitsvorträge 2014
+        </span> Gesundheitsvorträge <2014
       </button>
 
-      <div class="c-block__body u-spacing"><!-- Expanding Part-->
-        <!-- space -->
-        <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
+      <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
         <div class="c-related-posts u-spacing">
           <div class="c-block__heading u-theme--border-color--darker">
             <h3 class="c-block__heading-title u-theme--color--darker">Gesundheitsvorträge aus dem Jahr 2014 und älter</h3>
           </div>
           <div class="c-related-posts__blocks u-spacing">
-            <table class="wp-block-table"><tbody><tr><td>Vergeben – Ihrer Gesundheit zu Liebe</td></tr><tr><td>Bewegung – Schlüssel zur Gesundheit</td></tr><tr><td>Wasser das Wunder der Natur – Güsse und Bäder</td></tr><tr><td>Kräuter innen und außen</td></tr><tr><td>Stärkung des Immunsystems</td></tr><tr><td>Was tun, wenn dringend Hilfe benötigt wird?</td></tr><tr><td>Gesundheitsvorsorge im Alltag</td></tr><tr><td>Vital und fit durch die kalte Jahreszeit</td></tr><tr><td>Gesundheitsschäden durch eine legale Droge -  ist das wahr?</td></tr><tr><td>Säure-Basen Gleichgewicht- Was tun bei Übersäuerung?</td></tr><tr><td>Gift, das wir freiwillig einnehmen. Was lösen sie aus in unserem Körper? (Alkohol)</td></tr><tr><td>Die Wirkung der Lebensmittelzusätze in unserer Ernährung</td></tr><tr><td>Unser Immunsystem – ein Wunderwerk</td></tr><tr><td>Tiefer und erholsamer Schlaf durch ändern meiner Gewohnheiten</td></tr><tr><td>Es kommt nicht darauf an, wie alt man wird, sondern wie man alt wird</td></tr><tr><td>Können wir als (Groß-)Eltern die Gesundheit unserer Kinder beeinflussen?</td></tr><tr><td>Diabetes – ein Leben lang oder gibt es Hilfe?</td></tr><tr><td>Natürliche Naturheilmittel</td></tr><tr><td>„Übergewicht?! Chance oder Last?<br></td></tr><tr><td>Ist Milch wirklich so gesund??“<br></td></tr></tbody></table>
+            <table class="wp-block-table"><tbody><tr><td>Vergeben – Ihrer Gesundheit zu Liebe</td></tr><tr><td>Bewegung – Schlüssel zur Gesundheit</td></tr><tr><td>Wasser das Wunder der Natur – Güsse und Bäder</td></tr><tr><td>Kräuter innen und außen</td></tr><tr><td>Stärkung des Immunsystems</td></tr><tr><td>Was tun, wenn dringend Hilfe benötigt wird?</td></tr><tr><td>Gesundheitsvorsorge im Alltag</td></tr><tr><td>Vital und fit durch die kalte Jahreszeit</td></tr><tr><td>Gesundheitsschäden durch eine legale Droge -  ist das wahr?</td></tr><tr><td>Säure-Basen Gleichgewicht- Was tun bei Übersäuerung?</td></tr><tr><td>Gift, das wir freiwillig einnehmen. Was lösen sie aus in unserem Körper? (Alkohol)</td></tr><tr><td>Die Wirkung der Lebensmittelzusätze in unserer Ernährung</td></tr><tr><td>Unser Immunsystem – ein Wunderwerk</td></tr><tr><td>Tiefer und erholsamer Schlaf durch ändern meiner Gewohnheiten</td></tr><tr><td>Es kommt nicht darauf an, wie alt man wird, sondern wie man alt wird</td></tr><tr><td>Können wir als (Groß-)Eltern die Gesundheit unserer Kinder beeinflussen?</td></tr><tr><td>Diabetes – ein Leben lang oder gibt es Hilfe?</td></tr><tr><td>Natürliche Naturheilmittel</td></tr><tr><td>Übergewicht?! Chance oder Last?<br></td></tr><tr><td>Ist Milch wirklich so gesund??“<br></td></tr></tbody></table>
           </div>
         </div>
       </div><!-- End of Expanding part -->

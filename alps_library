@@ -1,7 +1,7 @@
 
-<!-- Line:25     Media Block Inline -->
-<!-- Line:70     Testemonies -->
-<!-- Line:     Media Block Inline -->
+<!-- Line:25     1.Media Block Inline -->
+<!-- Line:70     2.Testemonies -->
+<!-- Line:145     3,Expand Block "Show-more" -->
 <!-- Line:     Media Block Inline -->
 <!-- Line:     Media Block Inline -->
 <!-- Line:     Media Block Inline -->
@@ -66,8 +66,8 @@
 -->
 
 
-<!--- 2. TESTEMONIES --->
-<!--- 2. TESTEMONIES --->
+<!---    - 2. TESTEMONIES -      -->
+<!-- --------------------------  -->
 <section class="c-testimonies u-spacing u-posititon--relative">
   <div class="c-block__heading u-theme--border-color--darker u-space--double--bottom">
     <h3 class="c-block__heading-title u-theme--color--darker">Testimonies</h3>
@@ -141,3 +141,74 @@
       </div>
    <a href="" class="o-button  u-space--left">Share your testimony!</a>
  </section> <!-- /.testimonies -->
+
+ <!-- 3, SHOW MOre - Expand-Button-->
+ <!-- --------------------------  -->
+ <!-- END RIGHT-SIDEBAR | Bibelkreis in Kappel-Grafenhausen -->
+ <!-- RIGHT-SIDEBAR | Buttons for more Bibelkreise in der Ortenau -->
+ <!-- EXPAND BLOCK -->
+ <div class="js-this c-block__expand ">
+   <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
+     <span class="u-icon u-icon--xs u-path-fill--white">
+       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+         <title>Rust</title>
+         <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
+       </svg>
+     </span> Rust
+   </button>
+
+   <div class="c-block__body u-spacing"><!-- Expanding Part-->
+     <!-- RIGHT-SIDEBAR | Rust -->
+
+     <!-- wp:spacer -->
+     <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+     <!-- /wp:spacer -->
+
+     <div class="c-related-posts u-spacing">
+       <div class="c-block__heading u-theme--border-color--darker">
+         <h3 class="c-block__heading-title u-theme--color--darker">Bibelkreise in Rust</h3>
+       </div>
+       <div class="c-related-posts__blocks u-spacing">
+         <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+           <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
+             <div class="c-block__image-wrap ">
+               <picture class="picture">
+                 <!--[if IE 9]><video style="display: none;"><![endif]-->
+                 <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Rust_150x100.jpg" media="(min-width: 500px)">
+                 <!--[if IE 9]></video><![endif]-->
+                 <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Rust_500x375.jpg" alt="Alt Text">
+               </picture>
+             </div>
+           </div> <!-- c-media-block__image -->
+           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+             <div class="u-spacing c-block__group c-media-block__group ">
+               <div class="u-spacing u-width--100p">
+                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+                 <a href="https://goo.gl/maps/Af6eqyH2ep62" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
+                 Bibelkreis mit Fam. Utz
+                 </a>
+                 </h3>
+                 <small>Hinter den Gärten 12<br>
+                 77977 Rust<br>
+                 <span class="u-icon u-icon--s u-path-fill--gray">
+                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                     <title>Telefon</title>
+                     <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
+                   </svg>
+                 </span>
+                 <a href="tel:+‭49782261165"> 07822-61165</a>
+                 </small>
+               </div>
+               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                 <span class="c-block__category u-text-transform--upper">Jeden Do. | 19.00 Uhr</span>
+               </div>
+             </div>
+           </div> <!-- c-media-block__content -->
+         </div><!-- c-media-block -->
+       </div>
+     </div>
+     <!-- END RIGHT-SIDEBAR | Bibelkreis in Kappel-Grafenhausen -->
+   </div><!-- End of Expanding part -->
+ </div> <!-- /.c-block -->
+
+ <!-- End of Show-More -->
