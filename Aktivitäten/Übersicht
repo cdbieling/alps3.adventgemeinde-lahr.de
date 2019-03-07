@@ -1,5 +1,5 @@
 <!-- // Aktivitäten -->
-<!-- Section Bibelkreis -->
+<!-- Section Gottesdienst -->
 <!-- wp:html -->
 <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
   <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
@@ -11,35 +11,36 @@
         <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Gottesdienst_300x300_1.jpg" media="(min-width: 500px)">
         <!--[if IE 9]></video><![endif]-->
         <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_Gottesdienst_300x300_1.jpg" alt="Gott anbeten und mit Freuden begegnen ">
-        </picture>
+      </picture>
+    </div>
+  </div> <!-- c-media-block__image -->
+  <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="u-spacing c-block__group c-media-block__group ">
+      <div class="u-spacing u-width--100p">
+        <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Gottesdienst</h4>
+        <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+          <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
+            Gott mit Freuden begegnen
+          </a>
+        </h3>
       </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Gottesdienst</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
-              Gott mit Freuden begegnen
-              </a>
-            </h3>
-          </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Jede Woche</span>
-          <time class="c-block__date u-text-transform--upper" datetime="Samstags">Sabbats | 9:30 Uhr </time>
-          </div>
-        <a href="/aktivitaeten/gottesdienst" class="c-block__button o-button o-button--outline">Mehr erfahren
+      <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+        <span class="c-block__category u-text-transform--upper">Jede Woche</span>
+        <time class="c-block__date u-text-transform--upper" datetime="Samstags">Sabbats | 9:30 Uhr </time>
+      </div>
+      <a href="/aktivitaeten/gottesdienst" class="c-block__button o-button o-button--outline">Mehr erfahren
         <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
             <title>Gottesdienst</title>
             <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
           </svg>
-        </span></a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div>
+        </span>
+      </a>
+    </div>
+  </div> <!-- c-media-block__content -->
+</div>
 <!-- /wp:html -->
-<!-- END Section Bibelkreis -->
+<!-- END Section Gottesdienst -->
 <!-- wp:spacer -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
@@ -56,38 +57,40 @@
         <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Bibelkreise_300x300_1.jpg" media="(min-width: 500px)">
         <!--[if IE 9]></video><![endif]-->
         <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_Bibelkreise_300x300_1.jpg" alt="Gemeinsam die Bibel studieren">
-        </picture>
+      </picture>
+    </div>
+  </div> <!-- c-media-block__image -->
+  <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="u-spacing c-block__group c-media-block__group ">
+      <div class="u-spacing u-width--100p">
+        <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Bibelkreise</h4>
+        <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+          <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
+            Gemeinsam die Bibel studieren
+          </a>
+        </h3>
       </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Bibelkreise</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
-              Gemeinsam die Bibel studieren
-              </a>
-            </h3>
-          </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Jede Woche</span>
-          <time class="c-block__date u-text-transform--upper" datetime="Monday">Mo. | Di. </time>
-          </div>
-        <a href="/aktivitaeten/bibelkreise" class="c-block__button o-button o-button--outline">Mehr erfahren
+      <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+        <span class="c-block__category u-text-transform--upper">Jede Woche</span>
+        <time class="c-block__date u-text-transform--upper" datetime="Monday">Mo. | Di. </time>
+      </div>
+      <a href="/aktivitaeten/bibelkreise" class="c-block__button o-button o-button--outline">Mehr erfahren
         <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
             <title>Bibelkreise in Lahr und Umgebung</title>
             <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
           </svg>
-        </span></a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div>
+        </span>
+      </a>
+    </div>
+  </div> <!-- c-media-block__content -->
+</div>
 <!-- /wp:html -->
 <!-- END Section Bibelkreis -->
 <!-- wp:spacer -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
+
 <!-- Section Kellerstube -->
 <!-- wp:html -->
 <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
@@ -100,38 +103,39 @@
         <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Kellerstube_300x300.jpg" media="(min-width: 500px)">
         <!--[if IE 9]></video><![endif]-->
         <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_Kellerstube_300x300.jpg" alt="Gemeinsamschaft haben">
-        </picture>
+      </picture>
+    </div>
+  </div> <!-- c-media-block__image -->
+  <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="u-spacing c-block__group c-media-block__group ">
+      <div class="u-spacing u-width--100p">
+        <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Kellerstube</h4>
+        <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+          <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
+            Gemeinsam den Sabbat ausklingen lassen
+          </a>
+        </h3>
       </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Kellerstube</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
-              Gemeinsam den Sabbat ausklingen lassen
-              </a>
-            </h3>
-          </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Jede Woche</span>
-          <time class="c-block__date u-text-transform--upper" datetime="Monday">Sa. Abend </time>
-          </div>
-        <a href="/aktivitaeten/kellerstube" class="c-block__button o-button o-button--outline">Mehr erfahren
-        <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-            <title>Kellerstube</title>
-            <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
-          </svg>
-        </span></a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div>
+      <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+        <span class="c-block__category u-text-transform--upper">Jede Woche | 18:00 Uhr</span>
+        <time class="c-block__date u-text-transform--upper" datetime="Monday">Sa. Abend </time>
+        </div>
+      <a href="/aktivitaeten/kellerstube" class="c-block__button o-button o-button--outline">Mehr erfahren
+      <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+          <title>Kellerstube</title>
+          <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
+        </svg>
+      </span></a>
+    </div>
+  </div> <!-- c-media-block__content -->
+</div>
 <!-- /wp:html -->
 <!-- END Section Kellerstube -->
 <!-- wp:spacer -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
+
 <!-- Section Kochtreff -->
 <!-- wp:html -->
 <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
@@ -144,32 +148,76 @@
         <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Kochtreff_300x300_1.jpg" media="(min-width: 500px)">
         <!--[if IE 9]></video><![endif]-->
         <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_Kochtreff_300x300_1.jpg" alt="Gemeinsam kochen">
-        </picture>
+      </picture>
+    </div>
+  </div> <!-- c-media-block__image -->
+  <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="u-spacing c-block__group c-media-block__group ">
+      <div class="u-spacing u-width--100p">
+        <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Kochtreff</h4>
+        <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+          <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
+            Miteinander kochen
+          </a>
+        </h3>
       </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Kochtreff</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
-              Miteinander kochen
-              </a>
-            </h3>
-          </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Jeden Monat</span>
-          <time class="c-block__date u-text-transform--upper" datetime="Monday">1.Montag | 18:00 Uhr</time>
-          </div>
-        <a href="/aktivitaeten/kochtreff" class="c-block__button o-button o-button--outline">Mehr erfahren
+      <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+        <span class="c-block__category u-text-transform--upper">Jeden Monat</span>
+        <time class="c-block__date u-text-transform--upper" datetime="Monday">1.Montag | 18:00 Uhr</time>
+        </div>
+      <a href="/aktivitaeten/kochtreff" class="c-block__button o-button o-button--outline">Mehr erfahren
         <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
             <title>Kochkurs</title>
             <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
           </svg>
-        </span></a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div>
+        </span>
+      </a>
+    </div>
+  </div> <!-- c-media-block__content -->
+</div>
 <!-- /wp:html -->
 <!-- END Section Kochtreff -->
+
+<!-- Section Jugendtreff -->
+<!-- wp:html -->
+<div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+    <div class="c-block__image-wrap u-round u-space--left">
+      <picture class="picture">
+        <!--[if IE 9]><video style="display: none;"><![endif]-->
+        <source srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_300x300_1.jpg" media="(min-width: 1000px)">
+        <source srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_300x300_1.jpg" media="(min-width: 700px)">
+        <source srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_300x300_1.jpg" media="(min-width: 500px)">
+        <!--[if IE 9]></video><![endif]-->
+        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_300x300_1.jpg" alt="Gemeinsam kochen">
+      </picture>
+    </div>
+  </div> <!-- c-media-block__image -->
+  <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="u-spacing c-block__group c-media-block__group ">
+      <div class="u-spacing u-width--100p">
+        <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Jugendtreff</h4>
+        <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+          <a href="/aktivitaeten/bibelkreise" class="c-block__title-link u-theme--link-hover--dark">
+            Gemeinsam mit Jugendlichen geistlich wachsen
+          </a>
+        </h3>
+      </div>
+      <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+        <span class="c-block__category u-text-transform--upper">Jede Woche</span>
+        <time class="c-block__date u-text-transform--upper" datetime="Monday">Sabbats | 16:00 Uhr</time>
+        </div>
+      <a href="/aktivitaeten/jugendtreff" class="c-block__button o-button o-button--outline">Mehr erfahren
+        <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+            <title>Jugendtreff</title>
+            <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
+          </svg>
+        </span>
+      </a>
+    </div>
+  </div> <!-- c-media-block__content -->
+</div>
+<!-- /wp:html -->
+<!-- END Section Jugendtreff -->
