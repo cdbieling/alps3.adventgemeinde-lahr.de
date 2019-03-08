@@ -1,19 +1,30 @@
 Wichtige Elemente für ALPS:
 
 
-GIRD-CLUSTER:
-Showing Content on 5 Grids.
-Showing it from grid-2 to grid-6
+// GIRD-CLUSTER:
+// Showing Content on 5 Grids.
+// Showing it from grid-2 to grid-6
 
 <div class="l-grid l-grid--6-col l-grid-wrap--5-of-7">
-</div>
 
 
+// Showing it from 1st grid to 6th Grids
+<div class="l-grid--7-col l-grid-wrap--6-of-7">
 
-SPACING:
+// moving it one to the RIGHT
+l-grid--7-col u-shift--left--1-col--at-large
+
+// SPACING:
+u-spacing--double
 u-spacing--triple
 
 
 
-wrapping:
+// wrapping:
 l-grid l-grid--6-col l-grid-wrap--5-of-7
+
+// putting content into Grids
+l-grid
+
+// formatting Text
+<div class="text u-spacing">
