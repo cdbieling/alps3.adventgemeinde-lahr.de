@@ -58,3 +58,7 @@ Zitate:
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p>Zitattext</p><cite>Zitatquelle</cite></blockquote>
 <!-- /wp:quote -->
+
+HTML:
+<!-- wp:html -->
+<!-- /wp:html -->
