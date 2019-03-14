@@ -1,17 +1,95 @@
 
-<!-- Line:     1. Atoms --> 2.9 Text ---> 1.9.1 Blockquote -->
-<!-- Line:     2. Molecules --> 2.1 Blocks ---> 2.1.7 Media Block Inline -->
-<!-- Line:     2. Molecules --> 2.5 Navigation ---> 2.5.1 Breadcrumps -->
-<!-- Line:     3. Organisms --> 3.2 Content --> 3.2.4 Body-Content Kategorieübersicht rund  -->
-<!-- Line:     3. Organisms --> 3.2 Content --> 3.2.4 Body-Content Kategorieübersicht quadratisch  -->
-<!-- Line:     3. Organisms --> 3.4 Sections --> 3.4.11 Testemonies -->
+1. Atoms      --> 1.1 Buttons     ---> 1.1.7 Button Toggle ("Show-more")                -->
+1. Atoms      --> 1.9 Text        ---> 1.9.1 Blockquote                                 -->
+2. Molecules  --> 2.1 Blocks      ---> 2.1.7 Media Block Inline                         -->
+2. Molecules  --> 2.5 Navigation  ---> 2.5.1 Breadcrumps                                -->
+3. Organisms  --> 3.1 Asides      ---> 3.1.2+ Related Posts                              -->
+3. Organisms  --> 3.2 Content     ---> 3.2.4 Body-Content Kategorieübersicht round      -->
+3. Organisms  --> 3.2 Content     ---> 3.2.4 Body-Content Kategorieübersicht square     -->
+3. Organisms  --> 3.4 Sections    ---> 3.4.11 Testemonies                               -->
 
 <!-- Line:       -->
 <!-- Line:       -->
-<!-- Line:     4. Right Sidebar -->
-<!-- Line:     4. Expand Block "Show-more" -->
 
 
+<!-- 1. Atoms      --> 1.1 Buttons     ---> 1.1.7 Special Button Toggle ("Show-more") -->
+<a href="" class="o-button o-button--outline o-button--toggle o-button--small js-toggle">
+  <span class="u-icon u-icon--xs u-path-fill--white">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>o-icon__plus</title><path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/></svg>
+  </span>
+</a>
+
+
+<!-- 1. Atoms      --> 1.1 Buttons     ---> 1.1.7+ Special Button Toggle ("Show-more") -->
+<!-- --------------------------  -->
+
+<!-- END RIGHT-SIDEBAR | Bibelkreis in Kappel-Grafenhausen -->
+<!-- RIGHT-SIDEBAR | Buttons for more Bibelkreise in der Ortenau -->
+<!-- EXPAND BLOCK -->
+<div class="js-this c-block__expand ">
+  <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
+    <span class="u-icon u-icon--xs u-path-fill--white">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+        <title>Rust</title>
+        <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
+      </svg>
+    </span> Rust
+  </button>
+
+  <div class="c-block__body u-spacing"><!-- Expanding Part-->
+    <!-- RIGHT-SIDEBAR | Rust -->
+
+    <!-- wp:spacer -->
+    <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+
+    <div class="c-related-posts u-spacing">
+      <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">Bibelkreise in Rust</h3>
+      </div>
+      <div class="c-related-posts__blocks u-spacing">
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap ">
+              <picture class="picture">
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Rust_150x100.jpg" media="(min-width: 500px)">
+                <!--[if IE 9]></video><![endif]-->
+                <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Rust_500x375.jpg" alt="Alt Text">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group ">
+              <div class="u-spacing u-width--100p">
+                <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+                <a href="https://goo.gl/maps/Af6eqyH2ep62" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
+                Bibelkreis mit Fam. Utz
+                </a>
+                </h3>
+                <small>Hinter den Gärten 12<br>
+                77977 Rust<br>
+                <span class="u-icon u-icon--s u-path-fill--gray">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                    <title>Telefon</title>
+                    <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
+                  </svg>
+                </span>
+                <a href="tel:+‭49782261165"> 07822-61165</a>
+                </small>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper">Jeden Do. | 19.00 Uhr</span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div><!-- c-media-block -->
+      </div>
+    </div>
+    <!-- END RIGHT-SIDEBAR | Bibelkreis in Kappel-Grafenhausen -->
+  </div><!-- End of Expanding part -->
+</div> <!-- /.c-block -->
+<!-- End of Show-More -->
 
 
 <!-- 1.9.1 Blockquote            -->
@@ -31,6 +109,7 @@
 
 <!--- 2.1.7 Media Block Inline --->
 <!-- 2. Molecules --> 2.1 Blocks ---> 2.1.7 Media Block Inline -->
+
 <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">
     <div class="c-media-block__image c-block__image l-grid-item u-padding--zero--sides">
         <div class="c-block__image-wrap ">
@@ -71,6 +150,157 @@
   </div>
 </article>
 -->
+
+
+!-- 3.1.2 Related Posts -->
+<!-- 3. Organisms --> 3.1 Asides ---> 3.1.2 Related Stories+ -->
+<div class="c-related-posts u-spacing">
+  <div class="c-block__heading u-theme--border-color--darker">
+    <h3 class="c-block__heading-title u-theme--color--darker">Related Stories</h3>
+  </div>
+  <div class="c-related-posts__blocks u-spacing">
+    <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+      <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source srcset="//picsum.photos/150/100/?random" media="(min-width: 500px)">
+          <!--[if IE 9]></video><![endif]-->
+          <img itemprop="image" srcset="//picsum.photos/500/375/?random" alt="Alt Text">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+              <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+                Mauris at ante laoreet, gravida odio gravida, fermentum lectus
+              </a>
+            </h3>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Culture</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+    <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+      <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source srcset="//picsum.photos/150/100/?random?water" media="(min-width: 500px)">
+          <!--[if IE 9]></video><![endif]-->
+          <img itemprop="image" srcset="//picsum.photos/500/375/?random?water" alt="Alt Text">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+              <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+                Proin sed nisl ac velit aliquam euismod non tincidunt lectus
+              </a>
+            </h3>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Culture</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+  </div>
+</div>
+
+
+<!-- 3. Organisms --> 3.1 Asides ---> 3.1.2+ Related Stories+ -->
+
+<div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
+  <!-- RIGHT-SIDEBAR | Bibelkreis in LAHR -->
+  <div class="c-related-posts u-spacing">
+    <div class="c-block__heading u-theme--border-color--darker">
+      <h3 class="c-block__heading-title u-theme--color--darker">Bibelkreise in Lahr</h3>
+    </div>
+    <div class="c-related-posts__blocks u-spacing">
+      <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+        <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr1_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr1_500x375.jpg" alt="Alt Text">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+          <div class="u-spacing c-block__group c-media-block__group ">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+              <a href="https://goo.gl/maps/ZQqw1e7MEeF2" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
+              Bibelkreis in der Gemeinde
+              </a>
+              </h3>
+              <small>Geroldsecker Vorstadt 10<br>
+              77933 Lahr<br>
+              <span class="u-icon u-icon--s u-path-fill--gray">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                  <title>Telefon</title>
+                  <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
+                </svg>
+              </span>
+              <a href="tel:+49782124751"> 24751</a>
+              </small>
+            </div>
+            <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+              <span class="c-block__category u-text-transform--upper">Jeden Mo. | 19.00 Uhr</span>
+            </div>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div><!-- c-media-block -->
+      <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+        <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr2_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr2_500x375.jpg" alt="Alt Text">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+          <div class="u-spacing c-block__group c-media-block__group ">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+                <a href="https://goo.gl/maps/aRyjrRGMUDT2" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
+                  Bibelkreis mit Fam. Lachmann
+                </a>
+              </h3>
+              <small>Weiherstr. 18 <br>
+              77933 Lahr<br>
+              <span class="u-icon u-icon--s u-path-fill--gray">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                  <title>Telefon:</title>
+                  <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
+                </svg>
+              </span>
+              <a href="tel:+49782124157"> 24157
+              </a>
+              </small>
+            </div>
+            <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+              <span class="c-block__category u-text-transform--upper">Jeden Di. | 20.00 Uhr</span>
+            </div>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+    </div>
+  </div>
+  <!-- END RIGHT-SIDEBAR | Bibelkreis in LAHR -->
+  <!-- End of RIGHT-SIDEBAR -->
 
 
 <!-- 3.2.4 Content - Kategorieübersicht rund-->
@@ -239,166 +469,3 @@
       </div>
    <a href="" class="o-button  u-space--left">Share your testimony!</a>
  </section> <!-- /.testimonies -->
-
-
- <!-- 4. SHOW MORE - Expand-Button-->
- <!-- --------------------------  -->
-
- <!-- END RIGHT-SIDEBAR | Bibelkreis in Kappel-Grafenhausen -->
- <!-- RIGHT-SIDEBAR | Buttons for more Bibelkreise in der Ortenau -->
- <!-- EXPAND BLOCK -->
- <div class="js-this c-block__expand ">
-   <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
-     <span class="u-icon u-icon--xs u-path-fill--white">
-       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-         <title>Rust</title>
-         <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
-       </svg>
-     </span> Rust
-   </button>
-
-   <div class="c-block__body u-spacing"><!-- Expanding Part-->
-     <!-- RIGHT-SIDEBAR | Rust -->
-
-     <!-- wp:spacer -->
-     <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-     <!-- /wp:spacer -->
-
-     <div class="c-related-posts u-spacing">
-       <div class="c-block__heading u-theme--border-color--darker">
-         <h3 class="c-block__heading-title u-theme--color--darker">Bibelkreise in Rust</h3>
-       </div>
-       <div class="c-related-posts__blocks u-spacing">
-         <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
-           <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
-             <div class="c-block__image-wrap ">
-               <picture class="picture">
-                 <!--[if IE 9]><video style="display: none;"><![endif]-->
-                 <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Rust_150x100.jpg" media="(min-width: 500px)">
-                 <!--[if IE 9]></video><![endif]-->
-                 <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Rust_500x375.jpg" alt="Alt Text">
-               </picture>
-             </div>
-           </div> <!-- c-media-block__image -->
-           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
-             <div class="u-spacing c-block__group c-media-block__group ">
-               <div class="u-spacing u-width--100p">
-                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                 <a href="https://goo.gl/maps/Af6eqyH2ep62" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
-                 Bibelkreis mit Fam. Utz
-                 </a>
-                 </h3>
-                 <small>Hinter den Gärten 12<br>
-                 77977 Rust<br>
-                 <span class="u-icon u-icon--s u-path-fill--gray">
-                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-                     <title>Telefon</title>
-                     <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
-                   </svg>
-                 </span>
-                 <a href="tel:+‭49782261165"> 07822-61165</a>
-                 </small>
-               </div>
-               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                 <span class="c-block__category u-text-transform--upper">Jeden Do. | 19.00 Uhr</span>
-               </div>
-             </div>
-           </div> <!-- c-media-block__content -->
-         </div><!-- c-media-block -->
-       </div>
-     </div>
-     <!-- END RIGHT-SIDEBAR | Bibelkreis in Kappel-Grafenhausen -->
-   </div><!-- End of Expanding part -->
- </div> <!-- /.c-block -->
-
- <!-- End of Show-More -->
-
- <!-- 4. Right Sidebar -->
- <!-- --------------------------  -->
-
- <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
-   <!-- RIGHT-SIDEBAR | Bibelkreis in LAHR -->
-   <div class="c-related-posts u-spacing">
-     <div class="c-block__heading u-theme--border-color--darker">
-       <h3 class="c-block__heading-title u-theme--color--darker">Bibelkreise in Lahr</h3>
-     </div>
-     <div class="c-related-posts__blocks u-spacing">
-       <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
-         <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
-           <div class="c-block__image-wrap ">
-             <picture class="picture">
-               <!--[if IE 9]><video style="display: none;"><![endif]-->
-               <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr1_150x100.jpg" media="(min-width: 500px)">
-               <!--[if IE 9]></video><![endif]-->
-               <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr1_500x375.jpg" alt="Alt Text">
-             </picture>
-           </div>
-         </div> <!-- c-media-block__image -->
-         <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
-           <div class="u-spacing c-block__group c-media-block__group ">
-             <div class="u-spacing u-width--100p">
-               <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-               <a href="https://goo.gl/maps/ZQqw1e7MEeF2" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
-               Bibelkreis in der Gemeinde
-               </a>
-               </h3>
-               <small>Geroldsecker Vorstadt 10<br>
-               77933 Lahr<br>
-               <span class="u-icon u-icon--s u-path-fill--gray">
-                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-                   <title>Telefon</title>
-                   <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
-                 </svg>
-               </span>
-               <a href="tel:+49782124751"> 24751</a>
-               </small>
-             </div>
-             <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-               <span class="c-block__category u-text-transform--upper">Jeden Mo. | 19.00 Uhr</span>
-             </div>
-           </div>
-         </div> <!-- c-media-block__content -->
-       </div><!-- c-media-block -->
-       <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
-         <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
-           <div class="c-block__image-wrap ">
-             <picture class="picture">
-               <!--[if IE 9]><video style="display: none;"><![endif]-->
-               <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr2_150x100.jpg" media="(min-width: 500px)">
-               <!--[if IE 9]></video><![endif]-->
-               <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr2_500x375.jpg" alt="Alt Text">
-             </picture>
-           </div>
-         </div> <!-- c-media-block__image -->
-         <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
-           <div class="u-spacing c-block__group c-media-block__group ">
-             <div class="u-spacing u-width--100p">
-               <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                 <a href="https://goo.gl/maps/aRyjrRGMUDT2" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
-                   Bibelkreis mit Fam. Lachmann
-                 </a>
-               </h3>
-               <small>Weiherstr. 18 <br>
-               77933 Lahr<br>
-               <span class="u-icon u-icon--s u-path-fill--gray">
-                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-                   <title>Telefon:</title>
-                   <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
-                 </svg>
-               </span>
-               <a href="tel:+49782124157"> 24157
-               </a>
-               </small>
-             </div>
-             <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-               <span class="c-block__category u-text-transform--upper">Jeden Di. | 20.00 Uhr</span>
-             </div>
-           </div>
-         </div> <!-- c-media-block__content -->
-       </div> <!-- c-media-block -->
-     </div>
-   </div>
-   <!-- END RIGHT-SIDEBAR | Bibelkreis in LAHR -->
-
-   <!-- --------------------------  -->
-   <!-- End of RIGHT-SIDEBAR -->
