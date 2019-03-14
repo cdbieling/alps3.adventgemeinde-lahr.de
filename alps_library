@@ -1,27 +1,36 @@
 
-<!-- Line:25     1.Media Block Inline -->
-<!-- Line:70     2.Testemonies -->
-<!-- Line:145    3.Expand Block "Show-more" -->
-<!-- Line:216    4.Right Sidebar -->
-<!-- Line:     5.Blockquote -->
+<!-- Line:     1. Atoms --> 2.9 Text ---> 1.9.1 Blockquote -->
+<!-- Line:     2. Molecules --> 2.1 Blocks ---> 2.1.7 Media Block Inline -->
+<!-- Line:     2. Molecules --> 2.5 Navigation ---> 2.5.1 Breadcrumps -->
 <!-- Line:     3. Organisms --> 3.2 Content --> 3.2.4 Body-Content Kategorieübersicht rund  -->
 <!-- Line:     3. Organisms --> 3.2 Content --> 3.2.4 Body-Content Kategorieübersicht quadratisch  -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
-<!-- Line:     Media Block Inline -->
+<!-- Line:     3. Organisms --> 3.4 Sections --> 3.4.11 Testemonies -->
+
+<!-- Line:       -->
+<!-- Line:       -->
+<!-- Line:     4. Right Sidebar -->
+<!-- Line:     4. Expand Block "Show-more" -->
 
 
-<!--- Media Block Inline --->
-<!--- Media Block Inline --->
+
+
+<!-- 1.9.1 Blockquote            -->
+<!-- 1. Atoms --> 2.9 Text ---> 1.9.1 Blockquote -->
+<!-- --------------------------  -->
+
+  <div class="o-pullquote--extended">
+     <blockquote class="pullquote u-theme--border-color--darker--left u-theme--color--darker u-padding--right">
+     <p>Gesundheit ist ein Segen, den nur wenige zu schätzen wissen; und doch hängt von ihr weitgehend unsere geistige und körperliche Leistungsfähigkeit ab.</p>
+     <cite class="o-citation u-theme--color--base">Lernen Sie Prizipien kennen, die für Ihre Gesundheit wichtig sind.</cite>
+     </blockquote> <!-- /.pullquote -->
+  </div>
+
+<!-- --------------------------  -->
+<!-- End of Blockquote -->
+
+
+<!--- 2.1.7 Media Block Inline --->
+<!-- 2. Molecules --> 2.1 Blocks ---> 2.1.7 Media Block Inline -->
 <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">
     <div class="c-media-block__image c-block__image l-grid-item u-padding--zero--sides">
         <div class="c-block__image-wrap ">
@@ -52,8 +61,6 @@
 </div><!-- c-media-block -->
 
 
-
-
 <!-- Optional: -->
 <!--
 
@@ -66,7 +73,98 @@
 -->
 
 
-<!---    - 2. TESTEMONIES -      -->
+<!-- 3.2.4 Content - Kategorieübersicht rund-->
+<!-- --------------------------  -->
+
+<section class="c-section c-section__blocks u-spacing--double">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+      <div class="c-block__image-wrap u-round u-space--left">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source srcset="//picsum.photos/300/300/?random" media="(min-width: 1000px)">
+          <source srcset="//picsum.photos/200/200/?random" media="(min-width: 700px)">
+          <source srcset="//picsum.photos/150/150/?random" media="(min-width: 500px)">
+          <!--[if IE 9]></video><![endif]-->
+          <img itemprop="image" srcset="//picsum.photos/150/150/?random" alt="Alt Text">
+        </picture>
+      </div>
+    </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+      <div class="u-spacing c-block__group c-media-block__group ">
+        <div class="u-spacing u-width--100p">
+          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Culture</h4>
+          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+              Adventist leaders call for international cooperation to end abuse of refugees in Libya
+            </a>
+          </h3>
+        </div>
+        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+          <span class="c-block__category u-text-transform--upper">Culture</span>
+          <time class="c-block__date u-text-transform--upper" datetime="2016-12-12">Mar 28, 2016</time>
+        </div>
+        <a href="" class="c-block__button o-button o-button--outline">Learn More
+          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+            <title>o-arrow__long--left</title>
+            <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/></svg>
+          </span>
+        </a>
+      </div>
+    </div> <!-- c-media-block__content -->
+  </div> <!-- c-media-block -->
+</section>
+
+
+<!-- 3.2.4 Content - Kategorieübersicht eckig-->
+<!-- --------------------------  -->
+<section class="c-section c-section__blocks u-spacing--double">
+
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+      <div class="c-block__image-wrap ">
+        <picture class="picture">
+        <!--[if IE 9]><video style="display: none;"><![endif]-->
+        <source srcset="//picsum.photos/300/300/?random" media="(min-width: 1000px)">
+        <source srcset="//picsum.photos/200/200/?random" media="(min-width: 700px)">
+        <source srcset="//picsum.photos/150/150/?random" media="(min-width: 500px)">
+        <!--[if IE 9]></video><![endif]-->
+        <img itemprop="image" srcset="//picsum.photos/600/330/?random" alt="Alt Text">
+        </picture>
+      </div>
+    </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+      <div class="u-spacing c-block__group c-media-block__group ">
+        <div class="u-spacing u-width--100p">
+          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Culture</h4>
+          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            Adventist leaders call for international cooperation to end abuse of refugees in Libya
+            </a>
+          </h3>
+        </div>
+        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+          <span class="c-block__category u-text-transform--upper">Culture</span>
+          <time class="c-block__date u-text-transform--upper" datetime="2016-12-12">Mar 28, 2016</time>
+        </div>
+        <a href="" class="c-block__button o-button o-button--outline">Learn More
+          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <title>o-arrow__long--left</title>
+              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div> <!-- c-media-block__content -->
+  </div> <!-- c-media-block -->
+
+</section>
+
+
+<!--     3.4.11 TESTEMONIES      -->
+<!-- 3. Organisms --> 3.4 Sections --> 3.4.11 Testemonies -->
 <!-- --------------------------  -->
 <section class="c-testimonies u-spacing u-posititon--relative">
   <div class="c-block__heading u-theme--border-color--darker u-space--double--bottom">
@@ -142,8 +240,10 @@
    <a href="" class="o-button  u-space--left">Share your testimony!</a>
  </section> <!-- /.testimonies -->
 
- <!-- 3, SHOW MOre - Expand-Button-->
+
+ <!-- 4. SHOW MORE - Expand-Button-->
  <!-- --------------------------  -->
+
  <!-- END RIGHT-SIDEBAR | Bibelkreis in Kappel-Grafenhausen -->
  <!-- RIGHT-SIDEBAR | Buttons for more Bibelkreise in der Ortenau -->
  <!-- EXPAND BLOCK -->
@@ -213,9 +313,8 @@
 
  <!-- End of Show-More -->
 
- <!-- 3. Right Sidebar-->
+ <!-- 4. Right Sidebar -->
  <!-- --------------------------  -->
- <!-- RIGHT-SIDEBAR |  -->
 
  <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
    <!-- RIGHT-SIDEBAR | Bibelkreis in LAHR -->
@@ -303,18 +402,3 @@
 
    <!-- --------------------------  -->
    <!-- End of RIGHT-SIDEBAR -->
-
-   <!-- 5. Blockquote-->
-   <!-- --------------------------  -->
-  <div class="o-pullquote--extended">
-     <blockquote class="pullquote u-theme--border-color--darker--left u-theme--color--darker u-padding--right">
-     <p>Gesundheit ist ein Segen, den nur wenige zu schätzen wissen; und doch hängt von ihr weitgehend unsere geistige und körperliche Leistungsfähigkeit ab.</p>
-     <cite class="o-citation u-theme--color--base">Lernen Sie Prizipien kennen, die für Ihre Gesundheit wichtig sind.</cite>
-     </blockquote> <!-- /.pullquote -->
-  </div>
-     <!-- --------------------------  -->
-     <!-- End of Blockquote -->
-
-     <!-- 3.2.4. Content - Kategorieübersicht rund-->
-     <!-- --------------------------  -->
-     
