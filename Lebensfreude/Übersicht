@@ -21,7 +21,7 @@
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            <a href="/lebensfreude/sonnenschein" class="c-block__title-link u-theme--link-hover--dark">
             1.Sonne
             </a>
           </h3>
@@ -30,7 +30,7 @@
           <span class="c-block__category u-text-transform--upper">Gesundheit</span>
           <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
         </div>
-        <a href="/lebensfreude/sonne" class="c-block__button o-button o-button--outline">Mehr erfahren
+        <a href="/lebensfreude/sonnenschein" class="c-block__button o-button o-button--outline">Mehr erfahren
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <title>o-arrow__long--left</title>
@@ -61,7 +61,7 @@
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            <a href="/lebensfreude/frische-luft" class="c-block__title-link u-theme--link-hover--dark">
             2.Luft
             </a>
           </h3>
@@ -70,7 +70,7 @@
           <span class="c-block__category u-text-transform--upper">Gesundheit</span>
           <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
         </div>
-        <a href="/lebensfreude/luft" class="c-block__button o-button o-button--outline">Mehr erfahren
+        <a href="/lebensfreude/frische-luft" class="c-block__button o-button o-button--outline">Mehr erfahren
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <title>o-arrow__long--left</title>
@@ -101,7 +101,7 @@
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            <a href="/lebensfreude/bewegung" class="c-block__title-link u-theme--link-hover--dark">
             3.Bewegung
             </a>
           </h3>
@@ -141,7 +141,7 @@
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            <a href="/lebensfreude/wasser" class="c-block__title-link u-theme--link-hover--dark">
             4.Wasser
             </a>
           </h3>
@@ -181,7 +181,7 @@
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            <a href="/lebensfreude/nahrung" class="c-block__title-link u-theme--link-hover--dark">
             5.Nahrung
             </a>
           </h3>
@@ -221,7 +221,7 @@
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            <a href="/lebensfreude/ruhe" class="c-block__title-link u-theme--link-hover--dark">
             6.Ruhe
             </a>
           </h3>
@@ -261,7 +261,7 @@
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            <a href="/lebensfreude/gottvertrauen" class="c-block__title-link u-theme--link-hover--dark">
             7.Gottvertrauen
             </a>
           </h3>
@@ -301,7 +301,7 @@
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+            <a href="/lebensfreude/maessigkeit" class="c-block__title-link u-theme--link-hover--dark">
             8.Mäßigkeit
             </a>
           </h3>

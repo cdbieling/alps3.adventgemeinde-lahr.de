@@ -1,3 +1,30 @@
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7">
+  <nav class="c-breadcrumbs" role="navigation">
+    <ul class="c-breadcrumbs__list">
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/lebensfreude/bewegung" class="c-breadcrumbs__link can-be--white">Bewegung</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <span class="c-breadcrumbs__link can-be--white">Bewegung</span>
+        </strong>
+      </li>
+    </ul>
+  </nav> <!-- /.breadcrumbs -->
+</section>
+
 <!--article: Ratschläge, die Ihr Leben bewegen.-->
 <h2>Bewegung</h2>
 <p>Jeder Teil der »lebendigen Maschinerie« unseres Körpers wurde zur Tätigkeit und zum Dienst geschaffen. Das Lebensgesetz lautet, dass Tätigkeit das Leben fördert und Untätigkeit zum Tod führt. Aus Mangel an Bewegung ster­ben viel mehr Menschen als an Überanstren­gung, und doch ignorieren so viele dieses grund­legende Lebensgesetz. Bewegung gleicht die Durchblutung aus, belebt das Blut, hilft dem Körper, Giftstoffe auszuscheiden, härtet ab, regt die Verdauung an, verbessert die Nieren- und Leberfunktion, hält die Lungen in gutem Zustand und baut die Muskeln auf. Bewegung ist einer der größten Ärzte der Natur. Studenten und alle geistig arbeitenden Menschen sollten sich besonders viel bewegen. Ein Mangelan Bewegung behindert den Blutkreislauf, verur­sacht Verdauungsschwäche, schwächt die Gliedmaßen, bringt das Nervensystem durch­einander und kann sogar seelische Depressio­nen hervorrufen.</p>

@@ -1,5 +1,28 @@
 
 <!-- wp:html -->
+
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large">
+  <nav class="c-breadcrumbs" role="navigation">
+    <ul class="c-breadcrumbs__list">
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <span class="c-breadcrumbs__link can-be--white">Sonne</span>
+        </strong>
+      </li>
+    </ul>
+  </nav> <!-- /.breadcrumbs -->
+</section>
+
 <section>
   <div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
     <article class="text c-article__body u-spacing">
@@ -9,7 +32,7 @@
       <p>Vitamin C kommt reichlich in grünen Gemüsesorten, Beeren, Zitrusfrüchten, Kiwis, Melonen, Ananas, Tomaten, Paprika und vielem anderen vor. Vitamin E ist vor allem in Vollkornprodukten, dunklem Blattgemüse, Nüssen, Samen, Weizenkeimen, Hülsenfrüchten, Spargel und Erbsen vorhanden. Als Vitaminräuber sind raffinierter Zucker, Koffein, Alkohol, Anti-Baby-Pillen und Stress anzusehen.</p>
       <p>Man muss sich nicht stundenlang in die Sonne legen und schmoren, um die Heilwirkung der Sonne zu erfahren. Täglich einige Minuten Sonnenbestrahlung auf Gesicht und Hände genügen bereits, um den Körper mit den lebenswichtigen D-Vitaminen zu versorgen. Vitamin D3 wird in der Haut gebildet und in der Leber umgeformt. Es spielt eine bedeutende Rolle im Kalziumstoffwechsel und schützt vor der gefürchteten Osteoporose.</p>
       <p>DieHeilwirkung der Sonne ist so groß, dass Gott sich in Bezug auf seine eigene Heilungskraft auf sie bezieht: „für euch aber, die ihr mir treu gewesen seid, wird an diesem Tag die Sonne aufgehen. Sie wird euer Recht an den Tag bringen und alle Wunden heilen.“<strong>(Maleachi 3, 20.)</strong></p>
-      <p>&nbsp;</p>
+      
       <h3>Ein „sonniges Gemüt“</h3>
       <p>Wenn wir von einem „sonnigen Gemüt“ sprechen, denken wir an jemanden, der fröhlich ist, voller Tatendrang und ein schneller Denker ist. Genau diese Eigenschaften werden durch Sonnentherapie gefördert!</p>
       <p>Sonnenlicht hilft die ‚Biouhr’ in uns zu regulieren. Das ist der komplizierte Funktionsmechanismus, der unter anderem die Produktion unserer Hormone steuert, unseren Schlaf-Wachrhythmus vorgibt, unsere Stimmung stabilisiert und unseren Appetit begründet.</p>

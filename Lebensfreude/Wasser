@@ -1,18 +1,38 @@
 <!-- wp:html -->
-<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large">
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large u-spacing--triple">
   <nav class="c-breadcrumbs" role="navigation">
     <ul class="c-breadcrumbs__list">
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+            <title>Artboard 1</title>
+              <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b">
+            </path>
+        </svg>
+        </span>
         <strong>
           <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
         </strong>
       </li>
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+    <!--    <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+            <title>Artboard 1</title>
+            <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path>
+          </svg>
+        </span>-->
         <strong>
           <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
         </strong>
       </li>
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+      <!--  <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+            <title>Artboard 1</title>
+            <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b">
+            </path>
+          </svg>
+        </span>-->
         <strong>
           <span class="c-breadcrumbs__link can-be--white">Bewegung</span>
         </strong>
@@ -112,8 +132,9 @@
 
 <section>
 <div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
-  <h3> Lesen Sie weiter </h3>
-  <!-- Media Block Inline: Weitere Artikel Footer -->
+  <h3> Empfohlener Artikel </h3>
+  <p> Lesen Sie weiter </p>
+<!-- Media Block Inline: Weitere Artikel Footer -->
   <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">
       <div class="c-media-block__image c-block__image l-grid-item u-padding--zero--sides">
           <div class="c-block__image-wrap ">

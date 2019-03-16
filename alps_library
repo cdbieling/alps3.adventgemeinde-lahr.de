@@ -1,15 +1,18 @@
 
-1. Atoms      --> 1.1 Buttons     ---> 1.1.7 Button Toggle ("Show-more")                -->
-1. Atoms      --> 1.9 Text        ---> 1.9.1 Blockquote                                 -->
-2. Molecules  --> 2.1 Blocks      ---> 2.1.7 Media Block Inline                         -->
-2. Molecules  --> 2.5 Navigation  ---> 2.5.1 Breadcrumps                                -->
-3. Organisms  --> 3.1 Asides      ---> 3.1.2+ Related Posts                              -->
-3. Organisms  --> 3.2 Content     ---> 3.2.4 Body-Content Kategorieübersicht round      -->
-3. Organisms  --> 3.2 Content     ---> 3.2.4 Body-Content Kategorieübersicht square     -->
-3. Organisms  --> 3.4 Sections    ---> 3.4.11 Testemonies                               -->
+<!--  1. Atoms      -> 1.1 Buttons     -> 1.1.7 Button Toggle ("Show-more")                -->
+<!--  1. Atoms      -> 1.9 Text        -> 1.9.1 Blockquote                                 -->
+<!--  2. Molecules  -> 2.1 Blocks      -> 2.1.7 Media Block Inline                         -->
+<!--  2. Molecules  -> 2.5 Navigation  -> 2.5.1+ Breadcrumps
+<!--  2. Molecules ->  2.5 Navigation  -> 2.5.1+blog Breadcrumps  -->                         -->
+<!--  3. Organisms  -> 3.1 Asides      -> 3.1.2+ Related Posts                             -->
+<!--  3. Organisms  -> 3.2 Content     -> 3.2.4 Body-Content Kategorieübersicht round      -->
+<!--  3. Organisms  -> 3.2 Content     -> 3.2.4 Body-Content Kategorieübersicht square     -->
+<!--  3. Organisms  -> 3.4 Sections    -> 3.4.11 Testemonies                               -->
 
-<!-- Line:       -->
-<!-- Line:       -->
+
+
+
+
 
 
 <!-- 1. Atoms      --> 1.1 Buttons     ---> 1.1.7 Special Button Toggle ("Show-more") -->
@@ -151,8 +154,135 @@
 </article>
 -->
 
+<!-- 2.5.1 Breadcrumps -->
+<!-- 2. Molecules ->  2.5 Navigation  -> 2.5.1 Breadcrumps  -->
 
-!-- 3.1.2 Related Posts -->
+<nav class="c-breadcrumbs" role="navigation">
+  <ul class="c-breadcrumbs__list">
+    <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+      <span class="u-icon u-icon--xs u-path-fill--gray">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+          <title>Artboard 1</title>
+          <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path>
+        </svg>
+      </span><strong>
+        <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+      </strong>
+    </li>
+    <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+      <span class="u-icon u-icon--xs u-path-fill--gray">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+        <title>Artboard 1</title>
+        <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path>
+      </svg>
+      </span>
+      <strong>
+        <a href="/vitality" class="c-breadcrumbs__link can-be--white">Vitality</a>
+      </strong>
+    </li>
+    <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+      <span class="u-icon u-icon--xs u-path-fill--gray">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+          <title>Artboard 1</title>
+          <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path>
+        </svg>
+      </span>
+      <strong>
+        <a class="c-breadcrumbs__link can-be--white">Photos</a>
+      </strong>
+    </li>
+  </ul>
+</nav> <!-- /.breadcrumbs -->
+<!-- End of Breadcrumps -->
+
+
+<!-- 2.5.1+ Breadcrumps Page-->
+<!-- 2. Molecules ->  2.5 Navigation  -> 2.5.1+ Breadcrumps  -->
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large">
+  <nav class="c-breadcrumbs" role="navigation">
+    <ul class="c-breadcrumbs__list">
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+            <title>Artboard 1</title>
+              <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b">
+            </path>
+        </svg>
+        </span>
+        <strong>
+          <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+    <!--    <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+            <title>Artboard 1</title>
+            <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path>
+          </svg>
+        </span>-->
+        <strong>
+          <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+      <!--  <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+            <title>Artboard 1</title>
+            <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b">
+            </path>
+          </svg>
+        </span>-->
+        <strong>
+          <span class="c-breadcrumbs__link can-be--white">Bewegung</span>
+        </strong>
+      </li>
+    </ul>
+  </nav> <!-- /.breadcrumbs -->
+</section>
+<!-- Breadcrumps -->
+
+<!-- 2.5.1+ Breadcrumps Page-->
+<!-- 2. Molecules ->  2.5 Navigation  -> 2.5.1+blog Breadcrumps  -->
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7">
+  <nav class="c-breadcrumbs" role="navigation">
+    <ul class="c-breadcrumbs__list">
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/lebensfreude/bewegung" class="c-breadcrumbs__link can-be--white">Bewegung</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <span class="c-breadcrumbs__link can-be--white">Blog</span>
+        </strong>
+      </li>
+    </ul>
+  </nav> <!-- /.breadcrumbs -->
+</section>
+<!-- End of Breadcrumps Blog -->
+
+
+<!-- 3.1.2 Related Posts -->
+<!-- Please take notice      -->
+<!-- Use this section / div and article class for related posts -->
+<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
+    <article class="text c-article__body u-spacing">
+    </article>
+  </div>
+  <!-- POST HERE RELATED POSTS -->
+</section>
+
 <!-- 3. Organisms --> 3.1 Asides ---> 3.1.2 Related Stories+ -->
 <div class="c-related-posts u-spacing">
   <div class="c-block__heading u-theme--border-color--darker">
@@ -216,6 +346,7 @@
 
 
 <!-- 3. Organisms --> 3.1 Asides ---> 3.1.2+ Related Stories+ -->
+<!-- Please take notice how to use it in 3.1.2      -->
 
 <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
   <!-- RIGHT-SIDEBAR | Bibelkreis in LAHR -->
