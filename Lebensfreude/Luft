@@ -1,10 +1,31 @@
-
 <!-- wp:html -->
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large">
+  <nav class="c-breadcrumbs" role="navigation">
+    <ul class="c-breadcrumbs__list">
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <span class="c-breadcrumbs__link can-be--white">Frische Luft</span>
+        </strong>
+      </li>
+    </ul>
+  </nav> <!-- /.breadcrumbs -->
+</section>
+
 <section>
 <div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
 <article class="text c-article__body u-spacing">
 <h2>Der große Hirnraub</h2>
-<p>Hast du auch schon bemerkt, dass du dich in einem Raum, in dem die frische, zirkulierende Luft fehlt, zerschlagen, träge und auch ein wenig unkonzentriert fühlst? Deinem Gehirn wird ein wichtiges Element zur ordentlichen Funktion vorenthalten. Ohne frische Luft können die  Nerven keine ordentliche Leitung und Übertragung schaffen.</p>
+<p>Hast du auch schon bemerkt, dass du dich in einem Raum, in dem die frische, zirkulierende Luft fehlt, zerschlagen, träge und auch ein wenig unkonzentriert fühlst? Deinem Gehirn wird ein wichtiges Element zur ordentlichen Funktion vorenthalten. Ohne frische Luft können die&nbsp; Nerven keine ordentliche Leitung und Übertragung schaffen.</p>
 
 <p>Es gibt noch andere Faktoren, die dem Verstand die nötigen Vorräte an Sauerstoff rauben, wie z.B. Alkohol, Koffein, Tabak, Zucker und eine fettreiche Ernährung. Schlechte Haltung und Mangel an Bewegung tragen ebenso zu diesem Problem bei. Auf Dauer erhöht chronischer Sauerstoffmangel im Gehirn das Risiko von Erinnerungsdefiziten, dem Nachlassen der geistigen Fähigkeiten und sogar Demenz.</p>
 
@@ -24,7 +45,7 @@
 
 &nbsp;
 <h3>Von der Umweltverschmutzung zur Inweltverschmutzung</h3>
-<p>Luftverschmutzung ist immer in Verbindung mit erhöhten Todeszahlen auf Grund bestimmter  Krankheiten und erhöhter Vorkommen von Asthma, Lungenproblemen und überraschender Weise Todesfällen auf Grund von Herz-Kreislauferkrankungen. Es wird vermutet, dass die peripheren Luftwege sich entzünden und sich auch noch das Blut verdickt, wodurch wichtige Luftwege blockiert und bestehende Herzprobleme verstärkt werden.</p>
+<p>Luftverschmutzung ist immer in Verbindung mit erhöhten Todeszahlen auf Grund bestimmter&nbsp; Krankheiten und erhöhter Vorkommen von Asthma, Lungenproblemen und überraschender Weise Todesfällen auf Grund von Herz-Kreislauferkrankungen. Es wird vermutet, dass die peripheren Luftwege sich entzünden und sich auch noch das Blut verdickt, wodurch wichtige Luftwege blockiert und bestehende Herzprobleme verstärkt werden.</p>
 
 <p>Smog, Zigarettenrauch und andere Umweltverschmutzungen sind nicht nur belästigend und Stress, sie sind auch eine Gesundheitsbedrohung. Es wird geschätzt, dass Passivrauchen (als Nichtraucher Zigarettenrauch einatmen) jedes Jahr 5000 Lungenkrebstodesfälle verursacht!</p>
 
@@ -50,9 +71,9 @@
 <h3>Der Hauch des Lebens</h3>
 <p>Als Gott den Menschen aus dem Staub der Erde machte, sagt die Bibel, Er „blies ihm den Lebenshauch in die Nase. So wurde der Mensch lebendig.“ (1. Mose 2, 7).</p>
 
-<p>Ein neues, lebendiges und lebhaftes Wesen erwachte in Gesundheit, Stärke und Leben. Unser Schöpfer möchte, dass wir eine Beziehung zu und Verbindung mit Ihm haben, die so vertraut, frisch und lebenspendend ist, wie dieser erste belebende Atem, den Adam, der erste Mensch, von Gott erhielt. In der Tat ist dies so lebenswichtig für unser Glück, unser Wohlergehen, und unsere Erlösung wie der Atem fürs Leben selbst ist!
+<p>Ein neues, lebendiges und lebhaftes Wesen erwachte in Gesundheit, Stärke und Leben. Unser Schöpfer möchte, dass wir eine Beziehung zu und Verbindung mit Ihm haben, die so vertraut, frisch und lebenspendend ist, wie dieser erste belebende Atem, den Adam, der erste Mensch, von Gott erhielt. In der Tat ist dies so lebenswichtig für unser Glück, unser Wohlergehen, und unsere Erlösung wie der Atem fürs Leben selbst ist!</p>
 
-<p>Also, nichts wie los um jeden Tag eine Portion frische, saubere Luft zu holen. Und wie viel soll’s sein? Um die besten Ergebnisse zu erhalten, wären zwei 20-Minuten Spaziergänge geeignet. Auch wenn du dich ein wenig müde fühlst, geh raus, oder mach ein Fenster auf und atme tief die kostenlose Luft ein! „Durch Ihn leben, handeln und sind wir.“ (Apostelgeschichte 17, 28).Was ist wichtiger für Leben und Gesundheit als die Qualität der Luft die wir atmen? Und was ist wichtiger für die Qualität des Lebens?
+<p>Also, nichts wie los um jeden Tag eine Portion frische, saubere Luft zu holen. Und wie viel soll’s sein? Um die besten Ergebnisse zu erhalten, wären zwei 20-Minuten Spaziergänge geeignet. Auch wenn du dich ein wenig müde fühlst, geh raus, oder mach ein Fenster auf und atme tief die kostenlose Luft ein! „Durch Ihn leben, handeln und sind wir.“ (Apostelgeschichte 17, 28).Was ist wichtiger für Leben und Gesundheit als die Qualität der Luft die wir atmen? Und was ist wichtiger für die Qualität des Lebens?</p>
 
 &nbsp;
 

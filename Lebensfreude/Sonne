@@ -32,7 +32,37 @@
       <p>Vitamin C kommt reichlich in grünen Gemüsesorten, Beeren, Zitrusfrüchten, Kiwis, Melonen, Ananas, Tomaten, Paprika und vielem anderen vor. Vitamin E ist vor allem in Vollkornprodukten, dunklem Blattgemüse, Nüssen, Samen, Weizenkeimen, Hülsenfrüchten, Spargel und Erbsen vorhanden. Als Vitaminräuber sind raffinierter Zucker, Koffein, Alkohol, Anti-Baby-Pillen und Stress anzusehen.</p>
       <p>Man muss sich nicht stundenlang in die Sonne legen und schmoren, um die Heilwirkung der Sonne zu erfahren. Täglich einige Minuten Sonnenbestrahlung auf Gesicht und Hände genügen bereits, um den Körper mit den lebenswichtigen D-Vitaminen zu versorgen. Vitamin D3 wird in der Haut gebildet und in der Leber umgeformt. Es spielt eine bedeutende Rolle im Kalziumstoffwechsel und schützt vor der gefürchteten Osteoporose.</p>
       <p>DieHeilwirkung der Sonne ist so groß, dass Gott sich in Bezug auf seine eigene Heilungskraft auf sie bezieht: „für euch aber, die ihr mir treu gewesen seid, wird an diesem Tag die Sonne aufgehen. Sie wird euer Recht an den Tag bringen und alle Wunden heilen.“<strong>(Maleachi 3, 20.)</strong></p>
-      
+      </article>
+    </div>
+</section>
+<section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7">
+  <div class="u-width--100p u-padding--zero--sides">
+  <div class="c-breakout-image">
+    <style>
+      .c-breakout-image__background  { background-image: url(https://unsplash.it/500/800); }
+      @media(min-width: 500px) {
+        .c-breakout-image__background  { background-image: url(https://unsplash.it/700/800); }
+      }
+      @media(min-width: 700px) {
+        .c-breakout-image__background  { background-image: url(https://unsplash.it/1200/800); }
+      }
+      @media(min-width: 1200px) {
+        .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/SpaziergangKinder_1500x800.jpg); }
+      }
+    </style>
+    <div class="c-breakout-image__background u-image--breakout u-background--cover"></div>
+    <div class="c-breakout-image__caption">
+      <figcaption class="o-figcaption">
+    <p class="o-caption u-color--gray u-font--secondary--s">Proin dictum lobortis luctus.</p>
+  </figcaption>
+    </div>
+  </div>
+</div>
+</section>
+
+<section>
+  <div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
+    <article class="text c-article__body u-spacing">
       <h3>Ein „sonniges Gemüt“</h3>
       <p>Wenn wir von einem „sonnigen Gemüt“ sprechen, denken wir an jemanden, der fröhlich ist, voller Tatendrang und ein schneller Denker ist. Genau diese Eigenschaften werden durch Sonnentherapie gefördert!</p>
       <p>Sonnenlicht hilft die ‚Biouhr’ in uns zu regulieren. Das ist der komplizierte Funktionsmechanismus, der unter anderem die Produktion unserer Hormone steuert, unseren Schlaf-Wachrhythmus vorgibt, unsere Stimmung stabilisiert und unseren Appetit begründet.</p>
