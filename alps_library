@@ -206,6 +206,48 @@
 </div>
 <!-- End of Breakout Image -->
 
+<!-- BREAK OUT IMAGE WITH 2 IMAGES -->
+<section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7">
+  <div class="l-grid-item--m--3-col u-padding--zero--left">
+    <figure class="o-figure ">
+      <div class="o-figure__image">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source srcset="//picsum.photos/900/500/?random" media="(min-width: 900px)">
+          <source srcset="//picsum.photos/700/400/?random" media="(min-width: 500px)">
+          <!--[if IE 9]></video><![endif]-->
+          <img itemprop="image" srcset="//picsum.photos/500/280/?random" alt="Alt Text">
+        </picture>
+      </div> <!-- /.o-figure__image -->
+      <div class="o-figure__caption">
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">Proin dictum lobortis luctus.</p>
+        </figcaption>
+      </div> <!-- /.o-figure__caption -->
+    </figure> <!-- /.o-figure -->
+  </div>
+  <div class="l-grid-item--m--3-col u-padding--zero--left">
+    <figure class="o-figure ">
+      <div class="o-figure__image">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source srcset="//picsum.photos/900/500/?random" media="(min-width: 900px)">
+          <source srcset="//picsum.photos/700/400/?random" media="(min-width: 500px)">
+          <!--[if IE 9]></video><![endif]-->
+          <img itemprop="image" srcset="//picsum.photos/500/280/?random" alt="Alt Text">
+        </picture>
+      </div> <!-- /.o-figure__image -->
+      <div class="o-figure__caption">
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">Proin dictum lobortis luctus.</p>
+        </figcaption>
+      </div> <!-- /.o-figure__caption -->
+    </figure> <!-- /.o-figure -->
+  </div>
+</section>
+
+
+
 
 
 <!-- 2.5.1 Breadcrumps -->

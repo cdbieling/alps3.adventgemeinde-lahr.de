@@ -35,6 +35,7 @@
       </article>
     </div>
 </section>
+
 <section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7">
   <div class="u-width--100p u-padding--zero--sides">
   <div class="c-breakout-image">
@@ -71,6 +72,52 @@
       <p>Bedauerlicher Weise ignoriert der Trend unserer Gesellschaft diese wichtigen  Erkenntnisse. Es ist ‚In’, nachts lange aktiv zu sein um dann morgens, wenn die innere ‚Uhr’ alle Kräfte der Hormone mobilisiert, auszuschlafen.</p>
       <p>Das geht den wichtigen körperlichen und geistigen und sogar geistlichen Gesundheitsprinzipien genau entgegen. Dazu verpassen Menschen, die morgens nicht aus dem Bett kommen, in der Regel die wichtige morgendliche Verabredung mit dem Großen Arzt und Beistand. „Ich liebe, die mich lieben, und die mich frühe suchen, finden mich.“ <strong>(Sprüche 8, 17.)</strong></p>
       <p>Den Tieren des Waldes, nicht dem Menschen hat Gott bestimmt, nachts munter zu sein: „Du sendest Finsternis, und es wird Nacht, dann regen sich alle Tiere des Waldes...“ <strong>(Psalm 104, 20)</strong></p>
+    </article>
+  </div>
+</section>
+
+<section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7">
+  <div class="l-grid-item--m--3-col u-padding--zero--left">
+    <figure class="o-figure ">
+      <div class="o-figure__image">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source srcset="/wp-content/uploads/2019/03/SonnigesGemuet_900x500_1.jpg" media="(min-width: 900px)">
+          <source srcset="/wp-content/uploads/2019/03/SonnigesGemuet_700x400_1.jpg" media="(min-width: 500px)">
+          <!--[if IE 9]></video><![endif]-->
+          <img itemprop="image" srcset="/wp-content/uploads/2019/03/SonnigesGemuet_500x280_1.jpg" alt="Alt Text">
+        </picture>
+      </div> <!-- /.o-figure__image -->
+      <div class="o-figure__caption">
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">""Sonnenlicht hilft die ‚Biouhr’ in uns zu regulieren".</p>
+        </figcaption>
+      </div> <!-- /.o-figure__caption -->
+    </figure> <!-- /.o-figure -->
+  </div>
+  <div class="l-grid-item--m--3-col u-padding--zero--right">
+    <figure class="o-figure ">
+      <div class="o-figure__image">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source srcset="/wp-content/uploads/2019/03/SonnigesGemuet_900x500_2.jpg" media="(min-width: 900px)">
+          <source srcset="/wp-content/uploads/2019/03/SonnigesGemuet_700x400_2.jpg" media="(min-width: 500px)">
+          <!--[if IE 9]></video><![endif]-->
+          <img itemprop="image" srcset="/wp-content/uploads/2019/03/SonnigesGemuet_500x280_2.jpg" alt="Alt Text">
+        </picture>
+      </div> <!-- /.o-figure__image -->
+      <div class="o-figure__caption">
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">"In diesem Zusammenhang sei darauf hingewiesen, dass ein Sonnenbad hinter Glas nicht die Wirkung haben kann, weil Glas nur...".</p>
+        </figcaption>
+      </div> <!-- /.o-figure__caption -->
+    </figure> <!-- /.o-figure -->
+  </div>
+</section>
+
+<section>
+  <div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
+    <article class="text c-article__body u-spacing">
       <p>&nbsp;</p>
       <h3>Sonnenschein – eine Wohltat!</h3>
       <p>Sonnenlicht senkt Cholesterin, es begünstigt den Kreislauf und somit auch die Ausscheidung von Giftstoffen, es erhöht die Anzahl der weißen Blutkörperchen die Bakterien und Viren vernichten und es verbessert die Wundheilung.  Dabei sind diese Erkenntnisse gar nicht so neu.</p>
