@@ -3,6 +3,7 @@
 <!--  1. Atoms      -> 1.9 Text        -> 1.9.1 Blockquote                                 -->
 <!--  2. Molecules  -> 2.1 Blocks      -> 2.1.7 Media Block Inline                         -->
 <!--  2. Molecules  -> 2.4 Media       -> 2.4.2 Breakout Image                             -->
+<!--  2. Molecules  -> 2.4 Media       -> 2.4.2x2 Breakout Image with 2 images             -->
 <!--  2. Molecules  -> 2.5 Navigation  -> 2.5.1+ Breadcrumps                               -->
 <!--  2. Molecules ->  2.5 Navigation  -> 2.5.1+blog Breadcrumps                           -->
 <!--  3. Organisms  -> 3.1 Asides      -> 3.1.2+ Related Posts                             -->
@@ -206,6 +207,7 @@
 </div>
 <!-- End of Breakout Image -->
 
+<!-- 2.4.2x2 Breakout Image -->
 <!-- BREAK OUT IMAGE WITH 2 IMAGES -->
 <section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7">
   <div class="l-grid-item--m--3-col u-padding--zero--left">

@@ -4,9 +4,10 @@ Wichtige Elemente für ALPS:
 // GIRD-CLUSTER:
 // Showing Content on 5 Grids.
 // Showing it from grid-2 to grid-6
-
+// important condition: wrap into section__block
+<section>
 <div class="l-grid l-grid--6-col l-grid-wrap--5-of-7">
-
+</section>
 
 // Showing it from 1st grid to 6th Grids
 <div class="l-grid--7-col l-grid-wrap--6-of-7">
@@ -30,6 +31,7 @@ l-grid
 
 // formatting Text
 <div class="text u-spacing">
+<article class="text c-article__body u-spacing--double">
 
 
 // Breadcrumps
