@@ -52,7 +52,7 @@
         <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
         <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
         <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Luft_300x300.jpg" alt="(Arzt Nr.2 Frische Luft)">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Fonne_300x300.jpg" alt="(Arzt Nr.2 Frische Luft)">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->

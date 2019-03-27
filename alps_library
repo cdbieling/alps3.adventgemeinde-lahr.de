@@ -2,6 +2,7 @@
 <!--  1. Atoms      -> 1.1 Buttons     -> 1.1.7 Button Toggle ("Show-more")                -->
 <!--  1. Atoms      -> 1.9 Text        -> 1.9.1 Blockquote                                 -->
 <!--  2. Molecules  -> 2.1 Blocks      -> 2.1.7 Media Block Inline                         -->
+<!--  2. Molecules  -> 2.4 Media       -> 2.4.1 Breakout Image with parallax               -->
 <!--  2. Molecules  -> 2.4 Media       -> 2.4.2 Breakout Image                             -->
 <!--  2. Molecules  -> 2.4 Media       -> 2.4.2x2 Breakout Image with 2 images             -->
 <!--  2. Molecules  -> 2.5 Navigation  -> 2.5.1+ Breadcrumps                               -->

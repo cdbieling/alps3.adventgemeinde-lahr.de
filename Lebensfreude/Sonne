@@ -26,12 +26,12 @@
 <section>
   <div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
     <article class="text c-article__body u-spacing">
-      <h3>Folge dem Sonnenstrahl.</h3>
+      <h3>Folge dem Sonnenstrahl</h3>
       <p>Die Sonne, einst das Symbol für Leben und Frohsinn; entwickelt sie sich allmählich zu einem lebensfeindlichen Tyrann? Bahnt sich eine Heißzeit an?</p>
       <p>Gefährdet Sonnenlicht unsere Gesundheit?  Ja, wer sich zu intensiv den ultravioletten Strahlen der Sonne aussetzt, riskiert Schäden, wie vorzeitiges Altern der Haut, Hautkrebs,  Schwächung des Immunsystems und grauen Star. Das ist bekannt. Neuere Studien haben allerdings gezeigt, dass eine gute Versorgungmit Vitamin C und E  vor solchen Schädigungen schützen kann.</p>
       <p>Vitamin C kommt reichlich in grünen Gemüsesorten, Beeren, Zitrusfrüchten, Kiwis, Melonen, Ananas, Tomaten, Paprika und vielem anderen vor. Vitamin E ist vor allem in Vollkornprodukten, dunklem Blattgemüse, Nüssen, Samen, Weizenkeimen, Hülsenfrüchten, Spargel und Erbsen vorhanden. Als Vitaminräuber sind raffinierter Zucker, Koffein, Alkohol, Anti-Baby-Pillen und Stress anzusehen.</p>
       <p>Man muss sich nicht stundenlang in die Sonne legen und schmoren, um die Heilwirkung der Sonne zu erfahren. Täglich einige Minuten Sonnenbestrahlung auf Gesicht und Hände genügen bereits, um den Körper mit den lebenswichtigen D-Vitaminen zu versorgen. Vitamin D3 wird in der Haut gebildet und in der Leber umgeformt. Es spielt eine bedeutende Rolle im Kalziumstoffwechsel und schützt vor der gefürchteten Osteoporose.</p>
-      <p>DieHeilwirkung der Sonne ist so groß, dass Gott sich in Bezug auf seine eigene Heilungskraft auf sie bezieht: „für euch aber, die ihr mir treu gewesen seid, wird an diesem Tag die Sonne aufgehen. Sie wird euer Recht an den Tag bringen und alle Wunden heilen.“<strong>(Maleachi 3, 20.)</strong></p>
+      <p>Die Heilwirkung der Sonne ist so groß, dass Gott sich in Bezug auf seine eigene Heilungskraft auf sie bezieht: „für euch aber, die ihr mir treu gewesen seid, wird an diesem Tag die Sonne aufgehen. Sie wird euer Recht an den Tag bringen und alle Wunden heilen.“<strong>(Maleachi 3, 20.)</strong></p>
       </article>
     </div>
 </section>
@@ -40,21 +40,21 @@
   <div class="u-width--100p u-padding--zero--sides">
   <div class="c-breakout-image">
     <style>
-      .c-breakout-image__background  { background-image: url(https://unsplash.it/500/800); }
+      .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/SpaziergangFamilie_800x500.jpg); }
       @media(min-width: 500px) {
-        .c-breakout-image__background  { background-image: url(https://unsplash.it/700/800); }
+        .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/DerSonneEntgegenAmStrand_800x700.jpg); }
       }
       @media(min-width: 700px) {
-        .c-breakout-image__background  { background-image: url(https://unsplash.it/1200/800); }
+        .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/SitzenAmStrand_1200x800.jpg); }
       }
       @media(min-width: 1200px) {
         .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/SpaziergangKinder_1500x800.jpg); }
       }
     </style>
-    <div class="c-breakout-image__background u-image--breakout u-background--cover"></div>
+    <div class="c-breakout-image__background u-image--breakout u-background--cover has-parallax" data-type="background" data-speed="8"></div>
     <div class="c-breakout-image__caption">
       <figcaption class="o-figcaption">
-    <p class="o-caption u-color--gray u-font--secondary--s">Proin dictum lobortis luctus.</p>
+    <p class="o-caption u-color--gray u-font--secondary--s">Schon einige Minuten Sonnenkontakt versorgt den Köprer mit lebenswichtigem Vitamin D.</p>
   </figcaption>
     </div>
   </div>
