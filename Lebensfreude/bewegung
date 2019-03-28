@@ -34,6 +34,27 @@
       <h3>Wie der Vater, so der Sohn?</h3>
       <p>Auch Kinder neigen in alarmierender Weise zu einer sitzenden Lebensweise. Im Idealfall sollten Kinder in den Klassen 1 bis 12 täglich mindestens eine 30-minütige Unterrichtsstunde Turnen haben, aber nur bei 36% ist das der Fall, laut Aussagen des Presidents Council on Physical Fitness and Sports (Präsidentenrat für körperliche Fitness und Sport). Das ist ein Grund, warum 40% der Kinder schon mit 5 Jahren mindestens ein Herzinfarktrisiko wie z.B. Übergewicht, Diabetes oder erhöhte Cholesterinwerte aufweisen.</p>
 
+      <div class="c-breakout-image">
+        <style>
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/Bewegung_Konzentration_500x280.jpg); }
+          @media(min-width: 500px) {
+            .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/Bewegung_Konzentration_700x400.jpg); }
+          }
+          @media(min-width: 700px) {
+            .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/ Bewegung_Konzentration_900x500.jpg); }
+          }
+          @media(min-width: 1200px) {
+            .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/ Bewegung_Konzentration_900x500.jpg); }
+          }
+        </style>
+        <div class="c-breakout-image__background u-image--breakout u-background--cover has-parallax" data-type="background" data-speed="8"></div>
+        <div class="c-breakout-image__caption">
+          <figcaption class="o-figcaption">
+            <p class="o-caption u-color--gray u-font--secondary--s">Proin dictum lobortis luctus.</p>
+          </figcaption>
+        </div>
+      </div>
+
       <p>Ein Report der American Heart Association (Amerikanische Herz Gesellschaft) offenbarte kürzlich die alarmierende Tatsache, dass je mehr Risikofaktoren für eine Herzkrankheit ein Mensch hat, desto größer das Risiko ist, eine Gedächtnis- und Lernschwäche zu entwickeln. Jeder Risikofaktor trägt in sich ein um 23% erhöhtes Risiko einer geistigen Schwäche!</p>
       <p>Im Gegensatz dazu zeigen zahlreiche Studien, dass körperliche Bewegung tatsächlich die Fähigkeit zu Aufmerksamkeit und Lernfähigkeit von Jung und Alt erhöht. Warum? Weil sportliche Bewegung das Erinnerungsvermögen, die Konzentration, die Wahrnehmung, die Kreativität und die Sprachfähigkeit stärkt.</p>
 
