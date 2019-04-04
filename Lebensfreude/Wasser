@@ -1,169 +1,182 @@
 <!-- wp:html -->
-<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large u-spacing--triple">
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large">
   <nav class="c-breadcrumbs" role="navigation">
     <ul class="c-breadcrumbs__list">
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-        <span class="u-icon u-icon--xs u-path-fill--gray">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-            <title>Artboard 1</title>
-              <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b">
-            </path>
-        </svg>
-        </span>
         <strong>
           <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
         </strong>
       </li>
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-    <!--    <span class="u-icon u-icon--xs u-path-fill--gray">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-            <title>Artboard 1</title>
-            <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path>
-          </svg>
-        </span>-->
         <strong>
           <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
         </strong>
       </li>
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-      <!--  <span class="u-icon u-icon--xs u-path-fill--gray">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-            <title>Artboard 1</title>
-            <path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b">
-            </path>
-          </svg>
-        </span>-->
         <strong>
-          <span class="c-breadcrumbs__link can-be--white">Bewegung</span>
+          <span class="c-breadcrumbs__link can-be--white">Wasser</span>
         </strong>
       </li>
     </ul>
   </nav> <!-- /.breadcrumbs -->
 </section>
 
-<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
-  <!--<div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">-->
-    <article class="text c-article__body u-spacing">
-      <h1>1. Bewegende Tatsachen</h1>
-      <h3>Sitzenbleiber</h3>
-      <p>Erinnern sie sich an die Sit-in-Demonstrationen in den 1960er und 70er Jahren? Nun, viel zu viele Amerikaner sind heute mit Dauer-Sit-ins beschäftigt. Nach einer neuen Studie mit fast 10.000 Menschen sagten 45 %, dass sie wenig oder nichts in ihrer Freizeit tun würden.</p>
-      <p>Schätzungsweise 250.000 Todesfälle jedes Jahr können direkt auf mangelnde Bewegung zurückgeführt werden und aus diesem Grund empfehlen das Center for Disease Control (Zentrum für Krankheitsüberwachung) und das American College of Sports Medicine (Amerikanische College für Sportmedizin), dass Amerikaner sich mindestens 39 Minuten am Tag körperlich bewegen sollten (ich denke, man könnte ein paar extra Minuten zum Abrunden dazutun).</p>
+<section>
+  <div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 u-shift--left--1-col--at-medium u-shift--left--1-col--at-large ">
+    <div class="c-article l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
+      <article class="text c-article__body u-spacing">
+        <h2>... etwa auch zum Trinken?</h2>
+        <p>Haben Sie schon einmal die riesigen Niagarafälle in den USA gesehen, wo das Wasser in Riesenmengen über die gigantische Pferdehufenschlucht brandet? Wenn Sie das grandiose Schauspiel nur 30 Sekunden lang betrachten, sehen Sie 120 Millionen Liter in die Tiefe stürzen! Aber diese Menge entspricht nicht dem Quantum, das die Amerikaner täglich an Wasser trinken. Das ist das Quantum, das sie an Kaffee trinken.</p>
 
-      &nbsp;
-      <h3>Wie der Vater, so der Sohn?</h3>
-      <p>Auch Kinder neigen in alarmierender Weise zu einer sitzenden Lebensweise. Im Idealfall sollten Kinder in den Klassen 1 bis 12 täglich mindestens eine 30-minütige Unterrichtsstunde Turnen haben, aber nur bei 36% ist das der Fall, laut Aussagen des Presidents Council on Physical Fitness and Sports (Präsidentenrat für körperliche Fitness und Sport). Das ist ein Grund, warum 40% der Kinder schon mit 5 Jahren mindestens ein Herzinfarktrisiko wie z.B. Übergewicht, Diabetes oder erhöhte Cholesterinwerte aufweisen.</p>
-
-      <p>Ein Report der American Heart Association (Amerikanische Herz Gesellschaft) offenbarte kürzlich die alarmierende Tatsache, dass je mehr Risikofaktoren für eine Herzkrankheit ein Mensch hat, desto größer das Risiko ist, eine Gedächtnis- und Lernschwäche zu entwickeln. Jeder Risikofaktor trägt in sich ein um 23% erhöhtes Risiko einer geistigen Schwäche!</p>
-      <p>Im Gegensatz dazu zeigen zahlreiche Studien, dass körperliche Bewegung tatsächlich die Fähigkeit zu Aufmerksamkeit und Lernfähigkeit von Jung und Alt erhöht. Warum? Weil sportliche Bewegung das Erinnerungsvermögen, die Konzentration, die Wahrnehmung, die Kreativität und die Sprachfähigkeit stärkt.</p>
-
-      &nbsp;
-      <h3>„Am Boden zerstört“</h3>
-      <p>Offensichtlich macht uns diese Unbeweglichkeit auch nicht sehr glücklich und könnte obendrein zu dem steigendem Stresspegel, zu Spannung und innerer Unruhe führen unter denen Amerikaner leiden.</p>
-      <p>Eine neue Umfrage unter 1.000 Erwachsenen ergab, dass Depression, innere Unruhe und psychologische Probleme tatsächlich körperliche und soziale Funktionen und die gesamte Lebensqualität mehr beeinträchtigen als die allgemeinen Krankheiten wie z.B. Arthritis und Diabetes. Annähernd 15 Millionen Amerikaner leiden an klinischen Depressionen jedes Jahr.</p>
-
-      &nbsp;
-      <h3>Stress und Depression</h3>
-      <p>Depression geht oft mit chronischem Stress einher. Neben schlechten Gewohnheiten die Stress fördern, wie z.B. Nikotin, Koffein, und raffiniertem Zucker, ist ein Mangel an Bewegung ein Hauptstressfaktor der Depression, Spannung und Unruhe fördert.</p>
-      <p>Eine Großstudie mit 8.000 Erwachsenen offenbarte, dass je weniger aktiv die Person war, desto wahrscheinlicher war es, dass sie depressiv war. Regelmäßige körperliche Bewegung förderte die gute Laune erheblich, ganz gleich, wie schwer der Grad der Depression am Anfang der Studie war.</p>
-      <p>Die Bibel sagt in Sprüche 19, 15: „<em>Faulheit bringt Schlafen, und eine lässige Seele wird Hunger leiden.</em>“ Auch wenn die Schrift offensichtlich eine umfassendere Bedeutung hat, ist doch eine der Bedeutungen für das Wort „Schlaf“ „niedergeschlagen“, „schwach“ oder „träge“ – und das beschreibt sehr genau, wie wir uns fühlen, wenn wir nicht genügend Bewegung bekommen.</p>
-
-      &nbsp;
-      <h3>Bewegung kann wirklich zu Kopf steigen!</h3>
-      <p>Wussten Sie, dass regelmäßige tägliche Bewegung nicht nur allgemein die Gesundheit fördert und die Muskeln stärkt, sondern auch die geistige Fitness, die Gemütsverfassung, die Konzentration und das Selbstwertgefühl positiv beeinflusst? Eine interessante Studie zeigt, dass schon ein 10minütiger flotter Spaziergang die Energie eine Stunde lang erhöht und Anspannung reduziert, wogegen eine Süßigkeit letztendlich Müdigkeit und Anspannung verursacht.</p>
-
-      &nbsp;
-      <h3>Die „Link“- Lektion</h3>
-      <p>Die folgende wahre Geschichte trug sich in den 30er Jahren des letzten Jahrhunderts zu. Ein entmutigter, verzagter Mann kam in Dr. Harry Links Sprechstunde, einem beliebten Arzt in New York City. Der mutlose Mann hatte seine Arbeit verloren. Er hatte das Gefühl, von niemandem mehr geliebt zu werden. Nun wollte er Selbstmord begehen, um seinem Leid ein Ende zu setzen.</p>
-      <p>Dr. Link erklärte ihm, dass er zu wenig körperliche Bewegung gehabt hatte, dass er nur seinen Verstand beschäftigt und seinen  Körper vernachlässigt hatte. „Ich gebe ihnen ein Programm mit körperlicher Tätigkeit und bald werden sie sich besser fühlen,“ sagte er. „Ich mag körperliche Arbeit nicht,“ sagte der Mann. „Ich will nicht arbeiten. Ich will mich umbringen.“ Dr. Link versuchte alles mögliche, um den Mann dazu zu bringen, ein Arbeitsprogramm zu akzeptieren, aber es nützte alles nichts. In letzter Verzweiflung sagte er: „Nun gut, dann bringen sie sich halt um. Aber wenn sie es schon tun, dann wenigsten auf eine etwas ungewöhnliche Weise, etwas heldenhaftes, damit sie in die Schlagzeilen kommen, wenn sie sterben.“</p>
-
-      <p>Dem Mann gefiel dieser Gedanke. „Was schlagen sie vor, Doktor?“ fragte er. Der Doktor sagte: „Ich habe noch nie von einem Mann gehört, der sich zu Tode rannte. Wenn sie Schlagzeilen machen wollen, dann rennen sie ums Viertel bis sie tot umfallen, und jede Zeitung wird sie auf der Titelseite haben.“ „Das werde ich tun,“ sagte der Mann und ging davon, um in die Zeitung zu kommen. Er ging nach Hause, schrieb seinen Abschiedsbrief und lief los. Er lief und lief, aber er brach nicht tot zusammen. Er wurde so müde, dass er sich sagte, „Ich werde das morgen Abend zu Ende bringen müssen.“ Er ging nach Hause zurück und schlief besser als seit langer Zeit. Den nächsten Abend lief er wieder, eine Runde nach der anderen; aber er konnte nicht tot zusammenbrechen, und – Sie haben es sicher schon erraten – er brach überhaupt nicht tot zusammen. Er rannte sich buchstäblich gesund und stark!</p>
-
-      &nbsp;
-      <h3>Die Ziellinie</h3>
-      <p>So ein drastisches Programm schlagen wir natürlich nicht vor! Aber die gute Nachricht ist, dass Sie eine Entscheidung über Ihre Gesundheit und Ihren Lebensstil treffen können, die nicht nur das körperliche Wohlbefinden fördern wird durch die Verminderung des Risikos für Herzkrankheiten, Schlaganfall, Osteoporose, Nierenkrankheiten, Diabetes und Krebs, sondern auch die geistige Gesundheit fördern wird.</p>
-
-      &nbsp;
-      <h3>Kraftvoll – aber nicht gewaltsam</h3>
-      <p>Was ist die beste Art der Bewegung? Um Stress zu vermindern und den meisten Spaß dabei zu haben, versuchen Sie es mit lebhaften, aber nicht heftigen und kooperativen und nicht auf Wettbewerb ausgelegten Aktivitäten. Zügiges Gehen, Wandern, Fahrradfahren, Schwimmen, Arbeiten wie Holz hacken, Gärtnern, Trampolin springen, Fitnessmaschinen, dies alles bringt gute, nicht zerrende Bewegung.</p>
-      <p>Möchten Sie, mit der Hilfe Gottes, mäßige Bewegung  – wenigstens zwei mal täglich 20 Minuten –  zu einer von Gott verordneten  Priorität in Ihrem Leben machen? Gut! Sie können sofort anfangen!</p>
-      &nbsp;
-
-    </article>
-  </div>
-
-  <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
-    <div class="c-related-posts u-spacing">
-      <div class="c-block__heading u-theme--border-color--darker">
-        <h3 class="c-block__heading-title u-theme--color--darker">Weitere Artikel</h3>
-      </div>
-      <div class="c-related-posts__blocks u-spacing">
-        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
-          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
-            <div class="c-block__image-wrap ">
-              <picture class="picture">
-              <!--[if IE 9]><video style="display: none;"><![endif]-->
-              <source srcset="/wp-content/uploads/2019/03/Bewegung_150x100.jpg" media="(min-width: 500px)">
-              <!--[if IE 9]></video><![endif]-->
-              <img itemprop="image" srcset="/wp-content/uploads/2019/03/Bewegung_150x100.jpg" alt="Bewegung praktisch - weiterer Artikel zum Thema Bewegung">
-              </picture>
-            </div>
-          </div> <!-- c-media-block__image -->
-          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
-            <div class="u-spacing c-block__group c-media-block__group ">
-              <div class="u-spacing u-width--100p">
-                <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                  <a href="/2019/03/2-ratschlaege-die-ihr-leben-bewegen/" class="c-block__title-link u-theme--link-hover--dark">
-                    Ratschläge, die ihr Leben bewegen.
-                  </a>
-                </h3>
-              </div>
-              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Bewegung</span>
-              </div>
-            </div>
-          </div> <!-- c-media-block__content -->
-        </div> <!-- c-media-block -->
-      </div>
+        <h3>Wie steht es also ums Wasser?</h3>
+        <p>Fragt man in der amerikanischen Getränkeindustrie nach, erfährt man, dass jeder Amerikaner pro Jahr durchschnittlich 537 Dosen Softgetränke konsumiert. Im Süden sind es sogar 663 Dosen!</p>
+        <p>Und wo bleibt das Wasser? Vielleicht sollte man eher solche Amerikaner zu Wort kommen lassen, die auf ihre Gesundheit achten. Viele Eltern, die es mit ihren Kindern gut meinen, geben ihnen Fruchtsäfte anstelle von Limo oder Cola, weil sie überzeugt sind, ihnen damit etwas Gutes zu tun. Jedes Kind unter 5 Jahren konsumiert in den USA durchschnittlich 36 Liter Säfte im Jahr. Kinder unter zwölf Jahren trinken mehr Säfte als jede andere Altersgruppe. Sie decken ca. 25 – 60 % ihres Energiebedarfs aus Säften! Wasser ist jedoch die gesundere und mehr Energie spendende Alternative. </p>
+      </article>
     </div>
   </div>
-
 </section>
 
 <section>
-<div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
-  <h3> Empfohlener Artikel </h3>
-  <p> Lesen Sie weiter </p>
-<!-- Media Block Inline: Weitere Artikel Footer -->
-  <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">
-      <div class="c-media-block__image c-block__image l-grid-item u-padding--zero--sides">
-          <div class="c-block__image-wrap ">
-          <picture class="picture">
-           <!--[if IE 9]><video style="display: none;"><![endif]-->
-           <!--<source srcset="//picsum.photos/900/700/?random" media="(min-width: 900px)">-->
-           <source srcset="/wp-content/uploads/2019/03/Bewegung_700x600.jpg" media="(min-width: 500px)"><!--[if IE 9]></video><![endif]--><img itemprop="image" srcset="/wp-content/uploads/2019/03/Bewegung_500x375.jpg" alt="Bewegung praktisch - Lesen Sie praktische Tipps rund um das Thema Bewegung">
-          </picture>
-          </div>
+  <div class="l-grid-wrap l-grid-wrap--6-of-7">
+    <div class="c-breakout-image">
+      <style>
+        .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Soda_800x500.jpg); }
+        @media(min-width: 500px) {
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Limonade_800x700.jpg); }
+        }
+        <!-- @media(min-width: 700px) {
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Limonade_1200x800.jpg); }
+        } -->
+        @media(min-width: 1200px) {
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Soda_1500x800.jpg); }
+        }
+      </style>
+      <div class="c-breakout-image__background u-image--breakout u-background--cover has-parallax" data-type="background" data-speed="8"></div>
+      <div class="c-breakout-image__caption">
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">Pro Jahr werden von Amerikanern 537 Dosen Softgetränke getrunken.</p>
+        </figcaption>
       </div>
-
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item u-border-left--black--at-large u-theme--border-color--darker--left u-color--gray u-background-color--gray--light u-padding--top u-padding--bottom">
-          <div class="u-spacing c-block__group c-media-block__group ">
-              <div class="u-spacing u-width--100p">
-              <h3 class="c-media-block__title c-block__title u-theme--color--darker ">
-              <a href="/2019/03/2-ratschlaege-die-ihr-leben-bewegen/" class="c-block__title-link u-theme--link-hover--dark"><br>
-                Ratschläge, die Ihr Leben bewegen.<br>
-              </a><br>
-              </h3>
-              <p class="c-media-block__description c-block__description">Jeder Teil der »lebendigen Maschinerie« unseres Körpers wurde zur Tätigkeit und zum Dienst geschaffen...</p>
-              </div>
-              <div class="c-media-block__meta c-block__meta u-theme--color--dark">
-              <span class="c-block__category u-text-transform--upper">Bewegung</span><br>
-              <time class="c-block__date u-text-transform--upper" datetime="2017-12-28">März 14, 2019</time>
-              </div>
-          </div>
-      </div><!-- c-media-block__content -->
-  </div><!-- c-media-block -->
+    </div>
   </div>
 </section>
 
+<section>
+  <div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 u-shift--left--1-col--at-medium u-shift--left--1-col--at-large ">
+    <div class="c-article l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
+      <article class="text c-article__body u-spacing">
+        <h3>Wasser – überall vorhanden?</h3>
+        <ul>
+   	      <li>Wasser bedeckt mehr als 70 % der Erdoberfläche. Wasser ist auch zu einem großen Prozentsatz in der Luft enthalten, die wir einatmen. Unser Körper besteht aus 60 - 70 % aus Wasser. Wir spielen im Wasser, waschen mit Wasser und fahren auf dem Wasser, aber trinken tun wir es nicht!</li>
+   	      <li>Außer der Luft ist Wasser der wichtigste Bestandteil eines gesunden Lebens. Bedenken wir: Getränke, die mit Aromen und Farbstoffen versetzt sind, koffeinhaltige, gezuckerte und kohlensäurehaltige Getränke waren nicht unter denen, mit welchen sich Adam und Eva im Paradies labten. Womit löschten der erste Mann und die erste Frau ihren Durst?  Mit Wasser.</li>
+   	      <li>Es gibt Zusatzstoffe in Getränken, die entwässernd wirken, die also dem Körper Wasser entziehen. Wenn dem Körper Wasser entzogen ist, bedeutet das in mancherlei Hinsicht Stress für ihn. Entzug von Wasser kann schwere Müdigkeit und Reizbarkeit hervorrufen und zu geistiger Verwirrung und intellektuellem Abbau führen.</li>
+   	      <li>Doch nicht nur unser Denkvermögen wird dadurch beeinträchtigt; die Nieren können die Harnstoffe und Salze nicht mehr in ausreichendem Maße ausscheiden. Das führt zu Einlagerungen dieser Substanzen im Zwischenzellgewebe. Daraus ergibt sich eine herabgesetzte Immunabwehr (Infektanfälligkeit ist erhöht) und ein aufgedunsenes Aussehen.</li>
+         	<li>Nach Angaben der amerikanischen Ernährungsgesellschaft trinken viele Amerikaner zu wenig Wasser. Schon ein Defizit von 2 % des Körpergewichts beeinträchtigt unsere geistigen und körperlichen Fähigkeiten. Neueste Untersuchungen zeigen, dass die verminderte Aufnahme von Wasser auch das Risiko von Nierensteinen erhöht, denn durch das fehlende Wasser wir die Giftkonzentration im Primärharn gesteigert. Das überlastet die Nieren.</li>
+         	<li>Ferner kann Wassermangel auch Krebs in der Brust, im Dickdarm und im Harntrakt verursachen. Ferner können Übergewicht im Kindheits- und Erwachsenenalter, Infektionen, hormonelle Störungen, Herzklappenfehler und Veränderungen der Speicheldrüsenfunktionen durch den Mangel an Wasser im Körper hervorgerufen werden.</li>
+        </ul>
+
+        <h3>Haben Sie heute schon Ihre 10 000 Liter Wasser getrunken?</h3>
+        <p>Wenn wir so viel Wasser trinken müssten, wie unser Körper für die unterschiedlichen Funktionen braucht, müssten wir täglich 10 000 Liter trinken! Glücklicherweise kann unser Körper alles außer einem kleinen Teil wieder verwenden – unsere Nieren filtern täglich 1600 Liter Blut. Aber nur 5 Gläser Wasser aus dem Blut kommen zur Ausscheidung als Urin. 1 ½ - 2 Gläser Wasser gehen mit der Atemluft verloren und weitere 1-1 ½  Gläser Wasser werden über die Haut durch Schwitzen ausgeschieden. Schließlich  benötigt der Darm ½ Tasse Wasser für die Exkremente. Diese 8-9 Gläser Wasser müssen aber dem Körper unbedingt wieder zugeführt werden.</p>
+
+        <h3>Fünfmal Prost aufs Wasser!</h3>
+
+        <p>Es gibt 5 wichtige Argumente für das Trinken von Wasser:</p>
+          <ol>
+           	<li>Wasser ist ein Grundnahrungsmittel. Es hilft beim Verdauungsprozess, die Nahrung zu zerkleinern, einzuweichen und zu transportieren. Das zu 90 % aus Wasser bestehende Blut befördert die Nährstoffe.</li>
+           	<li>Wasser regelt die Körpertemperatur – durch die Atmung der Lungen und der Haut.</li>
+           	<li>Wasser ist ein Schmiermittel. Genauso wie Öl Reibung zwischen Maschinenteilen vorbeugt, beugt Wasser der Reibung zwischen Körpergelenken und Muskeln vor.</li>
+           	<li>Wasser vermindert die Gefahr der Austrocknung.</li>
+           	<li>Wasser reduziert den Stress auf das Kreislaufsystem. Es hilft dem Blut, lebenswichtige und Energie spendende Nährstoffe zu den Körperzellen zu transportieren.</li>
+          </ol>
+
+        <h3>Eindeutige Vorteile</h3>
+        <p>Reichliches Wassertrinken reduziert das Risiko, an Blasenkrebs zu erkranken, denn Wasser verdünnt den Urin und erhöht die Häufigkeit des Wasserlassens. Dies wiederum kann den Kontakt zwischen krebserregenden Giften im Urin und den Blasenzellen verringern.Unlängst haben Forscher die interessante Entdeckung gemacht, dass mineralstoffreiches, hartes Wasser Herzinfarkte vorzubeugen vermag. In einer schwedischen Studie wurden Frauen im Alter von 50 bis 69 Jahren untersucht. Frauen, die in Städten mit hartem Wasser – reich an Magnesium und Kalzium – lebten, waren um 30 % weniger von Herzinfarkten betroffen als andere Frauen, die sehr weiches, mineralstoffarmes Wasser tranken.Quellwasser, das diese Nährstoffe reichlich enthält, schützt auch gegen Osteoporose.  Wasserenthärter arbeiten umgekehrt. Sie tauschen im Wasser Kalzium- und Magnesiumionen gegen Natrium- oder Kaliumionen aus. Es hängt nun von der Wasserhärte ab, ob das behandelte Wasser bedeutende Mengen von Natrium oder Kalium enthält.Achtung! Patienten mit Nierenkrankheiten, Diabetes oder Bluthochdruck sollten kein Wasser trinken, das durch Enthärteranlagen mit Natriumaustauschern geflossen ist. In Flaschen gekauftes Wasser kann im Mineralstoffgehalt variieren. Es gibt noch keine Richtlinien zur Bewertung von Wasser in Flaschen. Es gibt Brunnenbetriebe, die Leitungswasser aus dem öffentlichen Netz mit Kohlensäure versetzen und als Sprudel verkaufen. Und das kann unter Umständen besser sein, als betriebseigene Quellen! Neue Studien besagen, dass chlorhaltiges Wasser mit einem erhöhten Risiko an Blasen- oder Dickdarmkrebs in Verbindung steht. Ein gutes Wasserdestilliergerät wäre eine akzeptable Möglichkeit für diejenigen, die in einer Gegend mit qualitativ weniger gutem Wasser wohnen.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+    <section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7">
+      <div class="l-grid-item--m--3-col u-padding--zero--left">
+        <figure class="o-figure ">
+          <div class="o-figure__image">
+            <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/04/Wassersteg_900x500_1.jpg" media="(min-width: 900px)">
+              <source srcset="/wp-content/uploads/2019/04/Wasserfall_700x400_1.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/04/Wassertropfen_500x280_1.jpg" alt="Wasser ist unabdingbar und spendet Vitalität.">
+            </picture>
+          </div> <!-- /.o-figure__image -->
+          <div class="o-figure__caption">
+            <figcaption class="o-figcaption">
+              <p class="o-caption u-color--gray u-font--secondary--s">"Wasser ein lebensspendendes und lebensnotwendiges Element. Im Anfang der Erschaffung der Erde, schwebte schon der Geist Gottes auf dem Wasser (1.Mo.1,2). Ein Element, was nie Wegzuenken ist. "</p>
+            </figcaption>
+          </div> <!-- /.o-figure__caption -->
+        </figure> <!-- /.o-figure -->
+      </div>
+      <div class="l-grid-item--m--3-col u-padding--zero--left">
+        <figure class="o-figure ">
+          <div class="o-figure__image">
+            <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/04/Wasserfall_900x500_2.jpg" media="(min-width: 900px)">
+              <source srcset="/wp-content/uploads/2019/04/StrandPalme_700x400_2.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/04/Wassersteg_500x280_2.jpg" alt="Wasser ein lebenswichtiges ELement">
+            </picture>
+          </div> <!-- /.o-figure__image -->
+          <div class="o-figure__caption">
+            <figcaption class="o-figcaption">
+              <p class="o-caption u-color--gray u-font--secondary--s">"Ein nichtwahrnehmbarer Hauch giftiger Chemikalien in der Luft die wir einatmen bringt den Menschen, die in den Vororten leben ein erhöhtes Krebsrisiko".</p>
+            </figcaption>
+          </div> <!-- /.o-figure__caption -->
+        </figure> <!-- /.o-figure -->
+      </div>
+    </section>
+
+
+
+<section>
+  <div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 u-shift--left--1-col--at-medium u-shift--left--1-col--at-large ">
+    <div class="c-article l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
+      <article class="text c-article__body u-spacing">
+
+        <h3>Ein Tipp: Das richtige Timing – oder wann tue ich was...</h3>
+        <p>Nehmen Sie sich vor, 45 Minuten vor dem Frühstück ein Glas Wasser zu trinken. Dafür können Sie auf Kaffee verzichten. Das wird Ihr Verdauungssystem mobilisieren und Ihren Magen auf das Frühstück vorbereiten! Trinken Sie ferner Wasser zwischen den Mahlzeiten.  Während der Mahlzeiten sollte nicht getrunken werden, damit die Verdauungssäfte nicht verdünnt werden. Haben Sie genügend Wasser zwischen den Mahlzeiten getrunken, werden Sie keinen Durst haben und auch die richtigen Mengen speisen. Bewahren Sie Ihren Magen vor zusätzlicher Arbeit durch Zwischenmahlzeiten und Naschen! Mehr dazu an späterer Stelle.Übrigens, woran ist zu erkennen, ob man genügend Wasser getrunken hat? Ganz einfach! An der Farbe des Urins; sie sollte hell sein, jedoch nicht klar. Dieser Test ist einfach und kostet nichts. Durst weist darauf hin, dass der Körper ausgetrocknet ist. Warten Sie mit dem Trinken, bis Sie Durst verspüren, tun Sie sich keinen guten Dienst. Also trinken Sie die 8 Gläser Wasser auf den Tag verteilt, unabhängig vom Durstgefühl, Sie brauchen sie. Denken Sie auch an Ihre Kinder, besonders wenn sie draußen herumtollen! Warten Sie nicht, bis sie trinken wollen! Bieten Sie ihnen den ganzen Tag über Wasser an, um ein Austrocknen zu vermeiden.</p>
+        <h3>Haben Sie Durst?</h3>
+        <p>Schon der Prophet Jesaja fordert uns auf: „Wohlan, alle, die ihr durstig seid, kommt her zum Wasser!“ <em>(Jesaja 55,1)</em>.Wenn wir sehen, wie wichtig Wasser für unser Leben und unsere Gesundheit ist, verstehen wir besser, dass Jesus sich selbst als das Wasser des Lebens bezeichnet und uns einlädt: „Und der Geist und die Braut sprechen: Komm! Und wer es hört, der spreche: Komm! Und wen dürstet, der komme; und wer da will, der nehme das Wasser des Lebens umsonst.“ <em>(Offenbarung 22,17)</em>. Wir alle brauchen viel Wasser – nicht nur für den Körper, sondern auch für die Seele.</p>
+      </article>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="l-grid-wrap l-grid-wrap--6-of-7">
+    <div class="c-breakout-image">
+      <style>
+        .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_800x500.jpg); }
+        @media(min-width: 500px) {
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_800x700.jpg); }
+        }
+        <!-- @media(min-width: 700px) {
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_1200x800.jpg); }
+        } -->
+        @media(min-width: 1200px) {
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_1500x800.jpg); }
+        }
+      </style>
+      <div class="c-breakout-image__background u-image--breakout u-background--cover has-parallax" data-type="background" data-speed="8"></div>
+      <div class="c-breakout-image__caption">
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">Trinken Sie jeden Morgen, gleich nach dem Aufstehen, mindestens ein frisches Glas Wasser. </p>
+        </figcaption>
+      </div>
+    </div>
+  </div>
+</section>
 <!-- /wp:html -->
