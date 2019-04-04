@@ -20,6 +20,8 @@ u-spacing--double
 u-spacing--triple
 <div class="u-spacing--triple">
 
+// Padding
+u-padding--top u-padding--bottom
 
 
 

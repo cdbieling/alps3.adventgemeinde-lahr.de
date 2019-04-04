@@ -1,5 +1,5 @@
 <!-- wp:html -->
-<!--<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large">
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-shift--left--1-col--at-large">
   <nav class="c-breadcrumbs" role="navigation">
     <ul class="c-breadcrumbs__list">
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
@@ -18,31 +18,14 @@
         </strong>
       </li>
     </ul>
-  </nav> --><!-- /.breadcrumbs -->
-<!--</section>-->
+  </nav> <!-- /.breadcrumbs -->
+</section>
 
-
+<!--<section>-->
+<!--  <div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
+    <article class="text c-article__body u-spacing">-->
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
-    <nav class="c-breadcrumbs" role="navigation">
-      <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
-        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-          <strong>
-            <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
-          </strong>
-        </li>
-        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-          <strong>
-            <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
-          </strong>
-        </li>
-        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-          <strong>
-            <span class="c-breadcrumbs__link can-be--white">Bewegung</span>
-          </strong>
-        </li>
-      </ul>
-    </nav> <!-- /.breadcrumbs -->
   <!--<div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">-->
     <article class="text c-article__body u-spacing">
       <h1>1. Bewegende Tatsachen</h1>
@@ -61,10 +44,10 @@
             .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/Bewegung_Konzentration_700x400.jpg); }
           }
           @media(min-width: 700px) {
-            .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/Bewegung_Konzentration_900x500.jpg); }
+            .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/ Bewegung_Konzentration_900x500.jpg); }
           }
           @media(min-width: 1200px) {
-            .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/Bewegung_Konzentration_900x500.jpg); }
+            .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/03/ Bewegung_Konzentration_900x500.jpg); }
           }
         </style>
         <div class="c-breakout-image__background u-image--breakout u-background--cover has-parallax" data-type="background" data-speed="8"></div>
@@ -89,28 +72,6 @@
       <p>Eine Großstudie mit 8.000 Erwachsenen offenbarte, dass je weniger aktiv die Person war, desto wahrscheinlicher war es, dass sie depressiv war. Regelmäßige körperliche Bewegung förderte die gute Laune erheblich, ganz gleich, wie schwer der Grad der Depression am Anfang der Studie war.</p>
       <p>Die Bibel sagt in Sprüche 19, 15: „<em>Faulheit bringt Schlafen, und eine lässige Seele wird Hunger leiden.</em>“ Auch wenn die Schrift offensichtlich eine umfassendere Bedeutung hat, ist doch eine der Bedeutungen für das Wort „Schlaf“ „niedergeschlagen“, „schwach“ oder „träge“ – und das beschreibt sehr genau, wie wir uns fühlen, wenn wir nicht genügend Bewegung bekommen.</p>
 
-<!--      <section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7">
-        <div class="l-grid-item--m--3-col u-padding--zero--left">-->
-          <figure class="o-figure">
-            <div class="o-figure__image">
-              <picture class="picture">
-                <!--[if IE 9]><video style="display: none;"><![endif]-->
-                <source srcset="/wp-content/uploads/2019/03/Alkohol_900x500.jpg" media="(min-width: 900px)">
-                <source srcset="/wp-content/uploads/2019/03/Rauchen_700x400.jpg" media="(min-width: 500px)">
-                <!--[if IE 9]></video><![endif]-->
-                <img itemprop="image" srcset="/wp-content/uploads/2019/03/TablettenUndAlkohol_500x280.jpg" alt="Alt Text">
-              </picture>
-            </div> <!-- /.o-figure__image -->
-            <div class="o-figure__caption">
-              <figcaption class="o-figcaption">
-                <p class="o-caption u-color--gray u-font--secondary--s">"Stress und Depression stehen oftmals in engem Zusammenhang. Schlechte Substanzen fördern den Stress.".</p>
-              </figcaption>
-            </div> <!-- /.o-figure__caption -->
-          </figure> <!-- /.o-figure -->
-        <!--</div>
-
-    </section>-->
-
       &nbsp;
       <h3>Bewegung kann wirklich zu Kopf steigen!</h3>
       <p>Wussten Sie, dass regelmäßige tägliche Bewegung nicht nur allgemein die Gesundheit fördert und die Muskeln stärkt, sondern auch die geistige Fitness, die Gemütsverfassung, die Konzentration und das Selbstwertgefühl positiv beeinflusst? Eine interessante Studie zeigt, dass schon ein 10minütiger flotter Spaziergang die Energie eine Stunde lang erhöht und Anspannung reduziert, wogegen eine Süßigkeit letztendlich Müdigkeit und Anspannung verursacht.</p>
@@ -134,7 +95,8 @@
 
     </article>
   </div>
-  <div class="c-sidebar c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
+
+  <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
     <div class="c-related-posts u-spacing">
       <div class="c-block__heading u-theme--border-color--darker">
         <h3 class="c-block__heading-title u-theme--color--darker">Weitere Artikel</h3>
@@ -173,7 +135,7 @@
 </section>
 
 <section>
-<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7">
+<div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">
   <h3> Lesen Sie weiter </h3>
   <!-- Media Block Inline: Weitere Artikel Footer -->
   <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">
