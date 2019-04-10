@@ -44,9 +44,9 @@
         @media(min-width: 500px) {
           .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Limonade_800x700.jpg); }
         }
-        <!-- @media(min-width: 700px) {
+         @media(min-width: 700px) {
           .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Limonade_1200x800.jpg); }
-        } -->
+        }
         @media(min-width: 1200px) {
           .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Soda_1500x800.jpg); }
         }
@@ -159,13 +159,13 @@
   <div class="l-grid-wrap l-grid-wrap--6-of-7">
     <div class="c-breakout-image">
       <style>
-        .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_800x500.jpg); }
+        .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_500x250.jpg); }
         @media(min-width: 500px) {
-          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_800x700.jpg); }
-        }
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_600x300.jpg); }
+
         <!-- @media(min-width: 700px) {
-          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_1200x800.jpg); }
-        } -->
+          .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_900x600.jpg); }
+        }
         @media(min-width: 1200px) {
           .c-breakout-image__background  { background-image: url(/wp-content/uploads/2019/04/Wasserglas_1500x800.jpg); }
         }

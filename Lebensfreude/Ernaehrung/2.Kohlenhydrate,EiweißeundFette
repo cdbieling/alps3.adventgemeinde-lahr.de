@@ -1,0 +1,120 @@
+<!-- wp:html -->
+<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-spacing--double--until-large">
+  <nav class="c-breadcrumbs" role="navigation">
+    <ul class="c-breadcrumbs__list" style="margin-bottom:10px;">
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/lebensfreude" class="c-breadcrumbs__link can-be--white">Lebensfreude</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <a href="/lebensfreude/ernaehrung" class="c-breadcrumbs__link can-be--white">Ernährung</a>
+        </strong>
+      </li>
+      <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <strong>
+          <span class="c-breadcrumbs__link can-be--white">Weitere Artikel</span>
+        </strong>
+      </li>
+    </ul>
+  </nav> <!-- /.breadcrumbs -->
+</section>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":1} -->
+<h1>Kohlenhydrate, Eiweiße, Fette</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Viele – wenige - keine Kohlenhydrate</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wie soll man es mit ihnen halten? Sind Kohlenhydrate gut für mich oder nicht? Ja und nein! Es gibt Kohlenhydrate, die gut sind und andere, die nicht gut sind, und&nbsp;<strong>zwischen beiden liegen Welten in ihrer Wirkung auf unseren Organismus</strong>. Wie kann man sie unterscheiden?&nbsp; Kohlenhydrate werden in&nbsp;<strong>komplexe und einfache</strong>&nbsp;Kohlenhydrate eingeteilt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Komplexe Kohlenhydrate geben lebensspendende Nährstoffe – wie Vitamine, Mineralien und pflanzliche Eiweiße mit den schützenden Phytochemikalien. Phytochemikalien sind pflanzliche Stoffe, die Körperzellen schützen und sie im Falle einer Beschädigung reparieren können. Außerdem besteht eine wesentliche Komponente komplexer Kohlenhydrate darin, dass die entsprechenden Nahrungsmittel die so wichtigen Ballaststoffe liefern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Ballaststoffreiche Nahrung</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ballaststoffe heilen den Körper. Pflanzliche Nahrung hilft uns, unseren Appetit zu zügeln, weil sie uns schneller sättigt und uns auf längere Zeit ein Sättigungsgefühl gibt. Sie hilft uns, ein gesundes Körpergewicht zu erreichen und zu halten, und sie verringert das Risiko von Herzkrankheiten, Krebs und Diabetes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Die sogenannten löslichen Ballaststoffe, die in Hafer, Bohnen, Gerste, Äpfeln und Orangen zu finden sind, senken den Cholesterin-&nbsp; und Blutzuckerwert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nimm dir vor, täglich mindestens 30 bis 60 Gramm Ballaststoffe zu dir nehmen. Bohnen sind dazu sehr gut geeignet, denn sie enthalten etwa 16 Gramm Ballaststoffe pro Tasse, also die Hälfte der Tagesration. Vollkornbrot enthält mindestens 2 Gramm Ballaststoffe pro Scheibe. Ebenso Getreidegerichte wie Haferbrei oder Getreideflocken. Auch Obst und Gemüse enthalten sehr viele Ballaststoffe und außerdem noch eine Reihe von Vitaminen, Mineralien und Phytochemikalien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Energie für das Gehirn</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Komplexe</strong>&nbsp;Kohlenhydrate sind für den Körper wichtig, noch&nbsp;<strong>wichtiger&nbsp;</strong>aber sind sie für das Gehirn. Der Anteil an Kohlenhydraten, den das Gehirn verbraucht, liegt bei 20 %. Das Gehirn braucht für seine Funktionen Glukose aus der Nahrung, die wir täglich zu uns nehmen. Eine verminderte Zufuhr von Kohlenhydraten bzw. Glukose an das Gehirn beeinträchtigt die&nbsp; Gehirnfunktion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>60 % der Kalorien, die wir uns zuführen, sollen aus komplexen Kohlenhydraten kommen. Wenn wir 2000 Kalorien pro Tag brauchen, wären das etwa 300 g Kohlenhydrate. Das entspricht etwa 2 Scheiben Vollkornbrot (oder einer Tasse Getreide), ½ Tasse Bohnen, einer Tasse frischem Gemüse und einer Tasse frischem Obst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Schlechter Ruf</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wenn Kohlenhydrate so gut sind, warum können sie dann als schlecht betrachtet werden?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Der schlechte Ruf kommt von den einfachen Kohlenhydraten. Einfache Kohlenhydrate wie Zucker, Maissirup und zugesetzte Fruktose (Fruchtzucker) können der Gesundheit schaden, wenn sie in großen Mengen zugeführt werden. Durchschnittlich werden jährlich 30 kg Zucker pro Person verbraucht. Das sind 19 Teelöffel pro Tag!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Viele Leute, die sich für eine Diät entscheiden, die wenig Kohlenhydrate enthält, haben vorher nur einfache Kohlenhydrate oder gesüßte Getreideflocken zu sich genommen. Wenn sie anfangen, die raffinierten Kohlenhydrate und den einfachen Zucker wegzulassen, kann es sein, dass sie sich besser fühlen und vielleicht abnehmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Das Reduzieren von raffinierten Kohlenhydraten auf 10% der Kalorien oder noch weniger pro Tag (rund 30-50g pro Tag) würde den meisten Menschen außerordentlich gut tun.<strong>Unter einem Übermaß an Einfachzuckern in der Ernährung leidet das Immunsystem.</strong>&nbsp;Das wiederum erhöht das Risiko für Herzkrankheiten, Krebs und Diabetes. Zuckerreiche Nahrungsmittel enthalten in der Regel viel Fett und sind somit Kalorienbomben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unser Körper und unser Gehirn sind so beschaffen, dass sie ihre Energie am&nbsp;<strong>besten über&nbsp;</strong>komplexe Kohlenhydrate oder ballaststoffreiche Nahrungsmittel wie&nbsp;Hülsenfrüchte, Getreide, Obst und Gemüse&nbsp;bekommen. Wer sich reichlich diese Nahrung zuführt, wird nicht nur sein gesundes Gewicht behalten und seinen Appetit zügeln, sondern auch einen besseren Blutzucker- und Cholesterinspiegel und einen ausgewogenen Hormonhaushalt aufweisen. Außerdem bleibt auf diese Weise das Verdauungssystem intakt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Übermäßig viel Protein</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Zu viel&nbsp;</strong>Eiweiß (Protein) in der Nahrung schafft zu&nbsp;<strong>viel Säure im Blut.&nbsp;</strong>Der Eiweißstoffwechsel produziert saure Stoffwechselendprodukte wie Harnstoff, Aminosäuren und Stickstoffschlacken, die das Blut belasten. Dies veranlasst die Knochen, Kalzium freizugeben, der wie ein Puffer wirkt, um den pH Wert des Blutes anzuheben, und der den Abbau von Schlacken aus dem Körper erleichtert. Zu viel Eiweiß belastet die Nieren und schlägt sich in mancherlei Nierenkrankheiten nieder. Die hohe Konzentration bewirkt eine Ansammlung in den Nierengefäßen und den „b“ Plasma Lymphozyten des Immunsystems.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Der Überschuss an Eiweiß führt zu Kalziummangel, der für die Osteoporose typisch ist. Auf der zellularen Ebene wird durch zu viel Eiweiß die Kommunikation in den Zellen gestört, indem die Plazierung der Organellen gestört und ihre normale Funktion beeinträchtigt wird. Es kommt zu einem erhöhten Stoffwechsel auf zellularer Ebene, was die Schädigung, den freie Radikale an Organellen anrichten, fördert. Eiweißreiche Ernährungsformen stehen im Zusammenhang mit verschiedenen Krebsarten und erhöhen den Insulingehalt im Blut (Hyperinsulinismus).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eine&nbsp;<strong>fettreiche</strong>&nbsp;Kost beschleunigt den Alterungsprozess. Fette, besonders gehärtete, neigen dazu, schnell zu oxidieren. Dabei entstehen freie Radikale, welche die Zellwände zerstören, die DNS (Desoxyribonukleinsäure, genetische Zellsubstanzen) angreifen und Krankheitsprozesse beschleunigen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eine fettreiche Ernährung ist sehr arm an Ballaststoffen und zellschützenden Antioxidantien, die ein gesunder Geist und Körper und jede einzelne Zelle des Körpers braucht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"right"} -->
+<p style="text-align:right">Autor: Von Evelyn Kissinger, R.D.</p>
+<!-- /wp:paragraph -->
