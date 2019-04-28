@@ -186,7 +186,7 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s">
-                  <a href="/lebensfreude/gottvertrauen/6-alkohol" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/lebensfreude/gottvertrauen/6-was-die-nachfolger-jesu-schon-immer-begeisterte/" class="c-block__title-link u-theme--link-hover--dark">
                     6. Was die Nachfolger Jesu schon immer begeisterte
                   </a>
                 </h3>
@@ -213,7 +213,7 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s">
-                  <a href="/lebensfreude/gottvertrauen/7-krankenkasse-empfiehlt-vegane-ernaehrung" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/lebensfreude/gottvertrauen/7-gesunheitsmission-gesundheitsmission/" class="c-block__title-link u-theme--link-hover--dark">
                     7. Gesundheitsmission? Gesundheitsmission!
                   </a>
                 </h3>
@@ -240,7 +240,7 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s">
-                  <a href="/lebensfreude/gottvertrauen/8-eine-fette-geschichte/" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/lebensfreude/gottvertrauen/8-gesundheit-und-glaube/" class="c-block__title-link u-theme--link-hover--dark">
                     8. Gesundheit und Glaube
                   </a>
                 </h3>
@@ -267,7 +267,7 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s">
-                  <a href="/lebensfreude/gottvertrauen/9-sind-coole-drinks-wirklich-cool/" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/lebensfreude/gottvertrauen/9-der-grosse-arzt-unser-vorbild/" class="c-block__title-link u-theme--link-hover--dark">
                     9. Der große Arzt, unser Vorbild
                   </a>
                 </h3>
@@ -296,9 +296,9 @@
           <picture class="picture">
            <!--[if IE 9]><video style="display: none;"><![endif]-->
            <!--<source srcset="//picsum.photos/900/700/?random" media="(min-width: 900px)">-->
-           <source srcset="/wp-content/uploads/2019/04/02_Grundnaehrstoffe_700x600.jpg" media="(min-width: 500px)">
+           <source srcset="/wp-content/uploads/2019/04/7-08_GesundheitUndGlaube_700x600.jpg" media="(min-width: 500px)">
           <!--[if IE 9]></video><![endif]-->
-          <img itemprop="image" srcset="/wp-content/uploads/2019/04/02_Grundnaehrstoffe_500x375.jpg" alt="Kohlenhydrate, Fette, Eiweiße - Übersichtswissen kompakt">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/04/7-08_GesundheitUndGlaube_700x600.jpg" alt="Zusammenhang zwischen Gesundheit und Glaube ">
           </picture>
           </div>
       </div>
@@ -307,15 +307,15 @@
           <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
               <h3 class="c-media-block__title c-block__title u-theme--color--darker">
-              <a href="/lebensfreude/ernaehrung/2-kohlenhydrate-eiweisse-und-fette-was-man-wissen-sollte-kurz-gefasst/" class="c-block__title-link u-theme--link-hover--dark"><br>
-                2. Kohlenhydrate, Eiweiße und Fette. – Was man wissen sollte, kurz gefasst.<br>
+              <a href="/lebensfreude/gottvertrauen/8-gesundheit-und-glaube/" class="c-block__title-link u-theme--link-hover--dark"><br>
+                8. Gesundheit und Glaube<br>
               </a><br>
               </h3>
-              <p class="c-media-block__description c-block__description">Wenn Kohlenhydrate so gut sind, warum können sie dann als schlecht betrachtet werden? Der schlechte Ruf kommt von den einfachen Kohlen...</p>
+              <p class="c-media-block__description c-block__description">Es gibt Menschen mit krankhaften Vorstellungen, für die der Glaube etwas Tyrannisches an sich hat, das sie gleichsam wie mit einer eisernen Zuchtrute beherrscht. Diese Personen beklagen ständig...</p>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--dark">
-              <span class="c-block__category u-text-transform--upper">Ernährung</span><br>
-              <time class="c-block__date u-text-transform--upper" datetime="2017-12-28">April 07, 2019</time>
+              <span class="c-block__category u-text-transform--upper">Glaube & Gesundheit</span><br>
+              <time class="c-block__date u-text-transform--upper" datetime="2017-12-28">April 28, 2019</time>
               </div>
           </div>
       </div><!-- c-media-block__content -->
