@@ -162,15 +162,15 @@
 <!--  2. Molecules  -> 2.4 Media       -> 2.4.1 Breakout Image with Parallax               -->
 <div class="c-breakout-image">
   <style>
-    .c-breakout-image__background  { background-image: url(https://unsplash.it/500/800); }
+    .c-breakout-image__background  { background-image: url(https://unsplash.it/500/250); }
     @media(min-width: 500px) {
-      .c-breakout-image__background  { background-image: url(https://unsplash.it/700/800); }
+      .c-breakout-image__background  { background-image: url(https://unsplash.it/600/300); }
     }
     @media(min-width: 700px) {
-      .c-breakout-image__background  { background-image: url(https://unsplash.it/1200/800); }
+      .c-breakout-image__background  { background-image: url(https://unsplash.it/900/600); }
     }
     @media(min-width: 1200px) {
-      .c-breakout-image__background  { background-image: url(https://unsplash.it/1500/900); }
+      .c-breakout-image__background  { background-image: url(https://unsplash.it/1500/800); }
     }
   </style>
   <div class="c-breakout-image__background u-image--breakout u-background--cover has-parallax" data-type="background" data-speed="8"></div>
@@ -186,17 +186,17 @@
 
 <!-- 2.4.2 Breakout Image -->
 <!--  2. Molecules  -> 2.4 Media       -> 2.4.2 Breakout Image                             -->
-<div class="c-breakout-image">
+<div class="c-breakout-image" id="image1">
   <style>
-    .c-breakout-image__background  { background-image: url(https://unsplash.it/500/800); }
+    #image1 .c-breakout-image__background  { background-image: url(https://unsplash.it/500/250); }
     @media(min-width: 500px) {
-      .c-breakout-image__background  { background-image: url(https://unsplash.it/700/800); }
+    #image1  .c-breakout-image__background  { background-image: url(https://unsplash.it/600/300); }
     }
     @media(min-width: 700px) {
-      .c-breakout-image__background  { background-image: url(https://unsplash.it/1200/800); }
+    #image1  .c-breakout-image__background  { background-image: url(https://unsplash.it/900/600); }
     }
     @media(min-width: 1200px) {
-      .c-breakout-image__background  { background-image: url(https://unsplash.it/1500/900); }
+    #image1  .c-breakout-image__background  { background-image: url(https://unsplash.it/1500/800); }
     }
   </style>
   <div class="c-breakout-image__background u-image--breakout u-background--cover"></div>
