@@ -1,0 +1,67 @@
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
+  <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--bottom">
+    <h3 class="c-block__heading-title u-theme--color--darker">Schulen in der Nähe der Ortenau</h3>
+    <a href="https://herbolzheim.adventisten.schule" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">Zur Website</a>
+  </div>
+  <div class="l-grid-item u-padding--zero--sides u-flex">
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--4-col l-grid-item--4-col l-grid-item--m--4-col l-grid-item--xl--4-col">
+      <div class="c-media-block__image c-block__image l-grid-item--4-col l-grid-item--m--4-col l-grid-item--xl--4-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Herbolzheim_1100x750.jpg" alt="Adventschule in Heilbronn">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="l-wrap u-padding--zero--sides ">
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Elisa-Schule.
+            </h3>
+            <p>Staatl. genehmigte <br>Grund- und Realschule<br>Weinstr. 19<br>79336 Herbolzheim<br>Kontakt: Sylvia Geiger</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <a href="https://herbolzheim.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper">Herbolzheim / Tutschfelden</a>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--2-col">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Kontaktdaten der Schule.
+            </h3>
+            <p>Website: <a href="https://herbolzheim.adventisten.schule" target="_blank">https://herbolzheim.adventisten.schule</a><br>
+              Email: schulleitung@ elisa-schule.de<br>
+              Schulleitung: Sylvia Geiger<br>
+              Telefon: 07643 933 890</br>
+              Fax: 07643 933 111?</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Schulleiterin</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--top c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Schulleitung_Herbolzheim_250x175.jpg" alt="Schulleiterin Frau Geiger">
+          </picture>
+          <p style="font-style:italic; padding:10px 0px 0px 20px;">Schulleiterin: Sylvia Geiger</p>
+        </div>
+      </div> <!-- c-media-block__image -->
+
+
+      </div>
+    </div> <!-- c-media-block -->
+
+  </div>
+</section>
