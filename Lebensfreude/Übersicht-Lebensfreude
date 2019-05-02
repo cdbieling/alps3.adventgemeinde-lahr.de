@@ -1,10 +1,10 @@
 
 <!-- wp:html -->
-<section class="c-section c-section__blocks u-spacing--double">
+<section class="c-section c-section__blocks u-spacing--double l-grid l-grid-wrap--6-of-7">
 
   <!-- 1.Sonne -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides" style="margin-top:2.5rem">
       <div class="c-block__image-wrap ">
         <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
@@ -16,7 +16,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--3-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--3-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
@@ -43,7 +43,7 @@
   </div> <!-- c-media-block -->
 
   <!-- 2.Luft -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--2-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
@@ -56,7 +56,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--2-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--3-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
@@ -83,7 +83,7 @@
   </div> <!-- c-media-block -->
 
 <!-- 3.Bewegung -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
@@ -96,7 +96,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
@@ -123,7 +123,7 @@
   </div> <!-- c-media-block -->
 
   <!-- 4.Wasser -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
@@ -136,7 +136,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col -grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
@@ -163,7 +163,7 @@
   </div> <!-- c-media-block -->
 
   <!-- 5.Nahrung -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
@@ -176,7 +176,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
@@ -203,7 +203,7 @@
   </div> <!-- c-media-block -->
 
   <!-- 6.Ruhe -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
@@ -216,7 +216,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
@@ -243,7 +243,7 @@
   </div> <!-- c-media-block -->
 
   <!-- 7.Gottvertrauen -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
@@ -256,7 +256,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
@@ -283,7 +283,7 @@
   </div> <!-- c-media-block -->
 
   <!-- 8.Mäßigkeit -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
@@ -296,7 +296,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
