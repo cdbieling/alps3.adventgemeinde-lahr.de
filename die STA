@@ -1,0 +1,109 @@
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
+  <div class="l-grid-item u-padding--zero--sides u-flex">
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Heilbronn_250x175.jpg" alt="Adventschule in Heilbronn">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Advent-Schule.
+            </h3>
+            <p>Grund- und Realschule<br>Oststr.10<br>74072 Heilbronn<br>Kontakt: Caroline Montoya</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <a href="https://heilbronn.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper">Heilbronn</a>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Murrhardt_250x175.jpg" alt="Adventschule in Murrhardt">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s">
+            Daniel-Schule.
+            </h3>
+            <p>Grund- und Realschule<br>Fornsbacherstr.121<br>71540 Murrhardt<br>Kontakt: Talita Schmitt</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <a href="https://murrhardt.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper">Murrhardt</a>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Isny_250x175.jpg" alt="Adventschule in Isny">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Josia-Schule.
+            </h3>
+            <p>Grund- und Hauptschule<br>Dekan Marquard Str.18<br>88316 Isny-Allgäu<br>Kontakt: Ulrike Pelczar.</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <a href="https://murrhardt.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper">Isny</a>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Rastatt_250x175.jpg" alt="Adventschule in Rastatt">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Salomo-Schule.
+            </h3>
+            <p>Grund- und Realschule<br>Karlstr.40<br>76437 Rastatt<br>Kontakt: Waldemar Ott</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <a href="https://rastatt.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper">Rastatt</a>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+  </div>
+</section>
