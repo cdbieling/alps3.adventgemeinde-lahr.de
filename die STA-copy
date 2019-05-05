@@ -1,63 +1,76 @@
-<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
   <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--bottom">
     <h3 class="c-block__heading-title u-theme--color--darker">Schulen in der Nähe der Ortenau</h3>
     <a href="https://herbolzheim.adventisten.schule" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">Zur Website</a>
   </div>
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--4-col l-grid-item--4-col l-grid-item--m--4-col l-grid-item--xl--4-col">
-      <div class="c-media-block__image c-block__image l-grid-item--4-col l-grid-item--m--4-col l-grid-item--xl--4-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--4-col l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col">
+      <div class="c-media-block__image c-block__image l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Herbolzheim_1100x750.jpg" alt="Adventschule in Heilbronn">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Herbolzheim_1100x750.jpg" alt="Adventschule in Herbolzheim">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div class="l-wrap u-padding--zero--sides ">
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
-        <div class="u-spacing c-block__group c-media-block__group ">
-          <div class="u-spacing u-width--100p">
-            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Elisa-Schule.
-            </h3>
-            <p>Staatl. genehmigte <br>Grund- und Realschule<br>Weinstr. 19<br>79336 Herbolzheim<br>Kontakt: Sylvia Geiger</p>
-          </div>
-          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://herbolzheim.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper">Herbolzheim / Tutschfelden</a>
-          </div>
+      <div class="l-wrap u-padding--zero--sides u-flex">
+
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+            <div class="u-spacing c-block__group c-media-block__group ">
+              <div class="u-spacing u-width--100p">
+                <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+                Elisa-Schule.
+                </h3>
+                <p>Staatl. genehmigte <br>Grund- und Realschule<br>Weinstr. 19<br>79336 Herbolzheim<br>Kontakt: Sylvia Geiger</p>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <a href="https://herbolzheim.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper">Herbolzheim / Tutschfelden</a>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
         </div>
-      </div> <!-- c-media-block__content -->
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--2-col">
-        <div class="u-spacing c-block__group c-media-block__group ">
-          <div class="u-spacing u-width--100p">
-            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Kontaktdaten der Schule.
-            </h3>
-            <p>Website: <a href="https://herbolzheim.adventisten.schule" target="_blank">https://herbolzheim.adventisten.schule</a><br>
-              Email: schulleitung@ elisa-schule.de<br>
-              Schulleitung: Sylvia Geiger<br>
-              Telefon: 07643 933 890</br>
-              Fax: 07643 933 111?</p>
-          </div>
-          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <span class="c-block__category u-text-transform--upper">Schulleiterin</span>
-          </div>
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--2-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--2-col">
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--2-col">
+            <div class="u-spacing c-block__group c-media-block__group ">
+              <div class="u-spacing u-width--100p">
+                <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+                Kontaktdaten der Schule.
+                </h3>
+                <p>Website: <a href="https://herbolzheim.adventisten.schule" target="_blank">herbolzheim.adventisten.schule</a><br>
+                  <ul class="u-space--quarter--bottom u-padding--bottom u-flex u-flex--wrap o-icon-list">
+                    <li><span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>Website</title><path d="M9,1.27A3.4,3.4,0,0,0,5,.73a3.4,3.4,0,0,0-4,.54A3.34,3.34,0,0,0,1,6l4,4L9,6A3.34,3.34,0,0,0,9,1.27ZM7.6,4.57,5,7.17,2.4,4.57a1.34,1.34,0,0,1,0-1.89,1.36,1.36,0,0,1,1.89,0L5,3.39l.71-.71a1.37,1.37,0,0,1,1.89,0A1.34,1.34,0,0,1,7.6,4.57Z" fill="#9b9b9b"/></svg>
+                      </span><a href="https://herbolzheim.adventisten.schule" target="_blank">herbolzheim.adventisten.schule</a></li>
+                    <li><span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>Email</title><path d="M0,4,2,8l4,2L10,0ZM5,7.24,3.49,6.51,2.76,5.05,6.41,3.59Z" fill="#9b9b9b"/></svg>
+                      </span>schulleitung@ elisa-schule.de</li>
+                    <li><span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>Telefon</title><path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#9b9b9b"/></svg>
+                      </span>07643 933 890</li>
+                    <li><span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.01 10"><title>Fax</title><path d="M10,2.31H0V0H10ZM6.36,3.85H0v2.3H6.36ZM8.22,7.7H0V10H8.22Z" fill="#9b9b9b"/></svg></span>07643 933 111?</li>
+                  </ul>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper">Schulleiterin</span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
         </div>
-      </div> <!-- c-media-block__content -->
-      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--top c-block__icon c-block__icon--gallery">
-        <div class="c-block__image-wrap ">
-          <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="" media="(min-width: 500px)">
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Schulleitung_Herbolzheim_250x175.jpg" alt="Schulleiterin Frau Geiger">
-          </picture>
-          <p style="font-style:italic; padding:10px 0px 0px 20px;">Schulleiterin: Sylvia Geiger</p>
+
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col">
+          <div class="c-media-block__image c-block__image l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col u-padding--zero--sides u-space--top c-block__icon c-block__icon--gallery">
+            <div class="c-block__image-wrap ">
+              <picture class="picture">
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="" media="(min-width: 500px)">
+                <!--[if IE 9]></video><![endif]-->
+                <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Schulleitung_Herbolzheim_250x175.jpg" alt="Schulleiterin Frau Geiger">
+              </picture>
+              <p style="font-style:italic; padding:10px 0px 0px 20px;">Schulleiterin: Sylvia Geiger</p>
+            </div>
+          </div> <!-- c-media-block__image -->
         </div>
-      </div> <!-- c-media-block__image -->
 
 
       </div>

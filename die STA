@@ -1,7 +1,7 @@
 <section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
-  <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--double--bottom">
-    <h3 class="c-block__heading-title u-theme--color--darker">Schulen in Baden-Württemberg</h3>
-    <a href="" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">Alle Schulen besichtigen</a>
+  <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--bottom">
+    <h3 class="c-block__heading-title u-theme--color--darker">Weitere Schulen in Baden-Württemberg</h3>
+    <a href="https://adventisten.schule" target="_blank" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">Alle Schulen besichtigen</a>
   </div>
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
