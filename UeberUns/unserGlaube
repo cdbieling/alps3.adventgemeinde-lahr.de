@@ -1,5 +1,5 @@
 <!-- wp:html -->
-<section class="l-grid l-grid--6-col l-grid-wrap--6-of-7">
+<section class="l-grid l-grid-item  l-grid--6-col l-grid-wrap--6-of-7">
   <nav class="c-breadcrumbs" role="navigation">
     <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
@@ -26,12 +26,16 @@
 <h1>Präambel</h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Siebenten-Tags-Adventisten anerkennen allein die Bibel als Richtschnur ihres Glaubens und betrachten die folgenden Glaubensüberzeugungen als grundlegende Lehren der Heiligen Schrift. Diese Glaubensaussagen stellen dar, wie die Gemeinde die biblische Lehre versteht und bezeugt. Eine Neufassung ist anlässlich einer Vollversammlung der Generalkonferenz (Weltsynode) dann zu erwarten, wenn die Gemeinde durch den Heiligen Geist zu einem tieferen Verständnis der biblischen Wahrheit gelangt oder bessere Formulierungen findet, um die Lehren des heiligen Gotteswortes auszudrücken.</p>
+<!-- wp:image {"id":5271,"width":889,"height":370} -->
+<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberUns_Glaube_Praembel_600x250.jpg" alt="" class="wp-image-5271" width="889" height="370"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"justify"} -->
+<p class="justify">Siebenten-Tags-Adventisten anerkennen allein die Bibel als Richtschnur ihres Glaubens und betrachten die folgenden Glaubensüberzeugungen als grundlegende Lehren der Heiligen Schrift. Diese Glaubensaussagen stellen dar, wie die Gemeinde die biblische Lehre versteht und bezeugt. Eine Neufassung ist anlässlich einer Vollversammlung der Generalkonferenz (Weltsynode) dann zu erwarten, wenn die Gemeinde durch den Heiligen Geist zu einem tieferen Verständnis der biblischen Wahrheit gelangt oder bessere Formulierungen findet, um die Lehren des heiligen Gotteswortes auszudrücken.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Derzeit bilden 28 fundamentale Glaubenslehren die Grundlage für Adventisten. Die Glaubenspunkte können in 6 Kategorien eingeteilt werden: Die Lehre über Gott, den Menschen, die Erlösung, die Gemeinde, das christliche Leben und  über die letzten Ereignisse. In jeder Glaubenslehre steht Gott  im Mittelpunkt, der als Architekt in Weisheit, Gnade und unendlicher Liebe die Beziehung mit der Menschheit für eweig wiederherstellen möchte. </p>
+<!-- wp:paragraph {"align":"justify"} -->
+<p class="justify">Derzeit bilden 28 fundamentale Glaubenslehren die Grundlage für Adventisten. Die Glaubenspunkte können in 6 Kategorien eingeteilt werden: Die Lehre über Gott, den Menschen, die Erlösung, die Gemeinde, das christliche Leben und  über die letzten Ereignisse. In jeder Glaubenslehre steht Gott  im Mittelpunkt, der als Architekt in Weisheit, Gnade und unendlicher Liebe die Beziehung mit der Menschheit für eweig wiederherstellen möchte. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":30} -->
@@ -39,9 +43,9 @@
 <!-- /wp:spacer -->
 
 <!-- wp:html -->
-<section class="c-section c-section__blocks u-spacing--double">
+<section class="l-grid-wrap l-grid-wrap--4-of-7 c-section c-section__blocks u-spacing--double">
 
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
@@ -52,7 +56,7 @@
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--3-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Gott</h4>
@@ -61,11 +65,7 @@
             Wir glauben, dass Gott Liebe ist
             </a>
           </h3>
-          <p>Gott ist Liebe, Kraft und Herrlichkeit - und Gott ist geheimnisvoll. Seine Wege sind weit über unseren hinaus, und doch streckt er sich nach uns aus. Gott ist in seiner Endlosigkeit innig und nah. Drei und doch Eins, allwissend und doch immer vergebend.</p>
-        </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Glaubenslehre</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2016-12-12"> </time>-->
+          <p class="justify">Gott ist Liebe, Kraft und Herrlichkeit - und Gott ist geheimnisvoll. Seine Wege sind weit über unseren hinaus, und doch streckt er sich nach uns aus. Gott ist in seiner Endlosigkeit innig und nah. Drei und doch Eins, allwissend und doch immer vergebend.</p>
         </div>
         <a href="" class="c-block__button o-button o-button--outline">Mehr erfahren
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
@@ -79,18 +79,18 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
 <!--        <source srcset="//picsum.photos/300/300/?random" media="(min-width: 500px)">  -->
         <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Mensch_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Mensch_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung als Schöpfer ">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Mensch</h4>
@@ -99,11 +99,7 @@
             Wir glauben, dass Gott Schöpfer ist
             </a>
           </h3>
-          <p>Von Neutronen zu Sternnebeln, von unsrerer DNA zu entfernten Galaxien, wir sind von Wundern umgeben. Und doch ist die Schönheit gebrochen.</p>
-        </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Glaubenslehre</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2016-12-12"> </time>-->
+          <p class="justify">Von Neutronen zu Sternnebeln, von unsrerer DNA zu entfernten Galaxien, wir sind von Wundern umgeben. Und doch ist die Schönheit gebrochen.</p>
         </div>
         <a href="" class="c-block__button o-button o-button--outline">Mehr erfahren
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
@@ -117,18 +113,18 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
 <!--        <source srcset="//picsum.photos/300/300/?random" media="(min-width: 500px)">  -->
         <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Erloesung_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Erloesung_300x300.jpg" alt="Glaubenslehre 'Gott' und sein Erlösungswerk für die Menschheit ">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Erlösung</h4>
@@ -137,11 +133,7 @@
             Wir glauben, dass Gott unser Erlöser ist
             </a>
           </h3>
-          <p>Liebe. Harmonie. Vollkommenheit. Zu Beginn sang die gesamte Schöpfung das gleiche ruhmvolle Lied.</p>
-        </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Glaubenslehre</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2016-12-12"> </time>-->
+          <p class="justify">Liebe. Harmonie. Vollkommenheit. Zu Beginn sang die gesamte Schöpfung das gleiche ruhmvolle Lied.</p>
         </div>
         <a href="" class="c-block__button o-button o-button--outline">Mehr erfahren
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
@@ -155,18 +147,18 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
   <!--        <source srcset="//picsum.photos/300/300/?random" media="(min-width: 500px)">  -->
         <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gemeinde_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gemeinde_300x300.jpg" alt="Glaubenslehre Gott und die Rolle einer Kirche ">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Gemeinde</h4>
@@ -175,11 +167,7 @@
             Wir glauben, dass Gott einen Plan hat
             </a>
           </h3>
-          <p>Jesus verließ seine Nachfolger mit einer unglaublich gewaltigen Mission: Erzählt der Welt von seiner Liebe und seiner Verheißung wiederzukommen. Beifügend, dass Sie die Mitmenschen so lieben sollten, wie er sie geliebt hat.</p>
-        </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Glaubenslehre</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2016-12-12"> </time>-->
+          <p class="justify">Jesus verließ seine Nachfolger mit einer unglaublich gewaltigen Mission: Erzählt der Welt von seiner Liebe und seiner Verheißung wiederzukommen. Beifügend, dass Sie die Mitmenschen so lieben sollten, wie er sie geliebt hat.</p>
         </div>
         <a href="" class="c-block__button o-button o-button--outline">Mehr erfahren
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
@@ -193,18 +181,18 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
   <!--        <source srcset="//picsum.photos/300/300/?random" media="(min-width: 500px)">  -->
         <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Leben_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Leben_300x300.jpg" alt="Glaubenslehre 'Gott' und sein Wirken im Leben jedes Einzelnen">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Leben</h4>
@@ -213,11 +201,7 @@
             Wir glauben, dass Gott verändert
             </a>
           </h3>
-          <p>Gottes Gesetz in den 10 Geboten zeigt uns, wie wir leben sollen und verdeutlicht unsere Abhängigkeit von Jesus. Obwohl uns das Gesetz den Weg, den wir gehen sollen aufzeigt, und uns von unseren Sünden überführt ist das Leben doch viel mehr wie nur das befolgen von Geboten.<p>
-        </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Glaubenslehre</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2016-12-12"> </time>-->
+          <p class="justify">Gottes Gesetz in den 10 Geboten zeigt uns, wie wir leben sollen und verdeutlicht unsere Abhängigkeit von Jesus. Obwohl uns das Gesetz den Weg, den wir gehen sollen aufzeigt, und uns von unseren Sünden überführt ist das Leben doch viel mehr wie nur das befolgen von Geboten.<p>
         </div>
         <a href="" class="c-block__button o-button o-button--outline">Mehr erfahren
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
@@ -231,18 +215,18 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
   <!--        <source srcset="//picsum.photos/300/300/?random" media="(min-width: 500px)">  -->
         <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Wiederherstellung_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Wiederherstellung_300x300.jpg" alt="Glaubenslehre 'Gott' und Wiederherstellende Kraft ">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Wiederherstellung</h4>
@@ -251,11 +235,7 @@
             Wir glauben, dass Gott siegt
             </a>
           </h3>
-          <p>Vom Garten Eden bis zum Turmbau zu Babel, von der Zerstörung Sodoms bis hin zum Auszug aus Ägypten - seit jeher prüft Gott die Ereignisse sorgfältig, bevor er zur Tat schreitet.<p>
-        </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Glaubenslehre</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2016-12-12"> </time>-->
+          <p class="justify">Vom Garten Eden bis zum Turmbau zu Babel, von der Zerstörung Sodoms bis hin zum Auszug aus Ägypten - seit jeher prüft Gott die Ereignisse sorgfältig, bevor er zur Tat schreitet.<p>
         </div>
         <a href="" class="c-block__button o-button o-button--outline">Mehr erfahren
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">

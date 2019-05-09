@@ -18,10 +18,6 @@ l-grid--7-col
 u-shift--left--1-col--at-large
 u-shift--left--1-col--at-xxlarge
 
-// SPACING:
-u-spacing--double
-u-spacing--triple
-<div class="u-spacing--triple">
 
   // Cutting one column
   l-standard-break
@@ -40,6 +36,11 @@ l-grid
 // formatting Text
 <div class="text u-spacing">
 <article class="text c-article__body u-spacing--double">
+  // SPACING:
+  u-spacing--double
+  u-spacing--triple
+  <div class="u-spacing--triple">
+  u-padding--zero--sides
 
 
 // Breadcrumps
