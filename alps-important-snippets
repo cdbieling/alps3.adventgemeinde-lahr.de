@@ -7,18 +7,24 @@ Wichtige Elemente für ALPS:
 // important condition: wrap into section__block
 <section>
 <div class="l-grid l-grid--6-col l-grid-wrap--5-of-7">
+l-grid-item--l--2-col
 </section>
 
 // Showing it from 1st grid to 6th Grids
 <div class="l-grid--7-col l-grid-wrap--6-of-7">
 
 // moving it one to the RIGHT
-l-grid--7-col u-shift--left--1-col--at-large
+l-grid--7-col
+u-shift--left--1-col--at-large
+u-shift--left--1-col--at-xxlarge
 
 // SPACING:
 u-spacing--double
 u-spacing--triple
 <div class="u-spacing--triple">
+
+  // Cutting one column
+  l-standard-break
 
 // Padding
 u-padding--top u-padding--bottom

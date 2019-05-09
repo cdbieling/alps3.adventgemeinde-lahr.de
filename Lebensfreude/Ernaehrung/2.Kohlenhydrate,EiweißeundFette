@@ -1,5 +1,5 @@
 <!-- wp:html -->
-<section class="l-grid l-grid--6-col l-grid-wrap--5-of-7 u-spacing--double--until-large">
+<section class="l-grid l-grid--6-col l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <nav class="c-breadcrumbs" role="navigation">
     <ul class="c-breadcrumbs__list" style="margin-bottom:10px;">
       <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
