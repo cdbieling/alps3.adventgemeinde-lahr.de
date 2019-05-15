@@ -22,8 +22,7 @@ u-shift--left--1-col--at-xxlarge
   // Cutting one column
   l-standard-break
 
-// Padding
-u-padding--top u-padding--bottom
+
 
 
 
@@ -33,9 +32,14 @@ l-grid l-grid--6-col l-grid-wrap--5-of-7
 // putting content into Grids
 l-grid
 
+
 // formatting Text
-<div class="text u-spacing">
-<article class="text c-article__body u-spacing--double">
+
+
+// Padding
+u-padding--top u-padding--bottom
+text u-spacing
+text c-article__body u-spacing--double
   // SPACING:
   u-spacing--double
   u-spacing--triple
