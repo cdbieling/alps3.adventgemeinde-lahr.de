@@ -370,6 +370,45 @@
 </section>
 <!-- End of Breadcrumps Blog -->
 
+<!-- 3.1.1 Aside (News - 2.Section)-->
+<div class="u-spacing--double u-padding--right">
+  <div class="c-block-wrap u-spacing">
+    <div class="c-block__heading u-theme--border-color--darker">
+      <h3 class="c-block__heading-title u-theme--color--darker">Weitere Beiträge</h3>
+      <a href="" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">See All</a>
+    </div>
+      <div class="c-block-wrap__content u-spacing">
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked">
+          <div class="c-media-block__image c-block__image ">
+            <div class="c-block__image-wrap ">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+                <img itemprop="image" srcset="//picsum.photos/600/330/?random" alt="Alt Text">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item u-border--left u-color--gray u-theme--border-color--darker--left u-spacing--half">
+          <div class="u-spacing c-block__group c-media-block__group ">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m ">
+                <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+                Nulla finibus ligula ut nisl facilisis
+                </a>
+              </h3>
+              <p class="c-media-block__description c-block__description">Curabitur non est vulputate, euismod nibh non, sollicitudin nisi. Morbi ullamcorper purus et massa mattis fermentum.</p>
+            </div>
+            <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+              <span class="c-block__category u-text-transform--upper">Culture</span>
+              <time class="c-block__date u-text-transform--upper" datetime="2017-12-28">December 28, 2017</time>
+            </div>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+    </div>
+  </div>
+</div>
 
 <!-- 3.1.2 Related Posts -->
 <!-- Please take notice      -->

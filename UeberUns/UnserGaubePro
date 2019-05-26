@@ -11,7 +11,7 @@
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong>
-            <a href="/ueber-uns" class="c-breadcrumbs__link can-be--white">Über uns</a>
+            <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white">Über uns</a>
           </strong>
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
@@ -22,7 +22,7 @@
       </ul>
     </nav> <!-- /.breadcrumbs -->
   </div>
-  <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
+  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--l--4-col l-grid-item--xl--3-col">
 
     <article class="text c-article__body u-spacing u-padding--bottom">
       <h1>Präambel</h1>
