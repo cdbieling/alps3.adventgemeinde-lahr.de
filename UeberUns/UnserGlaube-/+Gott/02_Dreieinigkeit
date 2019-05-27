@@ -20,172 +20,43 @@
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong>
-            <span class="c-breadcrumbs__link can-be--white">Gott</span>
+            <a href="/wir-adventisten/unser-glaube/gott" class="c-breadcrumbs__link can-be--white">Gott</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <span class="c-breadcrumbs__link can-be--white">Dreieinigkeit</span>
           </strong>
         </li>
       </ul>
     </nav> <!-- /.breadcrumbs -->
   </div>
+
   <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
+    <div>
+      <figure class="o-figure u-padding--right">
+        <div class="u-image--wrap fitvid">
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W-xBLdNBZIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div> <!-- /.u-image--wrap -->
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">Glaubensstandpunkt #2 - Dreieinigkeit.</p>
+        </figcaption>
+      </figure>
+    </div>
 
     <article class="text c-article__body u-spacing">
-      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
-        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-          <div class="c-block__image-wrap ">
-            <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/28_Gott_HeiligeSchrift_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
-            </picture>
-          </div>
-        </div> <!-- c-media-block__image -->
-        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
-            <div class="u-spacing u-width--100p">
-              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-                <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__title-link u-theme--link-hover--dark">
-                Heilige Schrift
-                </a>
-              </h3>
-              <p class="justify">Antik und doch zeitlos, ein einzigartiges Meisterstück der Literatur. Die Bibel offenbart die Rolle von Gott in der Menschheitsgeschichte und enthüllt unseren Platz in Gottes Plan. Die Heilige Schrift ist die Wahrheit, die uns führt und vor Täuschung schützt.</p>
-            </div>
-            <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__button o-button o-button--outline">Mehr erfahren
-              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                  <title>o-arrow__long--left</title>
-                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-                </svg>
-              </span>
-            </a>
-          </div>
-        </div> <!-- c-media-block__content -->
-      </div> <!-- c-media-block -->
+      <h3 class="u-padding--bottom">Es gibt einen Gott: Vater, Sohn und Heiliger Geist, eine Einheit von drei ewig existierenden Personen.</h3>
+      <h3>EIN dreieiniger Gott</h3>
+      <p>Die Bibel spricht von Gott in dreifacher Form und dennoch als dem einen Gott. Paulus beendet beispielsweise einen seiner Briefe mit dem Wunsch der Begleitung durch „die Gnade des Herrn Jesus Christus und die Liebe Gottes und die Gemeinschaft des Heiligen Geistes” (2. Korinther 13,13). Jesus Christus gibt den Auftrag, dass Menschen auf den „Namen des Vaters, des Sohnes und des Heiligen Geistes” getauft werden sollen (Matthäus 28,19). Wir begegnen beim Lesen der Bibel dem Vater, seinem Sohn und dem Heiligen Geist mit ihren jeweils unterschiedlichen Aufgaben und Wirkungsfeldern. Gleichzeitig lässt sie keinen Zweifel an der einzig-einen Gottheit.</p>
+      <p>Siebenten-Tags-Adventisten bezeugen diesen dreieinigen Gott und beten ihn an.</p>
 
-      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
-        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-          <div class="c-block__image-wrap ">
-            <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/28_Gott_Dreieinigkeit_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
-            </picture>
-          </div>
-        </div> <!-- c-media-block__image -->
-        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
-            <div class="u-spacing u-width--100p">
-              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-                <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit" class="c-block__title-link u-theme--link-hover--dark">
-                Dreieinigkeit
-                </a>
-              </h3>
-              <p class="justify">Es gibt einen Gott: Vater, Sohn und Heiliger Geist, eine Einheit von drei ewig existierenden Personen.</p>
-            </div>
-            <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit" class="c-block__button o-button o-button--outline">Mehr erfahren
-              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                  <title>o-arrow__long--left</title>
-                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-                </svg>
-              </span>
-            </a>
-          </div>
-        </div> <!-- c-media-block__content -->
-      </div> <!-- c-media-block -->
+      <h4>GLAUBENSÜBERZEUGUNG NR. 2: DIE DREIEINIGKEIT</h4>
 
-      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
-        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-          <div class="c-block__image-wrap ">
-            <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/28_Gott_Vater_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
-            </picture>
-          </div>
-        </div> <!-- c-media-block__image -->
-        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
-            <div class="u-spacing u-width--100p">
-              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-                <a href="/wir-adventisten/unser-glaube/gott/vater" class="c-block__title-link u-theme--link-hover--dark">
-                Vater
-                </a>
-              </h3>
-              <p class="justify">Gott, der Vater ist die Quelle aller Liebe und des Lebens. Er sandte seinen Sohn um uns von der Sünde und uns selbst zu erretten und uns das Wesen des Vaters zu zeigen.</p>
-            </div>
-            <a href="/wir-adventisten/unser-glaube/gott/vater" class="c-block__button o-button o-button--outline">Mehr erfahren
-              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                  <title>o-arrow__long--left</title>
-                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-                </svg>
-              </span>
-            </a>
-          </div>
-        </div> <!-- c-media-block__content -->
-      </div> <!-- c-media-block -->
-
-      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
-        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-          <div class="c-block__image-wrap ">
-            <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-      <!--        <source srcset="//picsum.photos/300/300/?random" media="(min-width: 500px)">  -->
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/28_Gott_Sohn_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
-            </picture>
-          </div>
-        </div> <!-- c-media-block__image -->
-        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
-            <div class="u-spacing u-width--100p">
-              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-                <a href="/wir-adventisten/unser-glaube/gott/sohn" class="c-block__title-link u-theme--link-hover--dark">
-                Sohn
-                </a>
-              </h3>
-              <p class="justify">Jesus wurde Mensch, um uns zu erretten. Durch Ihn - unser Helfer, Fürsprecher und Erlöser - können wir einen Neuanfang beginnen Er bereitet den Himmel für uns vor der Vater ist die Quelle aller Liebe und des Lebens. Er sandte seinen Sohn um uns von der Sünde und uns selbst zu erretten und uns das Wesen des Vaters zu zeigen.</p>
-            </div>
-            <a href="/wir-adventisten/unser-glaube/gott/sohn" class="c-block__button o-button o-button--outline">Mehr erfahren
-              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                  <title>o-arrow__long--left</title>
-                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-                </svg>
-              </span>
-            </a>
-          </div>
-        </div> <!-- c-media-block__content -->
-      </div> <!-- c-media-block -->
-
-      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
-        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-          <div class="c-block__image-wrap ">
-            <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-      <!--        <source srcset="//picsum.photos/300/300/?random" media="(min-width: 500px)">  -->
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/28_Gott_HeiligeGeist_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
-            </picture>
-          </div>
-        </div> <!-- c-media-block__image -->
-        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
-            <div class="u-spacing u-width--100p">
-              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-                <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist" class="c-block__title-link u-theme--link-hover--dark">
-                Heiliger Geist
-                </a>
-              </h3>
-              <p class="justify">Der Heilige Geist inspiert uns, er befähigt uns und führt unser Verständnis und Auffassung. Der Geist berührt unsere Herzen und verändert uns, um das Bild Gottes, indem wir erschaffen wurden, wiederherzustellen. </p>
-            </div>
-            <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist" class="c-block__button o-button o-button--outline">Mehr erfahren
-              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                  <title>o-arrow__long--left</title>
-                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-                </svg>
-              </span>
-            </a>
-          </div>
-        </div> <!-- c-media-block__content -->
-      </div> <!-- c-media-block -->
+      <p>Es ist ein Gott: Vater, Sohn und Heiliger Geist – drei in Einheit verbunden, von Ewigkeit her. Gott ist unsterblich, allmächtig und allwissend; er steht über allem und ist allgegenwärtig. Er ist unendlich und jenseits aller menschlichen Vorstellungskraft. Dennoch kann er erkannt werden, weil er sich selbst offenbart hat. Diesem Gott, der die Liebe ist, gebührt Ehre, Anbetung und der Dienst der ganzen Schöpfung in alle Ewigkeit. </p>
+      <p>5.Mo. 6,4; Mt. 28,19; 2.Kor. 13,13; Eph. 4,4‑6; 1.Petr. 1,2; 1.Tim. 1,17; Offb. 14,7.</p>
 
     </article>
+
   </div>
 
   <div class="c-sidebar fix-sidebar--at-medium c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
@@ -210,16 +81,16 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs">
-                      <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
-                      Heilige Schrift</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
-                      Dreieinigkeit</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
-                      Vater</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
-                      Sohn</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
-                      Heiliger Geist</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                  Heilige Schrift</a><br>
+                  <strong><a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
+                  Dreieinigkeit</a></strong><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
+                  Vater</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                  Sohn</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                  Heiliger Geist</a><br>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
@@ -394,9 +265,7 @@
             </div>
           </div> <!-- c-media-block__content -->
         </div> <!-- c-media-block -->
-
       </div>
-
     </div>
   </div>
 

@@ -31,17 +31,18 @@
       </ul>
     </nav> <!-- /.breadcrumbs -->
   </div>
-  <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
-  <div>
-    <figure class="o-figure u-padding--right">
-  <div class="u-image--wrap fitvid">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NyNjaFkVmyg#rel" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div> <!-- /.u-image--wrap -->
-  <figcaption class="o-figcaption">
-  <p class="o-caption u-color--gray u-font--secondary--s">Glaubensstandpunkt #1 - Die Heilige Schrift.</p>
-</figcaption>
 
-  </div>
+  <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
+    <div>
+      <figure class="o-figure u-padding--right">
+        <div class="u-image--wrap fitvid">
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NyNjaFkVmyg#rel" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div> <!-- /.u-image--wrap -->
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">Glaubensstandpunkt #1 - Die Heilige Schrift.</p>
+        </figcaption>
+      </figure>
+    </div>
 
     <article class="text c-article__body u-spacing">
       <h3 class="u-padding--bottom">Antik und doch zeitlos, ein einzigartiges Meisterstück der Literatur. Die Bibel offenbart die Rolle von Gott in der Menschheitsgeschichte und enthüllt unseren Platz in Gottes Plan. Die Heilige Schrift ist die Wahrheit, die uns führt und vor Täuschung schützt.</h3>
@@ -52,21 +53,21 @@
 
     <div style="height:200px" aria-hidden="true" class="wp-block-spacer"></div>
 
-  <div class="u-spacing--double u-padding--right">
-    <div class="c-block-wrap u-spacing">
-          <div class="c-block__heading u-theme--border-color--darker">
-            <h3 class="c-block__heading-title u-theme--color--darker">Weitere Beiträge</h3>
-          </div>
-          <div class="c-block-wrap__content u-spacing">
-            <div class="c-media-block c-block c-block__stacked c-media-block__stacked">
-              <div class="c-media-block__image c-block__image ">
-                <div class="c-block__image-wrap ">
-                  <picture class="picture">
-                <!--    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NyNjaFkVmyg#rel" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-                    <iframe width="560" height="315" src="https://player.vimeo.com/video/242198181?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                  </picture>
-                </div>
-              </div> <!-- c-media-block__image -->
+    <div class="u-spacing--double u-padding--right">
+      <div class="c-block-wrap u-spacing">
+        <div class="c-block__heading u-theme--border-color--darker">
+          <h3 class="c-block__heading-title u-theme--color--darker">Weitere Beiträge</h3>
+        </div>
+        <div class="c-block-wrap__content u-spacing">
+          <div class="c-media-block c-block c-block__stacked c-media-block__stacked">
+            <div class="c-media-block__image c-block__image ">
+              <div class="c-block__image-wrap ">
+                <picture class="picture">
+              <!--    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NyNjaFkVmyg#rel" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+                  <iframe width="560" height="315" src="https://player.vimeo.com/video/242198181?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                </picture>
+              </div>
+            </div> <!-- c-media-block__image -->
             <div class="c-media-block__content c-block__content u-spacing l-grid-item u-border--left u-color--gray u-theme--border-color--darker--left u-spacing--half">
               <div class="u-spacing c-block__group c-media-block__group ">
                 <div class="u-spacing u-width--100p">
@@ -89,7 +90,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 
   <div class="c-sidebar fix-sidebar--at-medium c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
     <div class="c-related-posts u-spacing">
@@ -113,8 +114,8 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs">
-                      <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
-                      Heilige Schrift</a><br>
+                      <strong><a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                      Heilige Schrift</a></strong><br>
                       <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
                       Dreieinigkeit</a><br>
                       <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
@@ -297,9 +298,7 @@
             </div>
           </div> <!-- c-media-block__content -->
         </div> <!-- c-media-block -->
-
       </div>
-
     </div>
   </div>
 
