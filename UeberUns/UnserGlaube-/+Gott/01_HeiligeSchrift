@@ -20,7 +20,7 @@
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong>
-            <a href="/wir-adventisten/unser-glaube/gott" class="c-breadcrumbs__link can-be--white">Gott</a>
+            <a href="/wir-adventisten/unser-glaube/gott/" class="c-breadcrumbs__link can-be--white">Gott</a>
           </strong>
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
@@ -72,7 +72,7 @@
               <div class="u-spacing c-block__group c-media-block__group ">
                 <div class="u-spacing u-width--100p">
                   <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m ">
-                    <a href="/" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="https://www.hope-media.at/mediathek/28/" class="c-block__title-link u-theme--link-hover--dark">
                       “28” Die Bibel - mehr als nur ein Buch!
                     </a>
                   </h3>
@@ -208,19 +208,19 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Gemeinde</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Übrigen</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-einheit" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-einheit/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Einheit</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-taufe" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-taufe/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Taufe</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl/" class="c-block__title-link u-theme--link-hover--dark">
                       Das Abendmahl</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben/" class="c-block__title-link u-theme--link-hover--dark">
                       Geistliche Gaben</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie" class="c-block__title-link u-theme--link-hover--dark">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Gabe der Prophetie
                   </a>
                 </h3>
@@ -247,15 +247,15 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                    <a href="/wir-adventisten/unser-glaube/leben/das-gesetz" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/leben/das-gesetz/" class="c-block__title-link u-theme--link-hover--dark">
                       Das Gesetz</a> <br>
-                    <a href="/wir-adventisten/unser-glaube/leben/der-sabbat" class="c-block__title-link u-theme--link-hover--darkx">
+                    <a href="/wir-adventisten/unser-glaube/leben/der-sabbat/" class="c-block__title-link u-theme--link-hover--darkx">
                       Der Sabbat</a> <br>
-                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter" class="c-block__title-link u-theme--link-hover--dark">
+                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
                         Gottes Haushalter</a> <br>
-                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter" class="c-block__title-link u-theme--link-hover--dark">
+                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
                       Lebensstil</a> <br>
-                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter" class="c-block__title-link u-theme--link-hover--dark">Ehe und Familie</a>
+                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">Ehe und Familie</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
@@ -280,15 +280,15 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
                       Das Heiligtum</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Wiederkunft Christi</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Auferstehung</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__title-link u-theme--link-hover--dark">
                       Das Millenium</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Neue Erde</a>
                 </h3>
               </div>
