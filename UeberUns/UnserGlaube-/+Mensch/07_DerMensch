@@ -20,12 +20,12 @@
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong>
-            <a href="/wir-adventisten/unser-glaube/gott/" class="c-breadcrumbs__link can-be--white">Gott</a>
+            <a href="/wir-adventisten/unser-glaube/mensch/" class="c-breadcrumbs__link can-be--white">Gott</a>
           </strong>
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong>
-            <span class="c-breadcrumbs__link can-be--white">Heilige Schrift</span>
+            <span class="c-breadcrumbs__link can-be--white">Der Mensch</span>
           </strong>
         </li>
       </ul>
@@ -36,60 +36,22 @@
     <div>
       <figure class="o-figure u-padding--right">
         <div class="u-image--wrap fitvid">
-          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NyNjaFkVmyg#rel" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4ooq0ouravE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div> <!-- /.u-image--wrap -->
         <figcaption class="o-figcaption">
-          <p class="o-caption u-color--gray u-font--secondary--s">Glaubensstandpunkt #1 - Die Heilige Schrift.</p>
+          <p class="o-caption u-color--gray u-font--secondary--s">Glaubensstandpunkt #7 - Der Mensch.</p>
         </figcaption>
       </figure>
     </div>
 
     <article class="text c-article__body u-spacing">
-      <h3 class="u-padding--bottom">Antik und doch zeitlos, ein einzigartiges Meisterstück der Literatur. Die Bibel offenbart die Rolle von Gott in der Menschheitsgeschichte und enthüllt unseren Platz in Gottes Plan. Die Heilige Schrift ist die Wahrheit, die uns führt und vor Täuschung schützt.</h3>
-      <p>Die Heilige Schrift ‑ Altes und Neues Testament ‑ ist das geschriebene Wort Gottes, durch göttliche Inspiration heiligen Menschen anvertraut, die geredet und geschrieben haben, getrieben vom Heiligen Geist. In diesem Wort hat Gott dem Menschen alles mitgeteilt, was zu dessen Errettung nötig ist. Die Heilige Schrift ist die unfehlbare Offenbarung seines Willens. Sie ist der Maβstab für den Charakter und der Prüfstein aller Erfahrungen. Sie ist die maβgebende Offenbarungsquelle aller Lehre und der zuverlässige Bericht von Gottes Handeln in der Geschichte.</p>
-      <p>Ps. 119,105; Spr. 30,5–6; Jes. 8,20; Joh. 17,17; 1.Thes. 2,13; 2.Tim. 3,16–17; Hbr. 4,12; 2.Ptr. 1,20–21</p>
+      <h3 class="u-padding--bottom">Einst geschaffen im Bilde Gottes, nun entstellt durch die Sünde, benötigte es einen makellosen Erlöser um uns wieder zu versöhnen. Der Geist stellt Gottes Abbild in uns wieder her, so dass Gott durch uns arbeiten kann.</h3>
+      <p>Mann und Frau wurden nach dem Bild Gottes geschaffen mit dem Vermögen und der Freiheit, als Persönlichkeit zu denken und zu handeln. Der Mensch ist eine unteilbare Einheit aus Leib, Seele und Geist und - obwohl als freies Wesen geschaffen - abhängig von Gott in seinem Leben und in allem, was er zum Leben braucht. Als Adam und Eva, unsere ersten Eltern, Gott ungehorsam wurden, verleugneten sie ihre Abhängigkeit von ihm und verloren dadurch ihre hohe Stellung vor Gott. Das Bild Gottes in ihnen wurde entstellt, und sie wurden der Macht des Todes unterworfen. Seitdem unterliegen alle Menschen der Sünde und ihren Folgen. Sie werden mit Schwachheit und Neigung zum Bösen geboren. Durch Christus aber versöhnte Gott die Welt mit sich selber, und durch den Heiligen Geist wird in sterblichen Menschen, die zur Umkehr bereit sind, das Bild ihres Schöpfers wiederhergestellt. Zur Ehre Gottes geschaffen, sind sie gerufen, ihn und einander zu lieben sowie für ihre Umwelt verantwortlich zu handeln.
+      </p>
+      <p>1.Mo. 1,26-28; 2,7; Ps. 8,4‑9; Apg. 17,24‑28; 1.Mo. 3; Ps. 51,7; Röm. 5,12‑17; 2.Kor. 5,19-20; Ps. 51,12; 1.Joh. 4,7-8; 11; 20; 1.Mo. 2,15.</p>
 
     </article>
 
-    <div style="height:200px" aria-hidden="true" class="wp-block-spacer"></div>
-
-    <div class="u-spacing--double u-padding--right">
-      <div class="c-block-wrap u-spacing">
-        <div class="c-block__heading u-theme--border-color--darker">
-          <h3 class="c-block__heading-title u-theme--color--darker">Weitere Beiträge</h3>
-        </div>
-        <div class="c-block-wrap__content u-spacing">
-          <div class="c-media-block c-block c-block__stacked c-media-block__stacked">
-            <div class="c-media-block__image c-block__image ">
-              <div class="c-block__image-wrap ">
-                <picture class="picture">
-              <!--    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NyNjaFkVmyg#rel" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-                  <iframe width="560" height="315" src="https://player.vimeo.com/video/242198181?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                </picture>
-              </div>
-            </div> <!-- c-media-block__image -->
-            <div class="c-media-block__content c-block__content u-spacing l-grid-item u-border--left u-color--gray u-theme--border-color--darker--left u-spacing--half">
-              <div class="u-spacing c-block__group c-media-block__group ">
-                <div class="u-spacing u-width--100p">
-                  <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m ">
-                    <a href="https://www.hope-media.at/mediathek/28/" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
-                      “28” Die Bibel - mehr als nur ein Buch!
-                    </a>
-                  </h3>
-                  <p class="c-media-block__description c-block__description">Ein Kurzvideobeitrag von HopeMedia Austria über die Heilige Schrift. Die beiden Bibeltexte im Video stehen in 1. Samuel 16,7b und Matthäus 7,12.</p>
-                </div>
-                <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-                  <a href="https://www.hope-media.at/mediathek/28/" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
-                  <span class="c-block__category u-text-transform--upper">HopeMedia Austria</span>
-                  </a>
-                  <time class="c-block__date u-text-transform--upper" datetime="2017-12-28">26. Mai 2019</time>
-                </div>
-              </div>
-            </div> <!-- c-media-block__content -->
-          </div> <!-- c-media-block -->
-        </div>
-      </div>
-    </div>
   </div>
 
   <div class="c-sidebar fix-sidebar--at-medium c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
@@ -113,21 +75,21 @@
           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
-                <h3 class="u-theme--color--dark u-font--primary--xs">
-                      <strong><a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
-                      Heilige Schrift</a></strong><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
-                      Dreieinigkeit</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
-                      Vater</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/sohn/" class="c-block__underscore-link">
-                      Sohn</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist/" class="c-block__underscore-link">
-                      Heiliger Geist</a>
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                  Heilige Schrift</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
+                  Dreieinigkeit</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
+                  Vater</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                  Sohn</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                  Heiliger Geist</a><br>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/gott/">Gott</a></span>
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/gott/">Gott</a></span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -147,15 +109,15 @@
           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
-                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                <h3 class="u-theme--color--dark u-font--primary--xs">
                       <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__underscore-link">
                         Die Schöpfung</a><br>
                       <a href="/wir-adventisten/unser-glaube/mensch/mensch/der-mensch/" class="c-block__underscore-link">
-                        Der Mensch</a>
+                        <strong>Der Mensch</strong></a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/mensch/">Mensch</a></span>
+                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/mensch/">Mensch</a></span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
