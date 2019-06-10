@@ -20,77 +20,40 @@
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong>
-            <span class="c-breadcrumbs__link can-be--white">Mensch</span>
+            <a href="/wir-adventisten/unser-glaube/erloesung/" class="c-breadcrumbs__link can-be--white">Erlösung</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <span class="c-breadcrumbs__link can-be--white">Der große Kampf</span>
           </strong>
         </li>
       </ul>
     </nav> <!-- /.breadcrumbs -->
   </div>
+
   <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
+    <div>
+      <figure class="o-figure u-padding--right">
+        <div class="u-image--wrap fitvid">
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UZCs9BWmOgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div> <!-- /.u-image--wrap -->
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">Glaubensstandpunkt #8 - Der große Kampf.</p>
+        </figcaption>
+      </figure>
+    </div>
 
     <article class="text c-article__body u-spacing">
-      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
-        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-          <div class="c-block__image-wrap ">
-            <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/28_Mensch_DieSchoepfung_300x300.jpg" alt="Gott ist der Schöpfer der Erde">
-            </picture>
-          </div>
-        </div> <!-- c-media-block__image -->
-        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
-            <div class="u-spacing u-width--100p">
-              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-                <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__title-link u-theme--link-hover--dark">
-                Die Schöpfung
-                </a>
-              </h3>
-              <p class="justify">Gott schuf unsere Erde mit hervorragender Kreativität und großer Fürsorge. Er schuf die Menschheit, und übertrug die Verantwortung, auf die Erde zu achten und Freude am Planeten zu haben - stets in perfekter Ausgeglichenheit zwischen Ruhe und Erholung.
-</p>
-            </div>
-            <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__button o-button o-button--outline">Mehr erfahren
-              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                  <title>o-arrow__long--left</title>
-                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-                </svg>
-              </span>
-            </a>
-          </div>
-        </div> <!-- c-media-block__content -->
-      </div> <!-- c-media-block -->
+      <h3 class="u-padding--bottom">Satan beschuldigte Gott, dass er unglaubwürdig und ungerecht sei. Gott hat uns die Freiheit der Wahl gegeben. Die Geschichte der Menschheit zeigt die Ergebnisse der Rebellion auf - und die unfassbare Kraft der Liebe Gottes uns zu eretten.</h3>
 
-      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
-        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-          <div class="c-block__image-wrap ">
-            <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/28_Mensch_DerMensch_300x300.jpg" alt="Glaubenslehre 'Gott' und seine Offenbarung durch die Bibel ">
-            </picture>
-          </div>
-        </div> <!-- c-media-block__image -->
-        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
-            <div class="u-spacing u-width--100p">
-              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-                <a href="/wir-adventisten/unser-glaube/mensch/der-mensch" class="c-block__title-link u-theme--link-hover--dark">
-                Der Mensch
-                </a>
-              </h3>
-              <p class="justify">Einst geschaffen im Bilde Gottes, nun entstellt durch die Sünde, benötigte es einen makellosen Erlöser um uns wieder zu versöhnen. Der Geist stellt Gottes Abbild in uns wieder her, so dass Gott durch uns arbeiten kann.</p>
-            </div>
-            <a href="/wir-adventisten/unser-glaube/mensch/der-mensch" class="c-block__button o-button o-button--outline">Mehr erfahren
-              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                  <title>o-arrow__long--left</title>
-                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-                </svg>
-              </span>
-            </a>
-          </div>
-        </div> <!-- c-media-block__content -->
-      </div> <!-- c-media-block -->
+      <h3>Glaubensüberzeugung Nr. 8:Der große Kampf</h3>
+      <p>Die ganze Menschheit ist hineingezogen in eine große Auseinandersetzung zwischen Christus und Satan, bei der es um das Wesen Gottes, sein Gesetz und seine Herrschaft über das Universum geht. Dieser Streit hatte seinen Ursprung im Himmel, als ein geschaffenes Wesen, ausgestattet mit Entscheidungsfreiheit, durch Selbsterhöhung zum Satan, zum Widersacher Gottes, wurde. Auch einen Teil der Engel verführte er zum Aufruhr. Als Satan Adam und Eva zur Sünde verleitete, brachte er den Geist des Aufruhrs auch auf unsere Erde. Diese Sünde hat das Bild Gottes im Menschen entstellt und die geschaffene Welt in Unordnung gebracht. Sie wurde schließlich durch eine weltweite Flut verwüstet, wie in der historischen Beschreibung in 1. Mose 1–11 dargestellt. Unsere Erde ist vor der gesamten Schöpfung zum Austragungsort eines universalen Konfliktes geworden, in dem sich der Gott der Liebe schließlich als rechtmäßiger Sieger erweisen wird. Christus sendet den Heiligen Geist und seine Engel, um seinem Volk in dieser Auseinandersetzung beizustehen, es zu führen, zu schützen und auf dem Weg des Heils zu bewahren.
+      </p>
+      <p>(1.Mo. 3; 6–8; Hi. 1,6–12; Jes. 14,12–14; Hes. 28,12‑18; Röm. 1,19–32; 3,4; 5,12–21; 8,19–22; 1.Kor. 4,9; Hbr. 1,14; 1.Ptr. 5,8; 2.Ptr. 3,6; Offb. 12,4‑9.</p>
 
     </article>
+
   </div>
 
   <div class="c-sidebar fix-sidebar--at-medium c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
@@ -115,16 +78,16 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                      <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
-                      Heilige Schrift</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
-                      Dreieinigkeit</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
-                      Vater</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/sohn/" class="c-block__underscore-link">
-                      Sohn</a><br>
-                      <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist/" class="c-block__underscore-link">
-                      Heiliger Geist</a>
+                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                  Heilige Schrift</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
+                  Dreieinigkeit</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
+                  Vater</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/sohn/" class="c-block__underscore-link">
+                  Sohn</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist/" class="c-block__underscore-link">
+                  Heiliger Geist</a><br>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
@@ -148,15 +111,15 @@
           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
-                <h3 class="u-theme--color--dark u-font--primary--xs">
-                      <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__underscore-link">
-                        Die Schöpfung</a><br>
-                      <a href="/wir-adventisten/unser-glaube/mensch/der-mensch/" class="c-block__underscore-link">
-                        Der Mensch</a>
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                  <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__title-link u-theme--link-hover--dark">
+                    Die Schöpfung</a><br>
+                    <a href="/wir-adventisten/unser-glaube/mensch/der-mensch/" class="c-block__title-link u-theme--link-hover--dark">
+                    Der Mensch</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/mensch/">Mensch</a></span>
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/mensch/">Mensch</a></span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -176,19 +139,19 @@
           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
-                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                      <a href="/wir-adventisten/unser-glaube/erloesung/der-grosse-kampf/" class="c-block__title-link u-theme--link-hover--dark">
-                        Der große Kampf</a><br>
-                      <a href="/wir-adventisten/unser-glaube/erloesung/christus-auf-erden/" class="c-block__title-link u-theme--link-hover--dark">
-                        Christus auf Erden</a><br>
-                      <a href="/wir-adventisten/unser-glaube/erloesung/erloesung-erfahren/" class="c-block__title-link u-theme--link-hover--dark">
-                      Erlösung erfahren</a><br>
-                      <a href="/wir-adventisten/unser-glaube/erloesung/wachsen-in-christus/" class="c-block__title-link u-theme--link-hover--dark">
-                        Wachsen in Christus</a>
+                <h3 class="u-theme--color--dark u-font--primary--xs">
+                  <a href="/wir-adventisten/unser-glaube/erloesung/der-grosse-kampf/" class="c-block__underscore-link">
+                  <strong>Der große Kampf</strong></a><br>
+                  <a href="/wir-adventisten/unser-glaube/erloesung/christus-auf-erden/" class="c-block__underscore-link">
+                  Christus auf Erden</a><br>
+                  <a href="/wir-adventisten/unser-glaube/erloesung/erloesung-erfahren/" class="c-block__underscore-link">
+                  Erlösung erfahren</a><br>
+                  <a href="/wir-adventisten/unser-glaube/erloesung/wachsen-in-christus/" class="c-block__underscore-link">
+                  Wachsen in Christus</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/erloesung/">Erlösung</a></span>
+                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/erloesung/">Erlösung</a></span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -210,19 +173,19 @@
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
                   <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde/" class="c-block__title-link u-theme--link-hover--dark">
-                      Die Gemeinde</a><br>
+                  Die Gemeinde</a><br>
                   <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen/" class="c-block__title-link u-theme--link-hover--dark">
-                      Die Übrigen</a><br>
+                  Die Übrigen</a><br>
                   <a href="/wir-adventisten/unser-glaube/kirche/die-einheit/" class="c-block__title-link u-theme--link-hover--dark">
-                      Die Einheit</a><br>
+                  Die Einheit</a><br>
                   <a href="/wir-adventisten/unser-glaube/kirche/die-taufe/" class="c-block__title-link u-theme--link-hover--dark">
-                      Die Taufe</a><br>
+                  Die Taufe</a><br>
                   <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl/" class="c-block__title-link u-theme--link-hover--dark">
-                      Das Abendmahl</a><br>
+                  Das Abendmahl</a><br>
                   <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben/" class="c-block__title-link u-theme--link-hover--dark">
-                      Geistliche Gaben</a><br>
+                  Geistliche Gaben</a><br>
                   <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie/" class="c-block__title-link u-theme--link-hover--dark">
-                      Die Gabe der Prophetie
+                  Die Gabe der Prophetie
                   </a>
                 </h3>
               </div>
@@ -248,15 +211,16 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                    <a href="/wir-adventisten/unser-glaube/leben/das-gesetz/" class="c-block__title-link u-theme--link-hover--dark">
-                      Das Gesetz</a> <br>
-                    <a href="/wir-adventisten/unser-glaube/leben/der-sabbat/" class="c-block__title-link u-theme--link-hover--darkx">
-                      Der Sabbat</a> <br>
-                    <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
-                        Gottes Haushalter</a> <br>
-                    <a href="/wir-adventisten/unser-glaube/leben/lebensstil/" class="c-block__title-link u-theme--link-hover--dark">
-                      Lebensstil</a> <br>
-                      <a href="/wir-adventisten/unser-glaube/leben/ehe-und-familie/" class="c-block__title-link u-theme--link-hover--dark">Ehe und Familie</a>
+                  <a href="/wir-adventisten/unser-glaube/leben/das-gesetz/" class="c-block__title-link u-theme--link-hover--dark">
+                  Das Gesetz</a> <br>
+                  <a href="/wir-adventisten/unser-glaube/leben/der-sabbat/" class="c-block__title-link u-theme--link-hover--darkx">
+                  Der Sabbat</a> <br>
+                  <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
+                  Gottes Haushalter</a> <br>
+                  <a href="/wir-adventisten/unser-glaube/leben/lebensstil/" class="c-block__title-link u-theme--link-hover--dark">
+                  Lebensstil</a> <br>
+                  <a href="/wir-adventisten/unser-glaube/leben/ehe-und-familie/" class="c-block__title-link u-theme--link-hover--dark">
+                  Ehe und Familie</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
@@ -281,16 +245,16 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
-                      Das Heiligtum</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
-                      Die Wiederkunft Christi</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__title-link u-theme--link-hover--dark">
-                      Die Auferstehung</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__title-link u-theme--link-hover--dark">
-                      Das Millenium</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__title-link u-theme--link-hover--dark">
-                      Die Neue Erde</a>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                  Das Heiligtum</a><br>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Wiederkunft Christi</a><br>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Auferstehung</a><br>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__title-link u-theme--link-hover--dark">
+                  Das Millenium</a><br>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Neue Erde</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
@@ -299,9 +263,7 @@
             </div>
           </div> <!-- c-media-block__content -->
         </div> <!-- c-media-block -->
-
       </div>
-
     </div>
   </div>
 
