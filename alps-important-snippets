@@ -59,3 +59,10 @@ text c-article__body u-spacing--double
       </span><strong><a class="c-breadcrumbs__link can-be--white">Photos</a></strong></li>
   </ul>
 </nav> <!-- /.breadcrumbs -->
+
+
+@media (min-width: 901px) {
+p.p-fontsize-06--l {
+  font-size: 0.8rem;
+}
+}

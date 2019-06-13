@@ -1,0 +1,270 @@
+<!-- wp:html -->
+<section class="l-grid u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="l-grid-item l-grid-item--6-col">
+    <nav class="c-breadcrumbs" role="navigation">
+      <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white">Über uns</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/wir-adventisten/unser-glaube/" class="c-breadcrumbs__link can-be--white">Unser Glaube</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/wir-adventisten/unser-glaube/erloesung/" class="c-breadcrumbs__link can-be--white">Erlösung</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <span class="c-breadcrumbs__link can-be--white">Christus auf Erden</span>
+          </strong>
+        </li>
+      </ul>
+    </nav> <!-- /.breadcrumbs -->
+  </div>
+
+  <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
+    <div>
+      <figure class="o-figure u-padding--right">
+        <div class="u-image--wrap fitvid">
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwqPek822JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div> <!-- /.u-image--wrap -->
+        <figcaption class="o-figcaption">
+          <p class="o-caption u-color--gray u-font--secondary--s">Glaubensstandpunkt #9 - Leben, Tod und die Auferstehung Jesu Christi</p>
+        </figcaption>
+      </figure>
+    </div>
+
+    <article class="text c-article__body u-spacing">
+      <h3 class="u-padding--bottom">Gott sandte Jesus, seinen Sohn, um ein tadelloses Leben vorzuleben, was wir nicht konnten. Er starb den Tod, den unsere Sünden verdiente. Wenn wir das Opfer Jesu akzeptieren, haben wir Anrecht auf das versprechen des ewigen Lebens.</h3>
+      <h3>Glaubensüberzeugung Nr. 9: Leben, Tod und Auferstehung Christi</h3>
+        <p>Das Leben Christi im vollkommenen Gehorsam gegenüber dem Willen Gottes, sein Leiden, sein Tod und seine Auferstehung sind das einzige Mittel, die Sünde des Menschen zu sühnen. Wer diese von Gott bewirkte Versöhnung im Glauben annimmt, hat das ewige Leben. Die ganze Schöpfung kann so die unendliche und heilige Liebe des Schöpfers besser verstehen. Diese vollkommene Versöhnung erweist die Gerechtigkeit des Gesetzes Gottes und offenbart Gottes Güte. Dadurch wird unsere Sünde verurteilt und zugleich ein Weg zu ihrer Vergebung geöffnet. Christi stellvertretender Tod hat sühnende, versöhnende und umwandelnde Wirkung. Christi leibliche Auferstehung verkündet Gottes Triumph über die Mächte des Bösen und sichert allen, die sich versöhnen lassen, endgültigen Sieg über Sünde und Tod zu. In seiner Auferstehung wird offenbar, dass Christus der Herr ist. Vor ihm werden einst alle im Himmel und auf Erden ihre Knie beugen.
+      </p>
+      <p>(1.Mo. 3,15; Ps. 22,2; Jes. 53; Joh. 3,16; 14,30; Röm. 1,4; 3,25; 4,25; 8,3–4; 1.Kor. 15,3–4.20–22; 2.Kor. 5,14–15.19–21; Phil. 2,6–11; Kol. 2,15; 1.Ptr. 2,21–22; 1.Joh. 2,2; 4,10.)</p>
+
+    </article>
+
+  </div>
+
+  <div class="c-sidebar fix-sidebar--at-medium c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
+    <div class="c-related-posts u-spacing">
+      <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">28 Glaubenspunkte</h3>
+      </div>
+      <div class="c-related-posts__blocks u-spacing">
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gott_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gott_150x100.jpg" alt=" Fundament des Glaubens: Gott.">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                  Heilige Schrift</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
+                  Dreieinigkeit</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
+                  Vater</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/sohn/" class="c-block__underscore-link">
+                  Sohn</a><br>
+                  <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist/" class="c-block__underscore-link">
+                  Heiliger Geist</a><br>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/gott/">Gott</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Mensch_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Mensch_150x100.jpg" alt=" Fundamentalglaube Mensch.">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                  <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__title-link u-theme--link-hover--dark">
+                    Die Schöpfung</a><br>
+                    <a href="/wir-adventisten/unser-glaube/mensch/der-mensch/" class="c-block__title-link u-theme--link-hover--dark">
+                    Der Mensch</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/mensch/">Mensch</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Erloesung_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Erloesung_150x100.jpg" alt="Fundament des Glaubens: Die Erlösung durch Jesus Christus">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs">
+                  <a href="/wir-adventisten/unser-glaube/erloesung/der-grosse-kampf/" class="c-block__underscore-link">
+                  Der große Kampf</a><br>
+                  <a href="/wir-adventisten/unser-glaube/erloesung/christus-auf-erden/" class="c-block__underscore-link">
+                  <strong>Christus auf Erden</strong></a><br>
+                  <a href="/wir-adventisten/unser-glaube/erloesung/erloesung-erfahren/" class="c-block__underscore-link">
+                  Erlösung erfahren</a><br>
+                  <a href="/wir-adventisten/unser-glaube/erloesung/wachsen-in-christus/" class="c-block__underscore-link">
+                  Wachsen in Christus</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/erloesung/">Erlösung</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gemeinde_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gemeinde_150x100.jpg" alt="Fundament des Glaubens: Die Gemeinde">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Gemeinde</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Übrigen</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-einheit/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Einheit</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-taufe/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Taufe</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl/" class="c-block__title-link u-theme--link-hover--dark">
+                  Das Abendmahl</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben/" class="c-block__title-link u-theme--link-hover--dark">
+                  Geistliche Gaben</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Gabe der Prophetie
+                  </a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/kirche/">Kirche</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Leben_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Leben_150x100.jpg" alt="Fundament des Glaubens: Die Ehe und das Familienleben.">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                  <a href="/wir-adventisten/unser-glaube/leben/das-gesetz/" class="c-block__title-link u-theme--link-hover--dark">
+                  Das Gesetz</a> <br>
+                  <a href="/wir-adventisten/unser-glaube/leben/der-sabbat/" class="c-block__title-link u-theme--link-hover--darkx">
+                  Der Sabbat</a> <br>
+                  <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
+                  Gottes Haushalter</a> <br>
+                  <a href="/wir-adventisten/unser-glaube/leben/lebensstil/" class="c-block__title-link u-theme--link-hover--dark">
+                  Lebensstil</a> <br>
+                  <a href="/wir-adventisten/unser-glaube/leben/ehe-und-familie/" class="c-block__title-link u-theme--link-hover--dark">
+                  Ehe und Familie</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/leben/">Leben</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Wiederherstellung_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Wiederherstellung_150x100.jpg" alt="Fundament des Glaubens: Wiederherstellungsprozess durch die Gnade Jesus Christi.">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                  Das Heiligtum</a><br>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Wiederkunft Christi</a><br>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Auferstehung</a><br>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__title-link u-theme--link-hover--dark">
+                  Das Millenium</a><br>
+                  <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__title-link u-theme--link-hover--dark">
+                  Die Neue Erde</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/wiederherstellung/">Wiederherstellung</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+      </div>
+    </div>
+  </div>
+
+</section>
+<!-- /wp:html -->

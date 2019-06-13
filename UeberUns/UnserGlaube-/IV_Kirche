@@ -1,0 +1,469 @@
+<!-- wp:html -->
+<section class="l-grid u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="l-grid-item l-grid-item--6-col">
+    <nav class="c-breadcrumbs" role="navigation">
+      <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white">Über uns</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/wir-adventisten/unser-glaube/" class="c-breadcrumbs__link can-be--white">Unser Glaube</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <span class="c-breadcrumbs__link can-be--white">Kirche</span>
+          </strong>
+        </li>
+      </ul>
+    </nav> <!-- /.breadcrumbs -->
+  </div>
+  <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
+    <article class="text c-article__body u-spacing">
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Kirche_DieGemeinde_300x300.jpg" alt="Die Gemeinde Gottes">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde/" class="c-block__title-link u-theme--link-hover--dark">
+                Die Gemeinde
+                </a>
+              </h3>
+              <p class="justify">
+                Die Gemeinde ist Gottes Familie auf Erden - in gemeinsamen Dienen, Feiern, Studieren und Anbetung. Aufschauend auf Jesus als Leiter und Erlöser, ist die Kirche dazu berufen, die gute Nachricht der Erlösung allen Menschen zu bringen.
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Kirche_DieUebrigen_300x300.jpg" alt="Die Übrigen, Gottes letztes Volk auf Erden ">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen/" class="c-block__title-link u-theme--link-hover--dark">
+                Die Übrigen und Ihre Mission
+                </a>
+              </h3>
+              <p class="justify">
+                Am Ende der Zeit ruft Gott seine Menschen zurück zum Kern der Wahrheit. Die baldige Wiederkunft Jesu verkündend, heben Sie Gott als Schöpfer, daw himmlische Untersuchungsgericht und die Gefahr der geistlichen Kompromisse hervor,
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Kirche_DieEinheit_300x300.jpg" alt="Die Übrigen, Gottes letztes Volk auf Erden ">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/kirche/die-einheit/" class="c-block__title-link u-theme--link-hover--dark">
+                Die Einheit im Leib Jesu Christi
+                </a>
+              </h3>
+              <p class="justify">
+                Der menschliche Körper dient als ausgezeichnete Metapher für Gottes Menschen auf Erden. Zusammengesetzt aus vielen Teilen, die sich so stark voneinander unterscheiden, wie es nur denkbar scheint. Die Harmonie der Stumme und die Einheit in der Mission ist ein Ergebnis des Heiligen Geistes in uns.
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/kirche/die-einheit/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Kirche_DieTaufe_300x300.jpg" alt="Die Taufe als persönliche Entscheidung für Gott ">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/kirche/die-taufe/" class="c-block__title-link u-theme--link-hover--dark">
+                Die Taufe
+                </a>
+              </h3>
+              <p class="justify">
+                Taufe symbolisiert und verkündigt unseren neuen Glauben in Christus und unser Vertrauen in seine Vergebung. Begraben im Wasser, stehen wir in einem neuen Leben in Jesus auf, bevollmächtigt durch den Heiligen Geist.
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/kirche/die-taufe/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Kirche_DasAbendmahl_300x300.jpg" alt="Die Taufe als persönliche Entscheidung für Gott ">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl/" class="c-block__title-link u-theme--link-hover--dark">
+                Das Abendmahl
+                </a>
+              </h3>
+              <p class="justify">
+                Das Abendmahl symbolisiert unsere Akzeptanz des Leib und Blut Jesu, welches für uns vergossen wurde. In ÜBerprüfung unseres Herzens waschen wir einander die Füße, in Erinnerung an Jesus demütiges Beispiel des Dienens.
+            </div>
+            <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Kirche_GeistlicheGaben_300x300.jpg" alt="Die Taufe als persönliche Entscheidung für Gott ">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben/" class="c-block__title-link u-theme--link-hover--dark">
+                Geistliche Gaben und Dienst
+                </a>
+              </h3>
+              <p class="justify">
+                Von Kunstfertigkeit bis zum Lehren und dem Zuhören von Predigten bevollmächtigt der Heilige Geist jeden von uns mit Fähigkeiten und Talenten, die zur Ehre Gottes und der Mission der Gemeinde dienen.
+            </div>
+            <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Kirche_DieGabeDerProphetie_300x300.jpg" alt="Die Taufe als persönliche Entscheidung für Gott ">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie/" class="c-block__title-link u-theme--link-hover--dark">
+                Die Gabe der Prophetie
+                </a>
+              </h3>
+              <p class="justify">
+                In den letzten Tagen, wie auch zu biblischen Zeiten, segnete der Heilige Geist Gottes Volk mit der Gabe der Prophetie. Eine Person, welche diese Gabe aufgezeigt hat, war Ellen G. White, Mitgründerin der Kirche der Siebenten-Tags-Adventisten.
+            </div>
+            <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+    </article>
+  </div>
+
+  <div class="c-sidebar fix-sidebar--at-medium c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
+    <div class="c-related-posts u-spacing">
+      <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">28 Glaubenspunkte</h3>
+      </div>
+      <div class="c-related-posts__blocks u-spacing">
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gott_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gott_150x100.jpg" alt=" Fundament des Glaubens: Gott.">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                      <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                      Heilige Schrift</a><br>
+                      <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
+                      Dreieinigkeit</a><br>
+                      <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
+                      Vater</a><br>
+                      <a href="/wir-adventisten/unser-glaube/gott/sohn/" class="c-block__underscore-link">
+                      Sohn</a><br>
+                      <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist/" class="c-block__underscore-link">
+                      Heiliger Geist</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/gott/">Gott</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Mensch_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Mensch_150x100.jpg" alt=" Fundamentalglaube Mensch.">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                      <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__title-link u-theme--link-hover--dark">
+                        Die Schöpfung</a><br>
+                      <a href="/wir-adventisten/unser-glaube/mensch/der-mensch/" class="c-block__title-link u-theme--link-hover--dark">
+                        Der Mensch</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/mensch/">Mensch</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Erloesung_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Erloesung_150x100.jpg" alt="Fundament des Glaubens: Die Erlösung durch Jesus Christus">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                      <a href="/wir-adventisten/unser-glaube/erloesung/der-grosse-kampf/" class="c-block__title-link u-theme--link-hover--dark">
+                        Der große Kampf</a><br>
+                      <a href="/wir-adventisten/unser-glaube/erloesung/christus-auf-erden/" class="c-block__title-link u-theme--link-hover--dark">
+                        Christus auf Erden</a><br>
+                      <a href="/wir-adventisten/unser-glaube/erloesung/erloesung-erfahren/" class="c-block__title-link u-theme--link-hover--dark">
+                        Erlösung erfahren</a><br>
+                      <a href="/wir-adventisten/unser-glaube/erloesung/wachsen-in-christus/" class="c-block__title-link u-theme--link-hover--dark">
+                        Wachsen in Christus</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/erloesung/">Erlösung</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gemeinde_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Gemeinde_150x100.jpg" alt="Fundament des Glaubens: Die Gemeinde">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde/" class="c-block__underscore-link">
+                      Die Gemeinde</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen/" class="c-block__underscore-link">
+                      Die Übrigen</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-einheit/" class="c-block__underscore-link">
+                      Die Einheit</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-taufe/" class="c-block__underscore-link">
+                      Die Taufe</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl/" class="c-block__underscore-link">
+                      Das Abendmahl</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben/" class="c-block__underscore-link">
+                      Geistliche Gaben</a><br>
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie/" class="c-block__underscore-link">
+                      Die Gabe der Prophetie
+                  </a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/kirche/">Kirche</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Leben_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Leben_150x100.jpg" alt="Fundament des Glaubens: Die Ehe und das Familienleben.">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                    <a href="/wir-adventisten/unser-glaube/leben/das-gesetz/" class="c-block__title-link u-theme--link-hover--dark">
+                      Das Gesetz</a> <br>
+                    <a href="/wir-adventisten/unser-glaube/leben/der-sabbat/" class="c-block__title-link u-theme--link-hover--darkx">
+                      Der Sabbat</a> <br>
+                    <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
+                        Gottes Haushalter</a> <br>
+                    <a href="/wir-adventisten/unser-glaube/leben/lebensstil/" class="c-block__title-link u-theme--link-hover--dark">
+                      Lebensstil</a> <br>
+                    <a href="/wir-adventisten/unser-glaube/leben/ehe-und-familie/" class="c-block__title-link u-theme--link-hover--dark">Ehe und Familie</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/leben/">Leben</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap">
+              <picture class="picture">
+              <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Wiederherstellung_150x100.jpg" media="(min-width: 500px)">
+              <!--[if IE 9]></video><![endif]-->
+              <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Wiederherstellung_150x100.jpg" alt="Fundament des Glaubens: Wiederherstellungsprozess durch die Gnade Jesus Christi.">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group">
+              <div class="u-spacing u-width--100p">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                      Das Heiligtum</a><br>
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                      Die Wiederkunft Christi</a><br>
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__title-link u-theme--link-hover--dark">
+                      Die Auferstehung</a><br>
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__title-link u-theme--link-hover--dark">
+                      Das Millenium</a><br>
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__title-link u-theme--link-hover--dark">
+                      Die Neue Erde</a>
+                </h3>
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/wiederherstellung/">Wiederherstellung</a></span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+
+      </div>
+
+    </div>
+  </div>
+
+</section>
+<!-- /wp:html -->
