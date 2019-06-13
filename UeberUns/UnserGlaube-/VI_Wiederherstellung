@@ -20,38 +20,179 @@
         </li>
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong>
-            <a href="/wir-adventisten/unser-glaube/gott/" class="c-breadcrumbs__link can-be--white">Gott</a>
-          </strong>
-        </li>
-        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-          <strong>
-            <span class="c-breadcrumbs__link can-be--white">Sohn</span>
+            <span class="c-breadcrumbs__link can-be--white">Wiederherstellung</span>
           </strong>
         </li>
       </ul>
     </nav> <!-- /.breadcrumbs -->
   </div>
-
   <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
-    <div>
-      <figure class="o-figure u-padding--right">
-        <div class="u-image--wrap fitvid">
-          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zKxPp_y4Q9w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div> <!-- /.u-image--wrap -->
-        <figcaption class="o-figcaption">
-          <p class="o-caption u-color--gray u-font--secondary--s">Glaubensstandpunkt #4 - Sohn.</p>
-        </figcaption>
-      </figure>
-    </div>
-
     <article class="text c-article__body u-spacing">
-      <h3 class="u-padding--bottom">Jesus wurde Mensch, um uns zu erretten. Durch Ihn - unser Helfer, Fürsprecher und Erlöser - können wir einen Neuanfang beginnen. Er bereitet den Himmel für uns vor und wird wiederkommen, um uns zu sich zu holen</h3>
-      <h3>Glaubensüberzeugung Nr. 4: Der Sohn</h3>
-      <p>Gott, der ewige Sohn, wurde Mensch in Jesus Christus. Durch ihn ist alles geschaffen, der Charakter Gottes offenbart, die Erlösung der Menschheit bewirkt und die Welt gerichtet. Ewig wahrer Gott, wurde er auch wahrer Mensch: Jesus Christus. Er wurde gezeugt durch den Heiligen Geist und geboren von der Jungfrau Maria. Er lebte als Mensch, wurde versucht als Mensch und war dennoch die vollkommene Verkörperung der Gerechtigkeit und Liebe Gottes. Seine Wunder bezeugten die Macht Gottes und bestätigten ihn als den von Gott verheiβenen Erlöser. Er litt und starb aus freiem Willen für unsere Sünden an unserer Statt am Kreuz, wurde von den Toten auferweckt und fuhr gen Himmel, um für uns im himmlischen Heiligtum zu dienen. Er wird wiederkommen in Herrlichkeit zur endgültigen Errettung seines Volkes und zur Wiederherstellung aller Dinge.</p>
-      <p>Joh. 1,1‑3; 14; Kol. 1,15‑19; Joh. 10,30; 14,9; Röm. 6,23; 2.Kor. 5,17‑19; Joh. 5,22; Lk. 1,35; Phil. 2,5‑11; Hbr. 2,9‑18; 1.Kor. 15,3-4; Hbr. 8,1-2; Joh. 14,1‑3..</p>
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Wiederherstellung_DasHeiligtum_300x300.jpg" alt="Christus' Dienst im himmlischen Heiligtum">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                Der Dienst von Christus im himmlischen Heiligtum
+                </a>
+              </h3>
+              <p class="justify">
+                Das allumfassende Opfer gibt uns im Bewusstsein, dass er uns vergeben hat, das Zutrauen, Gott näher zu kommen. Jetzt überprüft Jesus unsere Leben, bevor er wiederkommt, und hier gibt es keine Zweifel, dass sein Gericht mit Liebe vollzogen wird.
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Wiederherstellung_DieWiederkunftChristi_300x300.jpg" alt="Die Wiederkunft Christi">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-wiederkunft-christi/" class="c-block__title-link u-theme--link-hover--dark">
+                Die Wiederkunft Christi
+                </a>
+              </h3>
+              <p class="justify">
+                Wir schauen mit Freuden auf die von Jesus versprochene Wiederkunft, wenn er die seine geretteten Kinder auferwecken wird und mit zu sich in den Himmel nehmen wird. Auch wenn wir nicht genau wissen, wann er wiederkommt, können wir in freudiger Anteilnahme leben.
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-wiederkunft-christi/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Wiederherstellung_DieAuferstehung_300x300.jpg" alt="Die Wiederkunft Christi">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__title-link u-theme--link-hover--dark">
+                Tod und Auferstehung
+                </a>
+              </h3>
+              <p class="justify">
+                Die unbewusste Nichtigkeit des Totes trennt uns vom Gott des Lebens, doch der Sieg über den Tot durch Jesus bedeutet für die Geretteten, dass sie sich der Auferstehung und dem ewigen Leben freudig entgegensehen können.
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Wiederherstellung_DasMillenium_300x300.jpg" alt="Die Wiederkunft Christi">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__title-link u-theme--link-hover--dark">
+                Das Millenium
+                </a>
+              </h3>
+              <p class="justify">
+                Während die Geretteten sich mit Gott wiederverbinden, werden Satan und seine Nachfolger auf dieser Erde von selbst in Gefangenschaft verbleiben. Nach eintausend Jahren wird Gott die verlorenen für das letzte Gericht auferwecken, bevor er Sünder und Sünde vernichtet.
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+      <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap u-padding--bottom">
+        <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+          <div class="c-block__image-wrap ">
+            <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Wiederherstellung_DieNeueErde_300x300.jpg" alt="Die Wiederkunft Christi">
+            </picture>
+          </div>
+        </div> <!-- c-media-block__image -->
+        <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+          <div class="u-spacing c-block__group c-media-block__group u-padding--right">
+            <div class="u-spacing u-width--100p">
+              <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+                <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__title-link u-theme--link-hover--dark">
+                Die neue Erde
+                </a>
+              </h3>
+              <p class="justify">
+                Gott wird unsere einmal befleckte Welt wiedererschaffen und mit uns ewig leben. Wir werden schlussendlich unser wahres Potential erreichen, in Liebe und Freude leben, so wie Gott uns erschaffen hat.
+              </p>
+            </div>
+            <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__button o-button o-button--outline">Mehr erfahren
+              <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                  <title>o-arrow__long--left</title>
+                  <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div> <!-- c-media-block__content -->
+      </div> <!-- c-media-block -->
+
+
+
 
     </article>
-
   </div>
 
   <div class="c-sidebar fix-sidebar--at-medium c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
@@ -75,21 +216,21 @@
           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
-                <h3 class="u-theme--color--dark u-font--primary--xs">
-                  <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
-                  Heilige Schrift</a><br>
-                  <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
-                  Dreieinigkeit</a><br>
-                  <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
-                  Vater</a><br>
-                  <strong><a href="/wir-adventisten/unser-glaube/gott/sohn/" class="c-block__underscore-link">
-                  Sohn</a><br></strong>
-                  <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist/" class="c-block__underscore-link">
-                  Heiliger Geist</a><br>
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                      <a href="/wir-adventisten/unser-glaube/gott/heilige-schrift/" class="c-block__underscore-link">
+                      Heilige Schrift</a><br>
+                      <a href="/wir-adventisten/unser-glaube/gott/dreieinigkeit/" class="c-block__underscore-link">
+                      Dreieinigkeit</a><br>
+                      <a href="/wir-adventisten/unser-glaube/gott/vater/" class="c-block__underscore-link">
+                      Vater</a><br>
+                      <a href="/wir-adventisten/unser-glaube/gott/sohn/" class="c-block__underscore-link">
+                      Sohn</a><br>
+                      <a href="/wir-adventisten/unser-glaube/gott/heiliger-geist/" class="c-block__underscore-link">
+                      Heiliger Geist</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/gott/">Gott</a></span>
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/gott/">Gott</a></span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -110,9 +251,9 @@
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                      <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__underscore-link">
+                      <a href="/wir-adventisten/unser-glaube/mensch/die-schoepfung/" class="c-block__title-link u-theme--link-hover--dark">
                         Die Schöpfung</a><br>
-                      <a href="/wir-adventisten/unser-glaube/mensch/mensch/der-mensch/" class="c-block__underscore-link">
+                      <a href="/wir-adventisten/unser-glaube/mensch/der-mensch/" class="c-block__title-link u-theme--link-hover--dark">
                         Der Mensch</a>
                 </h3>
               </div>
@@ -143,7 +284,7 @@
                       <a href="/wir-adventisten/unser-glaube/erloesung/christus-auf-erden/" class="c-block__title-link u-theme--link-hover--dark">
                         Christus auf Erden</a><br>
                       <a href="/wir-adventisten/unser-glaube/erloesung/erloesung-erfahren/" class="c-block__title-link u-theme--link-hover--dark">
-                      Erlösung erfahren</a><br>
+                        Erlösung erfahren</a><br>
                       <a href="/wir-adventisten/unser-glaube/erloesung/wachsen-in-christus/" class="c-block__title-link u-theme--link-hover--dark">
                         Wachsen in Christus</a>
                 </h3>
@@ -213,11 +354,11 @@
                       Das Gesetz</a> <br>
                     <a href="/wir-adventisten/unser-glaube/leben/der-sabbat/" class="c-block__title-link u-theme--link-hover--dark">
                       Der Sabbat</a> <br>
-                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
-                        Gottes Haushalter</a> <br>
-                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
+                      Gottes Haushalter</a> <br>
+                    <a href="/wir-adventisten/unser-glaube/leben/lebensstil/" class="c-block__title-link u-theme--link-hover--dark">
                       Lebensstil</a> <br>
-                      <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">Ehe und Familie</a>
+                    <a href="/wir-adventisten/unser-glaube/leben/ehe-und-familie/" class="c-block__underscore-link">Ehe und Familie</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
@@ -241,26 +382,28 @@
           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
-                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                <h3 class="u-theme--color--dark u-font--primary--xs">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__underscore-link">
                       Das Heiligtum</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__underscore-link">
                       Die Wiederkunft Christi</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__underscore-link">
                       Die Auferstehung</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-millenium/" class="c-block__underscore-link">
                       Das Millenium</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-neue-erde/" class="c-block__underscore-link">
                       Die Neue Erde</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/wiederherstellung/">Wiederherstellung</a></span>
+                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/wiederherstellung/">Wiederherstellung</a></span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
         </div> <!-- c-media-block -->
+
       </div>
+
     </div>
   </div>
 

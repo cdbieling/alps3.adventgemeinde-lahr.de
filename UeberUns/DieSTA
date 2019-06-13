@@ -315,6 +315,17 @@
 <!-- wp:paragraph -->
 <p>Wir Siebenten-Tags-Adventisten sind den Glaubenslehren der biblischen Schreiber verpflichtet, weil wir glauben, dass sie unter der Inspiration des Geistes Gottes geschrieben haben. Wir erkennen die drei Personen Gott-Vater, Gott-Sohn und Gott-Heiliger Geist als den Schöpfergott an. Wir bekommen Erlösung nur durch den Glauben an das Opfer des Gottessohnes am Kreuz von Golgatha, wenn wir unsere Schuld bekennen. Allein die Gnade Gottes rechtfertigt uns. Diesen Glauben bekennen wir durch die Entscheidung zur Taufe, die nach biblischer Anweisung durch Untertauchen an Erwachsenen vollzogen wird. In Übereinstimmung mit dem biblischen Bericht heiligen&nbsp; wir den Siebenten-Tags-Sabbat, das ist der Samstag.&nbsp; als einen Gedenktag der Gnade Gottes, ihres Schöpfers und Erlösers.</p>
 <!-- /wp:paragraph -->
+<!-- wp:button {"className":"is-style-squared"} -->
+<div class="wp-block-button is-style-squared" style="margin-left:20px">
+  <a class="wp-block-button__link c-block__button o-button o-button--outline" href="/Wir-adventisten/unser-glaube/">Unsere 28 Glaubensstandpunkte
+    <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+        <title>o-arrow__long--left</title>
+        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+      </svg>
+    </span></a>
+</div>
+<!-- /wp:button -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -365,3 +376,14 @@
 <!-- /wp:table -->
 
 <!-- wp:download /-->
+<!-- wp:button {"className":"is-style-squared"} -->
+<div class="wp-block-button is-style-squared" style="margin-left:20px">
+  <a class="wp-block-button__link c-block__button o-button o-button--outline" href="/wp-content/uploads/2019/02/STA_Auf_einen_Blick.pdf" target="_blank">Auf einen Blick - PDF-Broschüre
+    <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+        <title>o-arrow__long--left</title>
+        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+      </svg>
+    </span></a>
+</div>
+<!-- /wp:button -->

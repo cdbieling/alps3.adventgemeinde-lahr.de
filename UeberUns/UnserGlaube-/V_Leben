@@ -33,7 +33,7 @@
         <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
           <div class="c-block__image-wrap ">
             <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_DasGesetzGottes_300x300" alt="Das Gesetz Gottes">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_DasGesetzGottes_300x300.jpg" alt="Das Gesetz Gottes">
             </picture>
           </div>
         </div> <!-- c-media-block__image -->
@@ -65,7 +65,7 @@
         <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
           <div class="c-block__image-wrap ">
             <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_DerSabbat_300x300" alt="Die Bibel und der Sabbat">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_DerSabbat_300x300.jpg" alt="Die Bibel und der Sabbat">
             </picture>
           </div>
         </div> <!-- c-media-block__image -->
@@ -97,7 +97,7 @@
         <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
           <div class="c-block__image-wrap ">
             <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_GottesHaushalter_300x300" alt="Gottes Haushalter sein">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_GottesHaushalter_300x300.jpg" alt="Gottes Haushalter sein">
             </picture>
           </div>
         </div> <!-- c-media-block__image -->
@@ -129,7 +129,7 @@
         <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
           <div class="c-block__image-wrap ">
             <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_Lebensstil_300x300" alt="Christlicher Lebensstil">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_Lebensstil_300x300.jpg" alt="Christlicher Lebensstil">
             </picture>
           </div>
         </div> <!-- c-media-block__image -->
@@ -161,7 +161,7 @@
         <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
           <div class="c-block__image-wrap ">
             <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_EheUndFamilie_300x300" alt="Biblischer Glaubenpunkt zu Ehe und Famlie">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/28_Leben_EheUndFamilie_300x300.jpg" alt="Biblischer Glaubenpunkt zu Ehe und Famlie">
             </picture>
           </div>
         </div> <!-- c-media-block__image -->
@@ -312,26 +312,26 @@
           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
-                <h3 class="u-theme--color--dark u-font--primary--xs">
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde/" class="c-block__underscore-link">
+                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-gemeinde/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Gemeinde</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen/" class="c-block__underscore-link">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-uebrigen/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Übrigen</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-einheit/" class="c-block__underscore-link">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-einheit/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Einheit</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-taufe/" class="c-block__underscore-link">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-taufe/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Taufe</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl/" class="c-block__underscore-link">
+                  <a href="/wir-adventisten/unser-glaube/kirche/das-abendmahl/" class="c-block__title-link u-theme--link-hover--dark">
                       Das Abendmahl</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben/" class="c-block__underscore-link">
+                  <a href="/wir-adventisten/unser-glaube/kirche/geistliche-gaben/" class="c-block__title-link u-theme--link-hover--dark">
                       Geistliche Gaben</a><br>
-                  <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie/" class="c-block__underscore-link">
+                  <a href="/wir-adventisten/unser-glaube/kirche/die-gabe-der-prophetie/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Gabe der Prophetie
                   </a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/kirche/">Kirche</a></span>
+                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/kirche/">Kirche</a></span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -351,20 +351,20 @@
           <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
             <div class="u-spacing c-block__group c-media-block__group">
               <div class="u-spacing u-width--100p">
-                <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
-                    <a href="/wir-adventisten/unser-glaube/leben/das-gesetz/" class="c-block__title-link u-theme--link-hover--dark">
+                <h3 class="u-theme--color--dark u-font--primary--xs">
+                    <a href="/wir-adventisten/unser-glaube/leben/das-gesetz/" class="c-block__underscore-link">
                       Das Gesetz</a> <br>
-                    <a href="/wir-adventisten/unser-glaube/leben/der-sabbat/" class="c-block__title-link u-theme--link-hover--darkx">
+                    <a href="/wir-adventisten/unser-glaube/leben/der-sabbat/" class="c-block__underscore-link">
                       Der Sabbat</a> <br>
-                    <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__title-link u-theme--link-hover--dark">
-                        Gottes Haushalter</a> <br>
-                    <a href="/wir-adventisten/unser-glaube/leben/lebensstil/" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/leben/gottes-haushalter/" class="c-block__underscore-link">
+                      Gottes Haushalter</a> <br>
+                    <a href="/wir-adventisten/unser-glaube/leben/lebensstil/" class="c-block__underscore-link">
                       Lebensstil</a> <br>
-                    <a href="/wir-adventisten/unser-glaube/leben/ehe-und-familie/" class="c-block__title-link u-theme--link-hover--dark">Ehe und Familie</a>
+                    <a href="/wir-adventisten/unser-glaube/leben/ehe-und-familie/" class="c-block__underscore-link">Ehe und Familie</a>
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper"><a class="c-block__title-link" href="/wir-adventisten/unser-glaube/leben/">Leben</a></span>
+                <span class="c-block__category u-text-transform--upper"><a href="/wir-adventisten/unser-glaube/leben/">Leben</a></span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
