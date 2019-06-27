@@ -3,7 +3,7 @@
 <!-- wp:html -->
 <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
   <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-    <div class="c-block__image-wrap u-round u-space--left">
+    <div class="c-block__image-wrap u-space--left">
       <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
         <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Gottesdienst_300x300_1.jpg" media="(min-width: 1000px)">
@@ -49,7 +49,7 @@
 <!-- wp:html -->
 <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
   <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-    <div class="c-block__image-wrap u-round u-space--left">
+    <div class="c-block__image-wrap u-space--left">
       <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
         <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Bibelkreise_300x300_1.jpg" media="(min-width: 1000px)">
@@ -95,7 +95,7 @@
 <!-- wp:html -->
 <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
   <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-    <div class="c-block__image-wrap u-round u-space--left">
+    <div class="c-block__image-wrap u-space--left">
       <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
         <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Kellerstube_300x300.jpg" media="(min-width: 1000px)">
@@ -140,7 +140,7 @@
 <!-- wp:html -->
 <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
   <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-    <div class="c-block__image-wrap u-round u-space--left">
+    <div class="c-block__image-wrap u-space--left">
       <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
         <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Kochtreff_300x300_1.jpg" media="(min-width: 1000px)">
@@ -183,7 +183,7 @@
 <!-- wp:html -->
 <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
   <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-    <div class="c-block__image-wrap u-round u-space--left">
+    <div class="c-block__image-wrap u-space--left">
       <picture class="picture">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
         <source srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_300x300_1.jpg" media="(min-width: 1000px)">

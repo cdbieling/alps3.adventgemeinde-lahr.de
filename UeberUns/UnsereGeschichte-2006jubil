@@ -1,0 +1,96 @@
+<div class="c-carousel u-position--relative">
+  <div class="c-carousel__slides js-carousel__single-item">
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_GemeindeJubilaeum2006.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_GemeindeJubilaeum2006_900x382.jpg" alt="100-Jähriges Jubiläum der Adventgemeinde Lahr im Jahre 2006">
+          </a>
+        </picture>
+        <div class="c-breakout-image__caption">
+          <figcaption class="o-figcaption">
+            <p class="o-caption u-color--gray u-font--secondary--s">Auf 100 segensreiche Jahre durfte die Adventgemeinde Lahr im Jahr 2006 zurückblicken. Wir sind Gott dankbar, dass er uns bis heute geführt hat, und dass wir IHN bis heute jede Woche anbeten dürfen. Danke Gott!</p>
+          </figcaption>
+        </div>
+      </div> <!-- /.c-carousel__item -->
+
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_AdventjugendJubilaeum2006.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_AdventjugendJubilaeum2006_900x382.jpg" alt="100-Jähriges Jubiliäum der Jugen Adventisten in Lahr im Jahre 2006">
+          </a>
+        </picture>
+        <div class="c-breakout-image__caption">
+          <figcaption class="o-figcaption">
+            <p class="o-caption u-color--gray u-font--secondary--s">100 Jahre Jung. Auch die Adventjugend blieb ständig zusammen. Bis heute trifft sich die Adventjugend in der Regel wöchentlich um Gemeinschaft mit Gott und den Mitmenschen zu haben.</p>
+          </figcaption>
+        </div>
+      </div> <!-- /.c-carousel__item -->
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_101.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_101_500x360.jpg" alt="100-Jähriges Jubiliäum der Adventgemeinde Lahr in der Sternenberghalle im Jahre 2006">
+          </a>
+        </picture>
+      </div> <!-- /.c-carousel__item -->
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_102.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_102_500x360.jpg" alt="100-Jähriges Jubiliäum der Adventgemeinde Lahr in der Sternenberghalle im Jahre 2006">
+          </a>
+        </picture>
+      </div> <!-- /.c-carousel__item -->
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_103.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_103_500x360.jpg" alt="100-Jähriges Jubiliäum der Adventgemeinde Lahr in der Sternenberghalle im Jahre 2006">
+          </a>
+        </picture>
+      </div> <!-- /.c-carousel__item -->
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_104.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_104_500x360.jpg" alt="100-Jähriges Jubiliäum der Adventgemeinde Lahr in der Sternenberghalle im Jahre 2006">
+          </a>
+        </picture>
+      </div> <!-- /.c-carousel__item -->
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_105.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_105_500x360.jpg" alt="100-Jähriges Jubiliäum der Adventgemeinde Lahr in der Sternenberghalle im Jahre 2006">
+          </a>
+        </picture>
+      </div> <!-- /.c-carousel__item -->
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_106.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_106_500x360.jpg" alt="100-Jähriges Jubiliäum der Adventgemeinde Lahr in der Sternenberghalle im Jahre 2006">
+          </a>
+        </picture>
+      </div> <!-- /.c-carousel__item -->
+
+      <div class="c-carousel__item u-position--relative ">
+        <picture class="picture">
+          <a href="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_107.jpg" class="thickbox">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGeschichte_Fotogallery_107_500x360.jpg" alt="100-Jähriges Jubiliäum der Adventgemeinde Lahr in der Sternenberghalle im Jahre 2006">
+          </a>
+        </picture>
+      </div> <!-- /.c-carousel__item -->
+
+
+    </div> <!-- /.carousel__slides -->
+    <div class="c-carousel__controls">
+      <span class="o-arrow__prev"><span class="c-carousel__arrow c-carousel__arrow--prev u-icon u-icon--s u-round u-theme--background-color--darker u-path-fill--white"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>o-arrow__bracket--right</title><path d="M3.25,6.41l3.5,3.5L8.16,8.5,4.66,5l3.5-3.5L6.75.09l-3.5,3.5L1.84,5Z" fill="#9b9b9b"/></svg>
+      </span></span>
+      <span class="o-arrow__next"><span class="c-carousel__arrow c-carousel__arrow--next u-icon u-round u-theme--background-color--darker u-path-fill--white"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>Artboard 1</title><path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"/></svg>
+      </span></span>
+    </div> <!-- /.c-carousel__controls -->
+
+  </div> <!-- /.c-carousel -->
