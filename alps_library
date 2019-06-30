@@ -2,6 +2,7 @@
 <!--  1. Atoms      -> 1.1 Buttons     -> 1.1.7 Button Toggle ("Show-more")                -->
 <!--  1. Atoms      -> 1.9 Text        -> 1.9.1 Blockquote                                 -->
 <!--  2. Molecules  -> 2.1 Blocks      -> 2.1.7 Media Block Inline                         -->
+<!--  2. Molecules  -> 2.1 Blocks      -> 2.1.9 Media Block Reversed                       -->
 <!--  2. Molecules  -> 2.4 Media       -> 2.4.1 Breakout Image with parallax               -->
 <!--  2. Molecules  -> 2.4 Media       -> 2.4.2 Breakout Image                             -->
 <!--  2. Molecules  -> 2.4 Media       -> 2.4.2x2 Breakout Image with 2 images             -->
@@ -112,6 +113,35 @@
 <!-- --------------------------  -->
 <!-- End of Blockquote -->
 
+<!--- 2.1.9 Media Block Inline --->
+<!-- 2. Molecules --> 2.1 Blocks ---> 2.1.9 Media Block Reversed -->
+
+<div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-xxlarge">
+  <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--3-col l-grid-item--m--3-col u-padding--zero--sides">
+    <div class="c-block__image-wrap ">
+      <picture class="picture">
+        <!--[if IE 9]><video style="display: none;"><![endif]-->
+        <source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">
+          <!--[if IE 9]></video><![endif]-->
+          <img itemprop="image" srcset="//picsum.photos/600/330/?random" alt="Alt Text">
+      </picture>
+    </div>
+  </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--s--3-col l-grid-item--m--2-col u-border-left--black--at-large u-theme--border-color--darker--left u-color--gray">
+      <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
+        <div class="u-spacing u-width--100p">
+          <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
+            Nulla finibus ligula ut nisl facilisis
+          </h3>
+          <p class="c-media-block__description c-block__description">Curabitur non est vulputate, euismod nibh non, sollicitudin nisi. Morbi ullamcorper purus et massa mattis fermentum. Aenean pretium augue sit amet nunc consequat vulputate.</p>
+        </div>
+      <div class="c-media-block__meta c-block__meta u-theme--color--base">
+        <span class="c-block__category u-text-transform--upper">Culture</span>
+        <time class="c-block__date u-text-transform--upper" datetime="2017-12-28">December 28, 2017</time>
+      </div>
+    </div>
+  </div> <!-- c-media-block__content -->
+</div> <!-- c-media-block -->
 
 <!--- 2.1.7 Media Block Inline --->
 <!-- 2. Molecules --> 2.1 Blocks ---> 2.1.7 Media Block Inline -->

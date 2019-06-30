@@ -1,58 +1,63 @@
 
-<section class="c-section c-section__blocks u-spacing--double">
-
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+<section class="c-section c-section__blocks u-spacing l-grid l-grid-wrap--4-of-7 u-shift--left--1-col--at-large">
+  <div class="c-block-wrap l-grid-wrap--4-of-7">
+  <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
+    <h3 class="c-block__heading-title u-theme--color--darker">Unser Prediger</h3>
+  </div>
+  </div>
+  <!-- Prediger -->
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break u-padding--double--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
-        <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_DanielH_300x300.jpg" alt="Unser Prediger">
+        <source srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_DanielH_300x300.jpg" media="(min-width: 1000px)">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_DanielH_300x300.jpg" alt="Unser Prediger Daniel Heibutzki">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--3-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Lahr / Herbolzheim / Neuried</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/" class="c-block__title-link u-theme--link-hover--dark">
-            Daniel Heibutzkie
-            <p>Email: daniel.Heibutzkie @ adventisten.de</br>
-               Tel: 0151 44 06 58 05
-             </p>
-            </a>
-          </h3>
+          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">Daniel Heibutzkie</h3>
+            <strong>Email:</strong> daniel.Heibutzkie @ adventisten.de
+            <strong>Tel:</strong> 0151 44 06 58 05
         </div>
         <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
           <span class="c-block__category u-text-transform--upper">Prediger</span>
-          <time class="c-block__date u-text-transform--upper"></time>
+          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
         </div>
       </div>
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-block-wrap l-grid-wrap--4-of-7">
+  <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
+    <h3 class="c-block__heading-title u-theme--color--darker">Unser Gemeindeleiter</h3>
+  </div>
+  </div>
+  <!-- Gemeindeleitung -->
+  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break u-padding--double--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
       <div class="c-block__image-wrap ">
         <picture class="picture">
-        <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_BerndH_300x300.jpg" alt="Unser Gemeindeleiter">
+        <source srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_BerndH_300x300.jpg" media="(min-width: 1000px)">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_BerndH_300x300.jpg" alt="Unser Gemeindeleiter Bernd Heck">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--3-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light"></h4>
+          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Adventgemeinde Lahr</h4>
           <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            Bernd Heck
-          </h3>
-          <p>Email: gemeindeleitung @ adventgemeinde-lahr.de</br>
-             Tel: 07808 8789772‬
-           </p>
-
+            Bernd Heck</h3>
+            <strong>Email:</strong> gemeindeleitung @ adventgemeinde-lahr.de
+            <strong>Tel:</strong> 07808 8789772‬
         </div>
         <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
           <span class="c-block__category u-text-transform--upper">Gemeindeleiter</span>
-          <time class="c-block__date u-text-transform--upper">Lahr</time>
+          <!--<time class="c-block__date u-text-transform--upper">Lahr</time>-->
         </div>
       </div>
     </div> <!-- c-media-block__content -->
@@ -61,63 +66,135 @@
 </section>
 
 
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--4-of-7 u-shift--left--1-col--at-large">
+  <div class="l-grid-item u-padding--zero--sides u-flex">
+    <div class="c-block-wrap l-grid-wrap--4-of-7">
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
+      <h3 class="c-block__heading-title u-theme--color--darker">Öffentlichkeitswirksame Gemeindeämter</h3>
+    </div>
+    </div>
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <a href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_MartinaS_900x500.jpg" class="thickbox"
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_MartinaS_500x275.jpg" alt="Pressesprecher">
+          </picture></a>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Pressesprecher</h3>
+            Zuständig für Public Relation und Presseanfragen.
+            <p class="u-font--size--11">presse @ adventgemeinde-lahr.de</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Martina Siefert</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <a href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_JuergenE_900x500.jpg" class="thickbox">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_JuergenE_500x275.jpg" alt="Mission"></a>
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Mission & Evangelisation</h3>
+            Arbeitet mit Feuer daran, dass andere Menschen auch von dem ewigen Evangelium hören dürfen.
+            <p class="u-font--size--11">heimatmission @ adventgemeinde-lahr.de</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Jürgen Engler</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
 
 
-<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid--7-col l-grid-wrap--6-of-7">
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <a href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_GeppiR_900x500.jpg" class="thickbox">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_GeppiR_500x275.jpg" alt="Diakonie"></a>
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Diakonie</h3>
+            Unermüdlich sorgt er sich um das Wohl aller Gemeindeglieder.
+            <p class="u-font--size--11">diakonie @ adventgemeinde-lahr.de</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Gebhard Rupps</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <a href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_AnetteH_900x500.jpg" class="thickbox">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_AnetteH_500x275.jpg" alt="Mission">
+          </picture></a>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Kinder</h3>
+            Ihr Herzensanliegen ist es, dass Kinder von dem großartigen Gott erfahren, durch den sie erschaffen wurden.
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Anette Heck</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+  </div>
+</section>
+
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--4-of-7 u-shift--left--1-col--at-large">
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
     <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
       <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
+          <a href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_JohannE_900x500.jpg" class="thickbox"
           <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="" media="(min-width: 500px)">
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="<div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
-              <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-                <div class="c-block__image-wrap ">
-                  <picture class="picture">
-                  <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_EstherB_500x275.jpg" alt="Unser Prediger">
-                  </picture>
-                </div>
-              </div> <!-- c-media-block__image -->
-              <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
-                <div class="u-spacing c-block__group c-media-block__group ">
-                  <div class="u-spacing u-width--100p">
-                    <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Prediger</h4>
-                    <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-                      <a href="/" class="c-block__title-link u-theme--link-hover--dark">
-                      Daniel Heibutzkie
-                      </a>
-                    </h3>
-                  </div>
-                  <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-                    <span class="c-block__category u-text-transform--upper">Culture</span>
-                    <time class="c-block__date u-text-transform--upper" datetime="2016-12-12">Mar 28, 2016</time>
-                  </div>
-                  <a href="" class="c-block__button o-button o-button--outline">Learn More
-                    <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                        <title>o-arrow__long--left</title>
-                        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-                      </svg>
-                    </span>
-                  </a>
-                </div>
-              </div> <!-- c-media-block__content -->
-            </div> <!-- c-media-block -->" alt="Gemeinsam die Bibel studieren">
-          </picture>
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_JohannE_500x275.jpg" alt="Jugendleitung">
+          </picture></a>
         </div>
       </div> <!-- c-media-block__image -->
       <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Die Bibel als Grundlage für den Start ins Leben. Bibel lesen, auftanken, weitergeben und dabei geistlich wachsen.
-            </h3>
+            Jugend</h3>
+            Trägt die Verantwortung über das Wohl der Jugend.
+            <p class="u-font--size--11">jugend @ adventgemeinde-lahr.de</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <span class="c-block__category u-text-transform--upper">Bibel studieren</span>
+            <span class="c-block__category u-text-transform--upper">Johann</span>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
@@ -126,11 +203,9 @@
     <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
       <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
+          <a href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_EstherB_900x500.jpg" class="thickbox">
           <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="" media="(min-width: 500px)">
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/Aktivitaeten_Jugendtreff_Jugendstunde_500x275.jpg" alt="Gemeinsam biblische Themen studieren">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_EstherB_500x275.jpg" alt="Ernährung & Gesundheit"></a>
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
@@ -138,11 +213,37 @@
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Austausch und Erarbeitung von Themen rund um die Bibel, den Alltag und aktuelle Ereignisse.   .
-            </h3>
+            Ernährung & Gesundheit</h3>
+            Freut sich, wenn die Gemeinde einen gesunden Lebensstil verkündigt und praktizieren tut.
+            <p class="u-font--size--11">gesundheit @ adventgemeinde-lahr.de</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <span class="c-block__category u-text-transform--upper">Jugendthemenstunden</span>
+            <span class="c-block__category u-text-transform--upper">Esther Bieling</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <a href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_Technik_900x500.jpg" class="thickbox">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_Technik_500x275.jpg" alt="Technik"></a>
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Technik</h3>
+            Sorgt sich immerwährend um das technische Wohl der Gemeinde und stellt den Online-Predigtdienst zur Verfügung.
+            <p class="u-font--size--11">technik @ adventgemeinde-lahr.de</p>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Technik-Team</span>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
@@ -151,98 +252,21 @@
     <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
       <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
+          <a href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_DanielB_900x500.jpg" class="thickbox">
           <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="" media="(min-width: 500px)">
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Service_500x275.jpg" alt="Gemeinsam die Bibel studieren">
-          </picture>
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_DanielB_500x275.jpg" alt="Mission">
+          </picture></a>
         </div>
       </div> <!-- c-media-block__image -->
       <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Mitmenschen dienen und anderen helfen. Soziales Engagement als christusähnliches Leitbild.
-            </h3>
+            Homepage</h3>
+            Kümmert sich um alle Dinge, die weder an Raum noch Zeit gebunden sind.
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <span class="c-block__category u-text-transform--upper">Service</span>
-          </div>
-        </div>
-      </div> <!-- c-media-block__content -->
-    </div> <!-- c-media-block -->
-
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
-        <div class="c-block__image-wrap ">
-          <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="" media="(min-width: 500px)">
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Social_500x275.jpg" alt="Gemeinsam die Bibel studieren">
-          </picture>
-        </div>
-      </div> <!-- c-media-block__image -->
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
-        <div class="u-spacing c-block__group c-media-block__group ">
-          <div class="u-spacing u-width--100p">
-            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Gemeinschaftspiele und miteinander die Zeit teilen. Gemeinsame Zeit bedeutet auch zusammen zu wachsen.
-            </h3>
-          </div>
-          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <span class="c-block__category u-text-transform--upper">Spiel & Zeit</span>
-          </div>
-        </div>
-      </div> <!-- c-media-block__content -->
-    </div> <!-- c-media-block -->
-
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
-        <div class="c-block__image-wrap ">
-          <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="" media="(min-width: 500px)">
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Sport_500x275.jpg" alt="Gemeinsam die Bibel studieren">
-          </picture>
-        </div>
-      </div> <!-- c-media-block__image -->
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
-        <div class="u-spacing c-block__group c-media-block__group ">
-          <div class="u-spacing u-width--100p">
-            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Sportliche Betätigung ist wichtiger Bestandteil der Jugend. Komm und spiel mit uns Fußabll.
-            </h3>
-          </div>
-          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <span class="c-block__category u-text-transform--upper">Sport & Freizeit</span>
-          </div>
-        </div>
-      </div> <!-- c-media-block__content -->
-    </div> <!-- c-media-block -->
-
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
-        <div class="c-block__image-wrap ">
-          <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="" media="(min-width: 500px)">
-            <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Veranstaltungen_500x275.jpg" alt="Große Veranstaltungen gemeinsam erleben">
-          </picture>
-        </div>
-      </div> <!-- c-media-block__image -->
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
-        <div class="u-spacing c-block__group c-media-block__group ">
-          <div class="u-spacing u-width--100p">
-            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Kongresse, landesweite Sabbate und Treffen mit anderen Jugendgruppen bilden die Highlights.
-            </h3>
-          </div>
-          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <span class="c-block__category u-text-transform--upper">Veranstaltungen</span>
+            <span class="c-block__category u-text-transform--upper">Daniel Bieling</span>
           </div>
         </div>
       </div> <!-- c-media-block__content -->

@@ -1,0 +1,226 @@
+<!-- wp:html -->
+<section class="l-grid u-shift--left--1-col--at-large l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="l-grid-item l-grid-item--6-col">
+
+    <nav class="c-breadcrumbs" role="navigation">
+      <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <span class="c-breadcrumbs__link can-be--white">Über uns</span>
+          </strong>
+        </li>
+      </ul>
+    </nav> <!-- /.breadcrumbs -->
+  </div>
+</section>
+
+<section>
+
+  <div class="c-block-wrap l-grid-wrap--5-of-7 u-padding--bottom">
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col u-shift--left--1-col--at-large u-spacing--double u-padding--bottom">
+      <h2 class="u-theme--color--darker">Über unsere Weltweite Freikirche</h2>
+    </div>
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col u-shift--left--1-col--at-large u-spacing--double">
+      <div class="">
+        <div class="c-media-block__meta c-block__meta u-theme--color--base">
+          <span class="c-block__category u-text-transform--upper">Entdecke die Siebenten-Tags-Adventisten</span>
+          <time class="c-block__date u-text-transform--upper" datetime="1863-05-21">Est. 21. Mai 1863</time>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
+      <div class="c-block__image-wrap u-spacing--from-xxl">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <!--<source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">-->
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_DieSTA_600x330.jpg" alt="Eine Kurzfassung über die Siebenten-Tags-Adventisten">
+        </picture>
+      </div>
+    </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--s--4-col l-grid-item--m--3-col l-grid-item--l--3-col l-grid-item--xl--2-col u-border-left--black--at-large u-theme--border-color--darker--left u-color--gray">
+      <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
+        <div class="u-spacing u-width--100p">
+          <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
+          <a href="/wir-adventisten/die-siebenten-tags-adventisten/" class="c-block__title-link">Die Freikirche der Siebenten-Tags-Adventisten</a>
+          </h3>
+          <p class="c-media-block__description c-block__description">
+            Siebenten-Tags-Adventisten können wirklich als weltweite Familie von christlichen Gläubigen angesehen werden. Die präsenz wird nachzu in jedem Land auf der Welt ersichtlich.
+          </p>
+        </div>
+        <a href="/wir-adventisten/die-siebenten-tags-adventisten/" class="c-block__button o-button o-button--outline">Mehr erfahren
+          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <title>o-arrow__long--left</title>
+              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div> <!-- c-media-block__content -->
+  </div> <!-- c-media-block -->
+
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
+      <div class="c-block__image-wrap u-spacing--from-xxl">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <!--<source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">-->
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnserGlaube_600x330.jpg" alt="Eine Kurzfassung unseres Glaubens">
+        </picture>
+      </div>
+    </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--s--4-col l-grid-item--m--3-col l-grid-item--l--3-col l-grid-item--xl--2-col u-border-left--black--at-large u-theme--border-color--darker--left u-color--gray">
+      <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
+        <div class="u-spacing u-width--100p">
+          <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
+          <a href="/wir-adventisten/unser-glaube/" class="c-block__title-link">Unser Glaube</a>
+          </h3>
+          <p class="c-media-block__description c-block__description">
+            Derzeit bilden 28 fundamentale Glaubenslehren die Grundlage für Adventisten. Die Glaubenspunkte können in 6 Kategorien eingeteilt werden: Die Lehre über Gott, den Menschen, die Erlösung, die Gemeinde, das christliche Leben und über die letzten Ereignisse. In jeder Glaubenslehre steht Gott im Mittelpunkt, der als Architekt in Weisheit, Gnade und unendlicher Liebe die Beziehung mit der Menschheit für eweig wiederherstellen möchte.
+          </p>
+        </div>
+        <a href="/wir-adventisten/unser-glaube/" class="c-block__button o-button o-button--outline">Unsere 28 Glaubenspunkte
+          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <title>o-arrow__long--left</title>
+              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div> <!-- c-media-block__content -->
+  </div> <!-- c-media-block -->
+
+  <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
+
+  <div class="c-block-wrap l-grid-wrap--5-of-7 u-padding--bottom">
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col u-shift--left--1-col--at-large u-spacing--double u-padding--bottom">
+      <h2 class="u-theme--color--darker">Über unsere Adventgemeinde Lahr</h2>
+    </div>
+
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col u-shift--left--1-col--at-large u-spacing--double">
+      <div class="">
+        <div class="c-media-block__meta c-block__meta u-theme--color--base">
+          <span class="c-block__category u-text-transform--upper">Entdecke mehr über unsere Gemeinde</span>
+          <time class="c-block__date u-text-transform--upper" datetime="1905-07-08">Est. 1905</time>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
+      <div class="c-block__image-wrap u-spacing--from-xxl">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <!--<source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">-->
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnsereGeschichte_600x330.jpg" alt="Eine Kurzfassung unseres Glaubens">
+        </picture>
+      </div>
+    </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--s--4-col l-grid-item--m--3-col l-grid-item--l--3-col l-grid-item--xl--2-col u-border-left--black--at-large u-theme--border-color--darker--left u-color--gray">
+      <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
+        <div class="u-spacing u-width--100p">
+          <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
+          <a href="/wir-adventisten/unser-geschichte/" class="c-block__title-link">Unsere Geschichte</a>
+          </h3>
+          <p class="c-media-block__description c-block__description">
+            Tauche ein in eine über 110 Jahre junge Geschichte der Adventgemeinde Lahr. Drei Zelte und ein Wassereimer bereiteten einen Start vort, den niemand erahnen konnte, außer Gott. Wir sind Gott sehr dankbar, dass er unsere Gemeinde über 110 Jahre lang geduldig getragen hat.
+          </p>
+        </div>
+        <a href="/wir-adventisten/unsere-geschichte/" class="c-block__button o-button o-button--outline">Mehr erfahren
+          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <title>o-arrow__long--left</title>
+              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div> <!-- c-media-block__content -->
+  </div> <!-- c-media-block -->
+
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
+      <div class="c-block__image-wrap u-spacing--from-xxl">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <!--<source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">-->
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnsereSchule_600x330.jpg" alt="Eine Kurzfassung unseres Glaubens">
+        </picture>
+      </div>
+    </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--s--4-col l-grid-item--m--3-col l-grid-item--l--3-col l-grid-item--xl--2-col u-border-left--black--at-large u-theme--border-color--darker--left u-color--gray">
+      <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
+        <div class="u-spacing u-width--100p">
+          <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
+          <a href="https://herbolzheim.adventisten.schule" class="c-block__title-link" target="_blank">Unsere Schule</a>
+          </h3>
+          <p class="c-media-block__description c-block__description">
+            Wir dürfen Gott von ganzem Herzen dankbar sein, dasss wir in unserem Gemeindebezirk eine adventistische Schule haben dürfen, die einen Schwerpunkt auf christliche wertorientierte Erziehung legt.
+          </p>
+        </div>
+        <a href="https://herbolzheim.adventisten.schule" class="c-block__button o-button o-button--outline" target="_blank">Mehr erfahren
+          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <title>o-arrow__long--left</title>
+              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div> <!-- c-media-block__content -->
+  </div> <!-- c-media-block -->
+
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
+      <div class="c-block__image-wrap u-spacing--from-xxl">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <!--<source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">-->
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnserBibeltelefon_600x330.jpg" alt="Eine Kurzfassung unseres Glaubens">
+        </picture>
+      </div>
+    </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--s--4-col l-grid-item--m--3-col l-grid-item--l--3-col l-grid-item--xl--2-col u-border-left--black--at-large u-theme--border-color--darker--left u-color--gray">
+      <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
+        <div class="u-spacing u-width--100p">
+          <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
+          <a href="tel:078212882885" class="c-block__title-link">Unser Bibeltelefon</a>
+          </h3>
+          <p class="c-media-block__description c-block__description">
+            Jeden Morgen neue Andachten und geistliche Impulse können Sie über unser Bibeltelfon hören. Gerne können Sie auch eine Nachricht am Ende hinterlassen. Wir melden uns gerne zurück. Gebühren gemäß normalen Ortstarif.
+          </p>
+        </div>
+        <a href="tel:078212882885" class="c-block__button o-button o-button--outline">07821 2882885
+          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <title>o-arrow__long--left</title>
+              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div> <!-- c-media-block__content -->
+  </div> <!-- c-media-block -->
+
+  <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+</section>
+<!-- /wp:html -->
