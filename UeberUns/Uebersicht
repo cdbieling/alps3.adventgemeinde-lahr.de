@@ -160,7 +160,7 @@
           <!--[if IE 9]><video style="display: none;"><![endif]-->
           <!--<source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">-->
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnsereSchule_600x330.jpg" alt="Eine Kurzfassung unseres Glaubens">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnserBibeltelefon_600x330.jpg" alt="Eine Kurzfassung unseres Glaubens">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
@@ -168,13 +168,13 @@
       <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
         <div class="u-spacing u-width--100p">
           <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
-          <a href="https://herbolzheim.adventisten.schule" class="c-block__title-link" target="_blank">Unsere Schule</a>
+          <a href="tel:078212882885" class="c-block__title-link">Unser Bibeltelefon</a>
           </h3>
           <p class="c-media-block__description c-block__description">
-            Wir dürfen Gott von ganzem Herzen dankbar sein, dasss wir in unserem Gemeindebezirk eine adventistische Schule haben dürfen, die einen Schwerpunkt auf christliche wertorientierte Erziehung legt.
+            Jeden Morgen neue Andachten und geistliche Impulse können Sie über unser Bibeltelfon hören. Gerne können Sie auch eine Nachricht am Ende hinterlassen. Wir melden uns gerne zurück. Gebühren gemäß normalen Ortstarif.
           </p>
         </div>
-        <a href="https://herbolzheim.adventisten.schule" class="c-block__button o-button o-button--outline" target="_blank">Mehr erfahren
+        <a href="tel:078212882885" class="c-block__button o-button o-button--outline">07821 2882885
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <title>o-arrow__long--left</title>
@@ -193,7 +193,7 @@
           <!--[if IE 9]><video style="display: none;"><![endif]-->
           <!--<source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">-->
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnserBibeltelefon_600x330.jpg" alt="Eine Kurzfassung unseres Glaubens">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnsereGemeindeabteilungen_600x330.jpg" alt="Ein Überblick über unsere Gemeindeabteilungen">
         </picture>
       </div>
     </div> <!-- c-media-block__image -->
@@ -201,13 +201,46 @@
       <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
         <div class="u-spacing u-width--100p">
           <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
-          <a href="tel:078212882885" class="c-block__title-link">Unser Bibeltelefon</a>
+          <a href="/wir-adventisten/unsere-gemeindeabteilungen/" class="c-block__title-link">Unsere Gemeindeabteilung</a>
           </h3>
           <p class="c-media-block__description c-block__description">
-            Jeden Morgen neue Andachten und geistliche Impulse können Sie über unser Bibeltelfon hören. Gerne können Sie auch eine Nachricht am Ende hinterlassen. Wir melden uns gerne zurück. Gebühren gemäß normalen Ortstarif.
+            Lernen Sie unsere Verantwortungsträger der einzelnen Gemeindeabteilungen näher kennen. Gerne können Sie uns, oder einer der Verantwortlichen kontaktieren. Wir freuen uns auf Ihre Kontaktaufnahme.
           </p>
         </div>
-        <a href="tel:078212882885" class="c-block__button o-button o-button--outline">07821 2882885
+        <a href="/wir-adventisten/unsere-gemeindeabteilungen/" class="c-block__button o-button o-button--outline">Mehr erfahren
+          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <title>o-arrow__long--left</title>
+              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div> <!-- c-media-block__content -->
+  </div> <!-- c-media-block -->
+
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large">
+    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
+      <div class="c-block__image-wrap u-spacing--from-xxl">
+        <picture class="picture">
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <!--<source srcset="//picsum.photos/800/450/?random" media="(min-width: 500px)">-->
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_UnsereSchule_600x330.jpg" alt="Eine Kurzfassung unseres Glaubens">
+        </picture>
+      </div>
+    </div> <!-- c-media-block__image -->
+    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--s--4-col l-grid-item--m--3-col l-grid-item--l--3-col l-grid-item--xl--2-col u-border-left--black--at-large u-theme--border-color--darker--left u-color--gray">
+      <div class="u-spacing c-block__group c-media-block__group u-flex--justify-start">
+        <div class="u-spacing u-width--100p">
+          <h3 class="c-media-block__title c-block__title u-theme--color--dark ">
+          <a href="https://herbolzheim.adventisten.schule" class="c-block__title-link" target="_blank">Unsere Schule</a>
+          </h3>
+          <p class="c-media-block__description c-block__description">
+            Wir dürfen Gott von ganzem Herzen dankbar sein, dasss wir in unserem Gemeindebezirk eine adventistische Schule haben dürfen, die einen Schwerpunkt auf christliche wertorientierte Erziehung legt.
+          </p>
+        </div>
+        <a href="https://herbolzheim.adventisten.schule" class="c-block__button o-button o-button--outline" target="_blank">Zur Website
           <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <title>o-arrow__long--left</title>
