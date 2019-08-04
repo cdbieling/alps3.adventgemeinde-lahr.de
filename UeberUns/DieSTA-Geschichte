@@ -1,27 +1,19 @@
 <section class="l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large">
     <div class="l-grid-item l-grid-item--6-col">
         <nav class="c-breadcrumbs" role="navigation">
-            <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
-                <li
-                    class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-                    <strong><br>
-                        <a href="/" class="c-breadcrumbs__link can-be--white">Home</a><br>
-                    </strong>
-                </li>
-                <li
-                    class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-                    <strong><br>
-                        <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white">Über uns</a><br>
-                    </strong>
-                </li>
-                <li
-                    class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-                    <strong><br>
-                        <span class="c-breadcrumbs__link can-be--white">Die Siebenten-Tags-Adventisten</span><br>
-                    </strong>
-                </li>
-            </ul>
-        </nav> <!-- /.breadcrumbs -->
+        <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
+            <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+                <a href="/" class="c-breadcrumbs__link can-be--white"><strong>Home</strong></a>
+            </li>
+            <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+            <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white"><strong>Über uns</strong></a>
+            </li>
+            <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+                <span class="c-breadcrumbs__link can-be--white"><strong>Die Siebenten-Tags-Adventisten</strong></span><br>
+            </li>
+        </ul>
+        </nav>
+        <!-- /.breadcrumbs -->
     </div>
 </section>
 
@@ -40,14 +32,32 @@
                     </p>
                 </figcaption>
             </figure>
-            <p>Der Spielfilm „Tell the World“ erzählt die berührende Geschichte einer kleinen Gruppe im Nordosten der USA, aus der schließlich die Kirche der Siebenten-Tags-Adventisten wird. Hier geht es zum Film.
-            </p>
+            <p>Der Spielfilm „Tell the World“ erzählt die berührende Geschichte einer kleinen Gruppe im Nordosten der USA, aus der schließlich die Kirche der Siebenten-Tags-Adventisten wird. Hier geht es zum Film.</p>
         </div>
 
         <article class="text c-article__body u-spacing">
-            <h3 class="u-padding--bottom">Anfänge und Wachstum einer weltweiten Bewegung</h3>
-            <h3>Glaubensüberzeugung Nr. 20: Der Sabbat</h3>
-            <p>Nach sechs Schöpfungstagen ruhte Gott, auf unser Wohl bedacht, am siebten Tag und setzte den Sabbat für alle Menschen zum Gedenken an die Schöpfung ein. Das vierte Gebot in Gottes unwandelbarem Gesetz gebietet die Heiligung des siebten Tages der Woche als Tag der Ruhe, der Anbetung und des Dienens, so wie es uns Jesus Christus, der Herr des Sabbats, gelehrt und vorgelebt hat. Der Sabbat ist ein Tag froher Gemeinschaft – mit Gott und untereinander. Er ist ein Sinnbild unserer Erlösung durch Christus, ein Zeichen unserer Heiligung, ein Ausdruck unserer Treue und ein Vorgeschmack ewigen Lebens im Reich Gottes. Der Sabbat ist Gottes bleibendes Zeichen seines ewigen Bundes mit seinem Volk. Wer diese heilige Zeit freudig beachtet, von Abend zu Abend, von Sonnenuntergang bis Sonnenuntergang, feiert Gottes schöpferisches und erlösendes Handeln.</p>
-            <p>(1.Mo. 2,1–3; 2.Mo. 20,8–11; 31,13–17; 3.Mo. 23,32; 5.Mo. 5,12–15; Jes. 56,5–6; 58,13–14; Hes. 20,12.20; Mt. 12,1–12; Mk. 1,32; Lk. 4,16; Hbr. 4,1–11.)</p>
-          </article>
-        </div>
+            <h3>Anfänge und Wachstum einer weltweiten Bewegung</h3>
+                <h4>1839</h4>
+                Der Farmer und baptistische Laienprediger William Miller (1782-1849) trifft in Boston auf den Sozialreformer und Pastor Joshua V. Himes (1805-1895); sie werden die einflussreichsten Leiter der interkonfessionellen „Adventbewegung“. Aufgrund intensiven Bibelstudiums (vor allem der prophetischen Aussagen) war Miller zu der Überzeugung gelangt, dass das Ende der Welt bevorsteht.
+                <h4>1840-1844</h4>
+                Die „Millerbewegung“ erfasst schätzungsweise 100.000 Menschen, die Jesu sichtbare Wiederkunft in allernächster Zukunft erwarten. Bis zu 2000 Pastoren verschiedener Denominationen predigen vom baldigen Advent und den „Zeichen der Zeit“, die dieses Ereignis ankündigen.
+                <h4>22.10.1844</h4>
+                Nach der „großen Enttäuschung“ zerfällt die Bewegung in mehrere Gruppen, aus denen bald darauf neue Denominationen entstehen. Eine dieser kleinen Gruppierungen entwickelt sich später zur weltweiten Kirche der Siebenten-Tags-Adventisten mit inzwischen über 15 Millionen getauften Mitgliedern.
+                <h4>ab 1848</h4>
+                James White, Joseph Bates, Hiram Edson – die späteren Gründer der Siebenten-Tags-Adventisten – und andere formieren sich zu einer neuen Gemeinschaft, deren auffälligstes Kennzeichen die Feier des siebenten Wochentags („Sabbat“) ist. In ihrer Mitte wirkt die prophetisch begabte Ellen G. White (1827-1915), die zur einflussreichsten Person des Adventismus wird.
+                <h4>1860-1863</h4>
+                Namensgebung und Gründung der „Kirche der Siebenten-Tags-Adventisten“.
+                <h4>1874-1876</h4>
+                John N. Andrews (1829-1883) kommt nach Europa. In der Schweiz gründet er mit dem Prediger Jakob Erzberger (1843-1920) die erste adventistische Mission außerhalb Nordamerikas. In Wuppertal-Vohwinkel treffen sie die „Getaufte Christen-Gemeinde“ des Webers Johann Lindermann, aus deren Mitgliedern sich die ersten Adventgemeinden in Deutschland (Vohwinkel und Solingen) formieren.
+                <h4>1888</h4>
+                Während der „Generalkonferenz“ in Minneapolis kommt es zu theologischen Auseinandersetzungen, die zu einer neuen Betonung des persönlichen Glaubens an „Christus – unsere Gerechtigkeit“ führen.
+                <h4>1889</h4>
+                Ludwig Richard Conradi (1856-1939) beginnt von Hamburg aus die deutsche Advent-Mission. Unter seinem visionären Weitblick, seiner organisatorischen Fähigkeit sowie seiner rhetorischen wie schriftstellerischen Begabung breitet sich die Freikirche bis zum ersten Weltkrieg in weiten Teilen Europas aus, darüber hinaus auch im Nahen Osten, in verschiedenen Gebieten Afrikas (vor allem dem ehemaligen Deutsch-Ostafrika), in Südamerika und Asien.
+                <h4>1899</h4>
+                Eröffnung der „Missions- und Industrieschule Friedensau“; 1990 erhält sie die staatliche Anerkennung als Theologische Hochschule.
+                <h4>1920</h4>
+                Eröffnung des Krankenhauses „Waldfriede“ mit Krankenpflegeschule in Berlin-Zehlendorf.
+                <h4>1952</h4>
+                Anerkennung als „Körperschaft des öffentlichen Rechts“ in Deutschland.
+                <h4>1980</h4>
+                Neuformulierung von 27 „Glaubensüberzeugungen“ während der adventistischen Weltsynode in Dallas; im Jahr 2005 wird ein 28. Glaubensartikel hinzugefügt.

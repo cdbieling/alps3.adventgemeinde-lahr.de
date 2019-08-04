@@ -2,29 +2,18 @@
   <div class="l-grid-item l-grid-item--6-col">
     <nav class="c-breadcrumbs" role="navigation">
       <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
-        <li
-          class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-          <strong><br>
-            <a href="/" class="c-breadcrumbs__link can-be--white">Home</a><br>
-          </strong>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+            <a href="/" class="c-breadcrumbs__link can-be--white"><strong>Home</strong></a>
         </li>
-        <li
-          class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-          <strong><br>
-            <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white">Über uns</a><br>
-          </strong>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white"><strong>Über uns</strong></a>
         </li>
-        <li
-          class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-          <strong><br>
-            <span class="c-breadcrumbs__link can-be--white">Die Siebenten-Tags-Adventisten</span><br>
-          </strong>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+            <span class="c-breadcrumbs__link can-be--white"><strong>Die Siebenten-Tags-Adventisten</strong></span><br>
         </li>
       </ul>
     </nav>
-    <p>
       <!-- /.breadcrumbs -->
-    </p>
   </div>
 </section>
 
@@ -51,7 +40,7 @@
 
 <!-- wp:button {"className":"is-style-squared"} -->
 <div class="wp-block-button is-style-squared" style="margin-left:20px">
-  <a class="wp-block-button__link c-block__button o-button o-button--outline" href="https://adra.de">adra.de
+  <a class="wp-block-button__link c-block__button o-button o-button--outline" href="https://adra.de" target="_blank">adra.de
     <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
         <title>o-arrow__long--left</title>
@@ -112,7 +101,7 @@
   <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--bottom">
     <h3 class="c-block__heading-title u-theme--color--darker">Schulen in der Nähe der Ortenau</h3>
     <a href="https://herbolzheim.adventisten.schule"
-      class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">Zur Website</a>
+      class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark" target="_blank">Zur Website</a>
   </div>
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
@@ -189,7 +178,7 @@
               </div>
               <div class="wp-block-button is-style-squared" style="margin-top:30px">
                 <a class="wp-block-button__link c-block__button o-button o-button--outline"
-                  href="https://herbolzheim.adventisten.schule">elisa-schule.de
+                  href="https://herbolzheim.adventisten.schule" target="_blank">elisa-schule.de
                   <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                       <title>o-arrow__long--left</title>
