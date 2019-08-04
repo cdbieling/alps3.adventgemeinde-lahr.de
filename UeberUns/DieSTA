@@ -1,26 +1,31 @@
 <section class="l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large">
-<div class="l-grid-item l-grid-item--6-col">
-<nav class="c-breadcrumbs" role="navigation">
-<ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
-<li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+  <div class="l-grid-item l-grid-item--6-col">
+    <nav class="c-breadcrumbs" role="navigation">
+      <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
+        <li
+          class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong><br>
             <a href="/" class="c-breadcrumbs__link can-be--white">Home</a><br>
           </strong>
         </li>
-<li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <li
+          class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong><br>
             <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white">Über uns</a><br>
           </strong>
         </li>
-<li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+        <li
+          class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <strong><br>
             <span class="c-breadcrumbs__link can-be--white">Die Siebenten-Tags-Adventisten</span><br>
           </strong>
         </li>
-</ul>
-</nav>
-<p> <!-- /.breadcrumbs -->
-  </p></div>
+      </ul>
+    </nav>
+    <p>
+      <!-- /.breadcrumbs -->
+    </p>
+  </div>
 </section>
 
 <!-- wp:heading -->
@@ -28,11 +33,20 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":4928,"width":1315,"height":739} -->
-<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_HumanitaereHilfe2.jpg" alt="" class="wp-image-4928" width="1315" height="739"/><figcaption>Mitmenschen (in Not) helfen, gehört zu den Fundamentalprinzipien der Bibel.  Eine Freikirche, die sich der Nöte ihrer Mitmenschen annimmt.</figcaption></figure>
+<figure class="wp-block-image is-resized"><img
+    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_HumanitaereHilfe2.jpg" alt=""
+    class="wp-image-4928" width="1315" height="739" />
+  <figcaption>Mitmenschen (in Not) helfen, gehört zu den Fundamentalprinzipien der Bibel. Eine Freikirche, die sich der
+    Nöte ihrer Mitmenschen annimmt.</figcaption>
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><p style="text-align:justify">Wir Siebenten-Tags-Adventisten kümmern uns um das Wohl unserer Mitmenschen, insbesondere der schutzlosen und hilfsbedürftigen; ob in Friedens- oder Kriegszeiten oder in Naturkatastrophen. Dazu haben wir das ADRA-Hilfswerk entwickelt - ein weltweites Netz humanitärer Hilfe. ADRA steht für Adventist Development and Relief Agency (Adventistisches Entwicklungs- und Hilfswerk). Über hundert ADRA-Zweigstellen auf mehreren Kontinenten verteilt, führen weltweit jährlich Tausende von Hilfsprojekten durch. Mehr unter:</p></p>
+<p style="text-align:justify">Wir Siebenten-Tags-Adventisten kümmern uns um das Wohl unserer Mitmenschen, insbesondere
+  der schutzlosen und hilfsbedürftigen; ob in Friedens- oder Kriegszeiten oder in Naturkatastrophen. Dazu haben wir das
+  ADRA-Hilfswerk entwickelt - ein weltweites Netz humanitärer Hilfe. ADRA steht für Adventist Development and Relief
+  Agency (Adventistisches Entwicklungs- und Hilfswerk). Über hundert ADRA-Zweigstellen auf mehreren Kontinenten
+  verteilt, führen weltweit jährlich Tausende von Hilfsprojekten durch. Mehr unter:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:button {"className":"is-style-squared"} -->
@@ -41,7 +55,8 @@
     <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
         <title>o-arrow__long--left</title>
-        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z"
+          fill="#9b9b9b" />
       </svg>
     </span></a>
 </div>
@@ -60,11 +75,20 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":4929,"width":1380,"height":776} -->
-<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Gesundheit.jpg" alt="" class="wp-image-4929" width="1380" height="776"/><figcaption>In Gesundheitsthemen sind die Prinzipien welche Gott durch die Bibel und durch Propheten Gottes der Menschheit offenbart haben, der zeitgenössischen Wissenschaft schon seit Jahrtausenden immer ein Schritt voraus.</figcaption></figure>
+<figure class="wp-block-image is-resized"><img
+    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Gesundheit.jpg" alt=""
+    class="wp-image-4929" width="1380" height="776" />
+  <figcaption>In Gesundheitsthemen sind die Prinzipien welche Gott durch die Bibel und durch Propheten Gottes der
+    Menschheit offenbart haben, der zeitgenössischen Wissenschaft schon seit Jahrtausenden immer ein Schritt voraus.
+  </figcaption>
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Wir Siebenten-Tags-Adventisten anerkennen den sozialen Auftrag an der Volksgesundheit und führen Gesundheitsprogramme durch, wie Eheseminare, Raucherentwöhnungskurse, Stressbewältigung, Kochkurse, Trauerbegleitung, Hilfe in Lebenskrisen uam. Nach dem Motto: Vorbeugen ist besser als heilen. Aber auch Leidende erhalten in unseren mehr als 500 medizinischen Einrichtungen ärztliche Hilfe, Betreuung und Trost.</p>
+<p>Wir Siebenten-Tags-Adventisten anerkennen den sozialen Auftrag an der Volksgesundheit und führen Gesundheitsprogramme
+  durch, wie Eheseminare, Raucherentwöhnungskurse, Stressbewältigung, Kochkurse, Trauerbegleitung, Hilfe in Lebenskrisen
+  uam. Nach dem Motto: Vorbeugen ist besser als heilen. Aber auch Leidende erhalten in unseren mehr als 500
+  medizinischen Einrichtungen ärztliche Hilfe, Betreuung und Trost.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
@@ -76,65 +100,101 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Wir Siebenten-Tags-Adventisten achten auf die ganzheitliche Entwicklung&nbsp; unserer Kinder, die sich in einer Charakterbildung nach dem Vorbild Jesu Christi manifestiert. In unserem weltweiten Erziehungssystem mit 5.660 Volksschulen, 1.512 Mittelschulen und über hundert Universitäten und höheren Lehranstalten werden 1.436 290 Schüler und Studenten unterrichtet und gebildet.&nbsp;</p>
+<p>Wir Siebenten-Tags-Adventisten achten auf die ganzheitliche Entwicklung&nbsp; unserer Kinder, die sich in einer
+  Charakterbildung nach dem Vorbild Jesu Christi manifestiert. In unserem weltweiten Erziehungssystem mit 5.660
+  Volksschulen, 1.512 Mittelschulen und über hundert Universitäten und höheren Lehranstalten werden 1.436 290 Schüler
+  und Studenten unterrichtet und gebildet.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
+<section
+  class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
   <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--bottom">
     <h3 class="c-block__heading-title u-theme--color--darker">Schulen in der Nähe der Ortenau</h3>
-    <a href="https://herbolzheim.adventisten.schule" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">Zur Website</a>
+    <a href="https://herbolzheim.adventisten.schule"
+      class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">Zur Website</a>
   </div>
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--4-col l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col">
-      <div class="c-media-block__image c-block__image l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div
+      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--4-col l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col">
+      <div
+        class="c-media-block__image c-block__image l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Herbolzheim_1100x750.jpg" alt="Adventschule in Herbolzheim">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Herbolzheim_1100x750.jpg"
+              alt="Adventschule in Herbolzheim">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
       <div class="l-wrap u-padding--zero--sides u-flex">
 
-        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-          <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div
+          class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+          <div
+            class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
             <div class="u-spacing c-block__group c-media-block__group ">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                Elisa-Schule.
+                  Elisa-Schule.
                 </h3>
-                <p>Staatl. genehmigte <br>Grund- und Realschule<br>Weinstr. 19<br>79336 Herbolzheim<br>Kontakt: Sylvia Geiger</p>
+                <p>Staatl. genehmigte <br>Grund- und Realschule<br>Weinstr. 19<br>79336 Herbolzheim<br>Kontakt: Sylvia
+                  Geiger</p>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <a href="https://herbolzheim.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Herbolzheim / Tutschfelden</a>
+                <a href="https://herbolzheim.adventisten.schule" target="_blank"
+                  class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Herbolzheim /
+                  Tutschfelden</a>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
         </div>
-        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--2-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--2-col">
-          <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--3-col l-grid-item--xl--2-col">
+        <div
+          class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--2-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--2-col">
+          <div
+            class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--3-col l-grid-item--xl--2-col">
             <div class="u-spacing c-block__group c-media-block__group ">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                Kontaktdaten der Schule.
+                  Kontaktdaten der Schule.
                 </h3>
                 <div class="u-spacing-half">
-                    <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>Website</title><path d="M9,1.27A3.4,3.4,0,0,0,5,.73a3.4,3.4,0,0,0-4,.54A3.34,3.34,0,0,0,1,6l4,4L9,6A3.34,3.34,0,0,0,9,1.27ZM7.6,4.57,5,7.17,2.4,4.57a1.34,1.34,0,0,1,0-1.89,1.36,1.36,0,0,1,1.89,0L5,3.39l.71-.71a1.37,1.37,0,0,1,1.89,0A1.34,1.34,0,0,1,7.6,4.57Z" fill="#9b9b9b"></path></svg></span><a href="https://herbolzheim.adventisten.schule" target="_blank" rel="noopener noreferrer"> herbolzheim.adventisten.schule</a><br>
-                    <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>Email</title><path d="M0,4,2,8l4,2L10,0ZM5,7.24,3.49,6.51,2.76,5.05,6.41,3.59Z" fill="#9b9b9b"></path></svg></span> schulleitung@ elisa-schule.de<br>
-                    <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>Telefon</title><path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#9b9b9b"></path></svg></span> 07643 933 890<br>
-                    <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.01 10"><title>Mobil</title><path d="M10,2.31H0V0H10ZM6.36,3.85H0v2.3H6.36ZM8.22,7.7H0V10H8.22Z" fill="#9b9b9b"></path></svg></span>(+49)157 57958048<br>
-                    </div>
+                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 10 10">
+                      <title>Website</title>
+                      <path
+                        d="M9,1.27A3.4,3.4,0,0,0,5,.73a3.4,3.4,0,0,0-4,.54A3.34,3.34,0,0,0,1,6l4,4L9,6A3.34,3.34,0,0,0,9,1.27ZM7.6,4.57,5,7.17,2.4,4.57a1.34,1.34,0,0,1,0-1.89,1.36,1.36,0,0,1,1.89,0L5,3.39l.71-.71a1.37,1.37,0,0,1,1.89,0A1.34,1.34,0,0,1,7.6,4.57Z"
+                        fill="#9b9b9b"></path>
+                    </svg></span><a href="https://herbolzheim.adventisten.schule" target="_blank"
+                    rel="noopener noreferrer"> herbolzheim.adventisten.schule</a><br>
+                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 10 10">
+                      <title>Email</title>
+                      <path d="M0,4,2,8l4,2L10,0ZM5,7.24,3.49,6.51,2.76,5.05,6.41,3.59Z" fill="#9b9b9b"></path>
+                    </svg></span> schulleitung@ elisa-schule.de<br>
+                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 10 10">
+                      <title>Telefon</title>
+                      <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#9b9b9b"></path>
+                    </svg></span> 07643 933 890<br>
+                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 10.01 10">
+                      <title>Mobil</title>
+                      <path d="M10,2.31H0V0H10ZM6.36,3.85H0v2.3H6.36ZM8.22,7.7H0V10H8.22Z" fill="#9b9b9b"></path>
+                    </svg></span>(+49)157 57958048<br>
+                </div>
               </div>
               <div class="wp-block-button is-style-squared" style="margin-top:30px">
-                <a class="wp-block-button__link c-block__button o-button o-button--outline" href="https://herbolzheim.adventisten.schule">elisa-schule.de
+                <a class="wp-block-button__link c-block__button o-button o-button--outline"
+                  href="https://herbolzheim.adventisten.schule">elisa-schule.de
                   <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                       <title>o-arrow__long--left</title>
-                      <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+                      <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z"
+                        fill="#9b9b9b" />
                     </svg>
                   </span></a>
               </div>
@@ -142,14 +202,18 @@
           </div> <!-- c-media-block__content -->
         </div>
 
-        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col">
-          <div class="c-media-block__image c-block__image l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col u-padding--zero--sides u-space--top c-block__icon c-block__icon--gallery">
+        <div
+          class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col">
+          <div
+            class="c-media-block__image c-block__image l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col u-padding--zero--sides u-space--top c-block__icon c-block__icon--gallery">
             <div class="c-block__image-wrap ">
               <picture class="picture">
                 <!--[if IE 9]><video style="display: none;"><![endif]-->
                 <source srcset="" media="(min-width: 500px)">
                 <!--[if IE 9]></video><![endif]-->
-                <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Schulleitung_Herbolzheim_250x175.jpg" alt="Schulleiterin Frau Geiger">
+                <img itemprop="image"
+                  srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Schulleitung_Herbolzheim_250x175.jpg"
+                  alt="Schulleiterin Frau Geiger">
               </picture>
               <p style="font-style:italic; padding:10px 0px 0px 20px;">Schulleiterin: Sylvia Geiger</p>
             </div>
@@ -169,112 +233,134 @@
 <!-- /wp:spacer -->
 
 <!-- wp:html -->
-<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
+<section
+  class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
   <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--bottom">
     <h3 class="c-block__heading-title u-theme--color--darker">Weitere Schulen in Baden-Württemberg</h3>
-    <a href="" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark">Alle Schulen besichtigen</a>
+    <a href="https://adventisten.schule/" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark"
+      target="_blank">Alle Schulen besichtigen</a>
   </div>
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div
+      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div
+        class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Heilbronn_250x175.jpg" alt="Adventschule in Heilbronn">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Heilbronn_250x175.jpg"
+              alt="Adventschule in Heilbronn">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+      <div
+        class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Advent-Schule.
+              Advent-Schule.
             </h3>
             <p>Grund- und Realschule<br>Oststr. 10<br>74072 Heilbronn<br>Kontakt: Caroline Montoya</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://heilbronn.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Heilbronn</a>
+            <a href="https://heilbronn.adventisten.schule" target="_blank"
+              class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Heilbronn</a>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
     </div> <!-- c-media-block -->
 
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div
+      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div
+        class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Murrhardt_250x175.jpg" alt="Adventschule in Murrhardt">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Murrhardt_250x175.jpg"
+              alt="Adventschule in Murrhardt">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+      <div
+        class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s">
-            Daniel-Schule.
+              Daniel-Schule.
             </h3>
             <p>Grund- und Realschule<br>Fornsbacherstr. 121<br>71540 Murrhardt<br>Kontakt: Talita Schmitt</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://murrhardt.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Murrhardt</a>
+            <a href="https://murrhardt.adventisten.schule" target="_blank"
+              class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Murrhardt</a>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
     </div> <!-- c-media-block -->
 
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div
+      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div
+        class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Isny_250x175.jpg" alt="Adventschule in Isny">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Isny_250x175.jpg"
+              alt="Adventschule in Isny">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+      <div
+        class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Josia-Schule.
+              Josia-Schule.
             </h3>
             <p>Grund- und Hauptschule<br>Dekan Marquard Str. 18<br>88316 Isny-Allgäu<br>Kontakt: Ulrike Pelczar.</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://isny.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Isny</a>
+            <a href="https://isny.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper"
+              rel="noopener noreferrer">Isny</a>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
     </div> <!-- c-media-block -->
 
-    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div
+      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div
+        class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Rastatt_250x175.jpg" alt="Adventschule in Rastatt">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Rastatt_250x175.jpg"
+              alt="Adventschule in Rastatt">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+      <div
+        class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-            Salomo-Schule.
+              Salomo-Schule.
             </h3>
             <p>Grund- und Realschule<br>Karlstr. 40<br>76437 Rastatt<br>Kontakt: Waldemar Ott</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://rastatt.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Rastatt</a>
+            <a href="https://rastatt.adventisten.schule" target="_blank"
+              class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Rastatt</a>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
@@ -293,11 +379,20 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5169,"width":1450,"height":815} -->
-<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Ethik.jpg" alt="" class="wp-image-5169" width="1450" height="815"/><figcaption>Ethik der Siebenten-Tags-Adventisten</figcaption></figure>
+<figure class="wp-block-image is-resized"><img
+    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Ethik.jpg" alt="" class="wp-image-5169"
+    width="1450" height="815" />
+  <figcaption>Ethik der Siebenten-Tags-Adventisten</figcaption>
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Wir Siebenten-Tags-Adventisten stellen uns den gesellschaftlichen Herausforderungen die einen ethischen Standpunkt verlangen. Dazu hat unsere&nbsp; Freikirche Arbeitskreise ins Leben gerufen, die sich mit den sozialethischen Fragen auseinandersetzen. In diesen Gremien treffen sich Theologen, Wissenschaftler, Mediziner, Psychologen und Lehrkräfte, um gemeinsam eine öffentliche Stellungnahme zu erarbeiten. Das Bioethische Forschungs- und Bildungszentrum der Loma Linda Universität in Kalifornien sowie verschiedene Ethikkomissionen in der ganzen Welt veröffentlichen ihre Arbeiten. Durch diese offiziellen Erklärungen trägt unsere Freikirche zu einer zeitgemäβen christlichen Ethik bei.</p>
+<p>Wir Siebenten-Tags-Adventisten stellen uns den gesellschaftlichen Herausforderungen die einen ethischen Standpunkt
+  verlangen. Dazu hat unsere&nbsp; Freikirche Arbeitskreise ins Leben gerufen, die sich mit den sozialethischen Fragen
+  auseinandersetzen. In diesen Gremien treffen sich Theologen, Wissenschaftler, Mediziner, Psychologen und Lehrkräfte,
+  um gemeinsam eine öffentliche Stellungnahme zu erarbeiten. Das Bioethische Forschungs- und Bildungszentrum der Loma
+  Linda Universität in Kalifornien sowie verschiedene Ethikkomissionen in der ganzen Welt veröffentlichen ihre Arbeiten.
+  Durch diese offiziellen Erklärungen trägt unsere Freikirche zu einer zeitgemäβen christlichen Ethik bei.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
@@ -309,19 +404,29 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5176,"width":1397,"height":785} -->
-<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Glaubensbekenntnis.jpg" alt="" class="wp-image-5176" width="1397" height="785"/></figure>
+<figure class="wp-block-image is-resized"><img
+    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Glaubensbekenntnis.jpg" alt=""
+    class="wp-image-5176" width="1397" height="785" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Wir Siebenten-Tags-Adventisten sind den Glaubenslehren der biblischen Schreiber verpflichtet, weil wir glauben, dass sie unter der Inspiration des Geistes Gottes geschrieben haben. Wir erkennen die drei Personen Gott-Vater, Gott-Sohn und Gott-Heiliger Geist als den Schöpfergott an. Wir bekommen Erlösung nur durch den Glauben an das Opfer des Gottessohnes am Kreuz von Golgatha, wenn wir unsere Schuld bekennen. Allein die Gnade Gottes rechtfertigt uns. Diesen Glauben bekennen wir durch die Entscheidung zur Taufe, die nach biblischer Anweisung durch Untertauchen an Erwachsenen vollzogen wird. In Übereinstimmung mit dem biblischen Bericht heiligen&nbsp; wir den Siebenten-Tags-Sabbat, das ist der Samstag.&nbsp; als einen Gedenktag der Gnade Gottes, ihres Schöpfers und Erlösers.</p>
+<p>Wir Siebenten-Tags-Adventisten sind den Glaubenslehren der biblischen Schreiber verpflichtet, weil wir glauben, dass
+  sie unter der Inspiration des Geistes Gottes geschrieben haben. Wir erkennen die drei Personen Gott-Vater, Gott-Sohn
+  und Gott-Heiliger Geist als den Schöpfergott an. Wir bekommen Erlösung nur durch den Glauben an das Opfer des
+  Gottessohnes am Kreuz von Golgatha, wenn wir unsere Schuld bekennen. Allein die Gnade Gottes rechtfertigt uns. Diesen
+  Glauben bekennen wir durch die Entscheidung zur Taufe, die nach biblischer Anweisung durch Untertauchen an Erwachsenen
+  vollzogen wird. In Übereinstimmung mit dem biblischen Bericht heiligen&nbsp; wir den Siebenten-Tags-Sabbat, das ist
+  der Samstag.&nbsp; als einen Gedenktag der Gnade Gottes, ihres Schöpfers und Erlösers.</p>
 <!-- /wp:paragraph -->
 <!-- wp:button {"className":"is-style-squared"} -->
 <div class="wp-block-button is-style-squared" style="margin-left:20px">
-  <a class="wp-block-button__link c-block__button o-button o-button--outline" href="/Wir-adventisten/unser-glaube/">Unsere 28 Glaubensstandpunkte
+  <a class="wp-block-button__link c-block__button o-button o-button--outline"
+    href="/Wir-adventisten/unser-glaube/">Unsere 28 Glaubensstandpunkte
     <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
         <title>o-arrow__long--left</title>
-        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z"
+          fill="#9b9b9b" />
       </svg>
     </span></a>
 </div>
@@ -336,11 +441,16 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5179,"width":1444,"height":812} -->
-<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Mission.jpg" alt="" class="wp-image-5179" width="1444" height="812"/></figure>
+<figure class="wp-block-image is-resized"><img
+    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Mission.jpg" alt="" class="wp-image-5179"
+    width="1444" height="812" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Wir Siebenten-Tags-Adventisten werden nicht Glied am Leibe Christi durch das Einhalten von Vorschriften, sondern durch das Annehmen der Person Jesu Christi in unser persönliches Leben. Dieser Glaubensbund wird erst nach gründlicher Unterweisung in der Heiligen Schrift und durch eine persönliche, freiwillige Entscheidung geschlossen und in einer öffentlichen Feier, der Taufe,&nbsp; bekundet.</p>
+<p>Wir Siebenten-Tags-Adventisten werden nicht Glied am Leibe Christi durch das Einhalten von Vorschriften, sondern
+  durch das Annehmen der Person Jesu Christi in unser persönliches Leben. Dieser Glaubensbund wird erst nach gründlicher
+  Unterweisung in der Heiligen Schrift und durch eine persönliche, freiwillige Entscheidung geschlossen und in einer
+  öffentlichen Feier, der Taufe,&nbsp; bekundet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
@@ -352,11 +462,15 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5180,"width":1398,"height":786} -->
-<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Akzeptanz.jpg" alt="" class="wp-image-5180" width="1398" height="786"/></figure>
+<figure class="wp-block-image is-resized"><img
+    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Akzeptanz.jpg" alt=""
+    class="wp-image-5180" width="1398" height="786" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Wir Siebenten-Tags-Adventisten betrachten alle Menschen als gleichwertig vor Gott und lehnen jede Form von Diskriminierung auf Grund der Rasse, Nationalität oder religiösen Überzeugung ab. Wir sind überzeugt, dass es in allen Kirchen gerettete Christen gibt.&nbsp;</p>
+<p>Wir Siebenten-Tags-Adventisten betrachten alle Menschen als gleichwertig vor Gott und lehnen jede Form von
+  Diskriminierung auf Grund der Rasse, Nationalität oder religiösen Überzeugung ab. Wir sind überzeugt, dass es in allen
+  Kirchen gerettete Christen gibt.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
@@ -364,25 +478,173 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2>Auf einen Blick 2015/2016 - Zahlen und Fakten der Freikirche der Siebenten-Tags-Adventisten:</h2>
+<h2>Auf einen Blick 2018 - Zahlen und Fakten der Freikirche der Siebenten-Tags-Adventisten:</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5181,"width":1359,"height":764} -->
-<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Statistik2016.jpg" alt="" class="wp-image-5181" width="1359" height="764"/></figure>
+<figure class="wp-block-image is-resized"><img
+    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Statistik2016.jpg" alt=""
+    class="wp-image-5181" width="1359" height="764" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td>&nbsp;</td><td><span style="font-family: Arial; font-size: 10px; ">Stand vom 1.1.2015</span></td></tr><tr><td><span style="font-family: Arial; ">Getaufte Gemeindeglieder</span></td><td>18.143.745</td></tr><tr><td><span style="font-family: Arial; ">Anzahl der Gemeinden</span></td><td>74.299</td></tr><tr><td><span style="font-family: Arial; ">Angestellte insgesamt&nbsp;&nbsp;</span></td><td>255.982</td></tr><tr><td><span style="font-family: Arial; ">davon ordinierte Pastoren</span></td><td>16.726</td></tr><tr><td><strong><span style="font-family: Arial; ">Weltmission&nbsp;&nbsp;&nbsp;</span></strong></td><td>&nbsp;</td></tr><tr><td><span style="font-family: Arial; ">Länder, in denen S-T-A tätig sind&nbsp;</span></td><td><span style="font-family: Arial; ">215</span></td></tr><tr><td><span style="font-family: Arial; ">Sprachen</span></td><td><span style="font-family: Arial; ">914</span></td></tr><tr><td><span style="font-family: Arial; ">Radiostationen (mit wöchentl. Sendungen)</span></td><td><font face="Arial">415</font></td></tr><tr><td><span style="font-family: Arial; ">Fernsehstationen (mit wöchentl. Sendungen)</span></td><td><font face="Arial">918</font></td></tr><tr><td><strong><span style="font-family: Arial; ">Verlage und Publikationen</span></strong></td><td>&nbsp;</td></tr><tr><td><span style="font-family: Arial; ">Verlagshäuser</span></td><td><span style="font-family: Arial; ">63</span></td></tr><tr><td><span style="font-family: Arial; ">Zeitschriften</span></td><td>579</td></tr><tr><td>Sprachen, in denen Literatur gedruckt wird</td><td>365</td></tr><tr><td><strong><span style="font-family: Arial; ">Bildung</span></strong></td><td>&nbsp;</td></tr><tr><td><span style="font-family: Arial; ">Grundschulen, höhere Schulen und Universitäten</span></td><td>7.842</td></tr><tr><td><span style="font-family: Arial; ">Lehrkräfte und weiteres Personal</span></td><td>129.967</td></tr><tr><td><span style="font-family: Arial; ">Schüler und Studenten</span></td><td>1.814.591</td></tr><tr><td><strong><span style="font-family: Arial; ">Gesundheit</span></strong></td><td>&nbsp;</td></tr><tr><td><span style="font-family: Arial; ">Sanatorien und Krankenhäuser</span></td><td>175</td></tr><tr><td><span style="font-family: Arial; ">Kliniken und Sanitätsstationen</span></td><td>269</td></tr><tr><td><span style="font-family: Arial; ">Ärzte, Krankenschwestern /-pfleger</span></td><td>114.857</td></tr><tr><td><span style="font-family: Arial; ">Patienten (ambulant und stationär)</span></td><td>18.776.362</td></tr><tr><td><span style="font-family: Arial; ">Gesundkost-Werke</span></td><td><span style="font-family: Arial; ">21</span></td></tr><tr><td><strong><span style="font-family: Arial; ">Wohlfahrtswerk und Katastrophenhilfe (ADRA)</span></strong></td><td>&nbsp;</td></tr><tr><td><span style="font-family: Arial; ">Alten-, Kinder- und Waisenheime</span></td><td><span style="font-family: Arial; ">170</span></td></tr><tr><td><span style="font-family: Arial; ">Länder, in denen ADRA tätig ist&nbsp;</span></td><td>112</td></tr><tr><td><span style="font-family: Arial; ">ADRA-Projekte im Jahr 2012</span></td><td>1.294</td></tr><tr><td>Personen, denen diese Projekte zugute kamen</td><td>12.536.522</td></tr><tr><td>Gesamtwert der Projekte (€)</td><td>197,5 Mio</td></tr></tbody></table>
+<table class="wp-block-table">
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <td><span style="font-size: 10px; ">Stand vom Jahr 2017</span></td>
+    </tr>
+    <tr>
+      <td>Getaufte Gemeindeglieder</td>
+      <td>20.008.779</td>
+    </tr>
+    <tr>
+      <td>Anzahl der Gemeinden</td>
+      <td>81.110</td>
+    </tr>
+    <tr>
+      <td>Angestellte insgesamt</td>
+      <td>287.121</td>
+    </tr>
+    <tr>
+      <td>davon ordinierte Pastoren</td>
+      <td>18.110</td>
+    </tr>
+    <tr>
+      <td><strong>Weltmission</strong></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Länder, in denen S-T-A tätig sind</td>
+      <td>215</td>
+    </tr>
+    <tr>
+      <td>Sprachen</td>
+      <td>1.002</td>
+    </tr>
+    <tr>
+      <td>Radiostationen</td>
+      <td>1.066</td>
+    </tr>
+    <tr>
+      <td>Fernsehsender</td>
+      <td>484</td>
+    </tr>
+    <tr>
+      <td><strong>Gesundheit</strong></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Sanatorien und Krankenhäuser</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td>Kliniken und Sanitätsstationen</td>
+      <td>441</td>
+    </tr>
+    <tr>
+      <td>Ärzte, Krankenschwestern /-pfleger</td>
+      <td>123.945</td>
+    </tr>
+    <tr>
+      <td>Patienten (ambulant und stationär)</td>
+      <td>20.161.171</td>
+    </tr>
+    <tr>
+      <td>Gesundkostbetriebe</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td><strong>Wohlfahrtswerk/ Entwicklungs- und Katastrophenhilfe (ADRA)</strong></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Altenheime und Betreutes Wohnen</td>
+      <td>121</td>
+    </tr>
+    <tr>
+      <td>Kinder- und Waisenheime</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <td>Länder, in denen ADRA tätig ist&nbsp;</td>
+      <td>134</td>
+    </tr>
+    <tr>
+      <td>ADRA-Projekte im Jahr 2015</td>
+      <td>1.306</td>
+    </tr>
+    <tr>
+      <td>Personen, denen diese Projekte zugute kamen</td>
+      <td>18.503.456</td>
+    </tr>
+    <tr>
+      <td>Gesamtwert der Projekte (€)</td>
+      <td>157.803.722</td>
+    </tr>
+    <tr>
+      <td><strong>Verlage und Publikationen</strong></td>
+      <td>&nbsp;</td>
+    </tr>
+      <td><strong>Bildung</strong></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Universitäten und Hochschulen</td>
+      <td>114</td>
+    </tr>
+    <tr>
+      <td>Berufsschulen</td>
+      <td>53</td>
+    </tr>
+    <tr>
+      <td>Höhere Schulen</td>
+      <td>2.336</td>
+    </tr>
+    <tr>
+      <td>Grundschulen</td>
+      <td>5.705</td>
+    </tr>
+    <tr>
+      <td>Schulen insgesamt</td>
+      <td>8.208</td>
+    </tr>
+    <tr>
+      <td>Lehrkräfte und weiteres Personal</td>
+      <td>139.182</td>
+    </tr>
+    <tr>
+      <td>Schüler und Studenten</td>
+      <td>1.922.982</td>
+    </tr>
+    <tr>
+        <td>Verlagshäuser</td>
+        <td>61</td>
+      </tr>
+      <tr>
+        <td>Regelmäßig erscheinende Zeitschriften</td>
+        <td>356</td>
+      </tr>
+      <tr>
+        <td>Sprachen, in denen Literatur gedruckt wird</td>
+        <td>375</td>
+      </tr>
+      <tr>
+
+  </tbody>
+</table>
 <!-- /wp:table -->
 
 <!-- wp:download /-->
 <!-- wp:button {"className":"is-style-squared"} -->
 <div class="wp-block-button is-style-squared" style="margin-left:20px">
-  <a class="wp-block-button__link c-block__button o-button o-button--outline" href="/wp-content/uploads/2019/02/STA_Auf_einen_Blick.pdf" target="_blank">Auf einen Blick - PDF-Broschüre
+  <a class="wp-block-button__link c-block__button o-button o-button--outline"
+    href="/wp-content/uploads/2019/02/STA_Auf_einen_Blick.pdf" target="_blank">Auf einen Blick - PDF-Broschüre
     <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
         <title>o-arrow__long--left</title>
-        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
+        <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z"
+          fill="#9b9b9b" />
       </svg>
     </span></a>
 </div>
