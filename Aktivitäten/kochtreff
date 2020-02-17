@@ -95,7 +95,7 @@
                     <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"/>
                   </svg>
                 </span>
-                <a href="tel:+49782124157"> 24157
+                <a href="tel:+49782124751"> 24751
                 </a>
                 </small>
               </div>
@@ -131,19 +131,19 @@
             <div class="u-spacing c-block__group c-media-block__group ">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                <a href="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
+                <a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
                 Flyer:  Kochtreff und Gesundheitsvortrag
                 </a>
                 </h3>
                 <small>Laden Sie den Flyer für das Kochtreff herunter.<br>
                 <span class="u-icon u-icon--l u-path-fill--gray">
-                  <a href="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" download><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129 128">
+                  <a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" download><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129 128">
                     <title>Download</title>
                     <defs><clipPath id="a" transform="translate(-15)"><path d="M87,0a1,1,0,0,0-1-1H16a1,1,0,0,0-1,1V127a1,1,0,0,0,1,1h96a1,1,0,0,0,1-1L114,99a1,1,0,0,0-1-1H52a1,1,0,0,1-1-1V69a1,1,0,0,1,1-1h61a1,1,0,0,0,1-1V27a1,1,0,0,0-1-1H88a1,1,0,0,1-1-1V0Z" fill="none"/></clipPath><clipPath id="b" transform="translate(-15)"><rect x="89" y="-2" width="26" height="26" rx="1" ry="1" fill="none"/></clipPath></defs><title>PDF Icon</title><g clip-path="url(#a)"><path d="M113,1a1,1,0,0,0-1-1H16a1,1,0,0,0-1,1V127a1,1,0,0,0,1,1h96a1,1,0,0,0,1-1V1Z" transform="translate(-15)"/></g><g clip-path="url(#b)"><polygon points="74 0 74 24 98 24 74 0"/></g><g style="isolation:isolate"><path d="M69.39,85.33a4.12,4.12,0,0,1-2.71.79H64.44V90H62.19V79.2h4.64a3.74,3.74,0,0,1,2.56.83,3.26,3.26,0,0,1,1,2.59A3.35,3.35,0,0,1,69.39,85.33Zm-1.72-3.89a1.82,1.82,0,0,0-1.2-.36h-2v3.18h2a1.72,1.72,0,0,0,1.2-.39,1.58,1.58,0,0,0,.43-1.23A1.49,1.49,0,0,0,67.67,81.44Z" transform="translate(-15)"/><path d="M78.47,79.44a3.56,3.56,0,0,1,1.84,1.37,4.81,4.81,0,0,1,.77,1.74,8.38,8.38,0,0,1,.21,1.79A7.18,7.18,0,0,1,80.42,88a3.91,3.91,0,0,1-3.62,2H72.15V79.2H76.8A5.67,5.67,0,0,1,78.47,79.44Zm-4.13,1.64v7h2.08a2.25,2.25,0,0,0,2.23-1.57A5.54,5.54,0,0,0,79,84.49,5.06,5.06,0,0,0,78.48,82a2.18,2.18,0,0,0-2.06-.88H74.34Z" transform="translate(-15)"/><path d="M83,79.22h7.7v1.9H85.22V83.6H90v1.88H85.22V90H83V79.22Z" transform="translate(-15)"/></g>
                   </svg></a>
 
                 </span>
-                <a href="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" download>Flyer: Kochtreff</a>
+                <a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" download>Flyer: Kochtreff</a>
                 </small>
               </div>
             </div>
@@ -156,11 +156,11 @@
 </section><!-- End First Text Section -->
 <!-- /wp:html -->
 
-<!-- wp:file {"id":2565,"href":"http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf"} -->
+<!-- wp:file {"id":2565,"href":"/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf"} -->
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
     <article class="text c-article__body u-spacing--double">
-      <div class="wp-block-file"><a href="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" target="_blank">Kochtreff &amp; Gesunheitsvortrag Flyer</a><a href="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" class="wp-block-file__button" download>Download Flyer<br></a></div>
+      <div class="wp-block-file"><a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" target="_blank">Kochtreff &amp; Gesunheitsvortrag Flyer</a><a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" class="wp-block-file__button" download>Download Flyer<br></a></div>
     </article>
   </div>
 </section>
