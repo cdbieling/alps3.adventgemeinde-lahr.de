@@ -21,8 +21,8 @@
   </nav> <!-- /.breadcrumbs -->
 </section>
 <section>
-  <div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 u-shift--left--1-col--at-medium u-shift--left--1-col--at-large ">
-    <div class="c-article l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
+  <div class="l-grid l-grid--6-col l-grid-item--l--4-col u-shift--left--1-col--at-large">
+    <div class="l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
       <article class="text c-article__body u-spacing">
         <h2>Der große Hirnraub</h2>
         <p>Hast du auch schon bemerkt, dass du dich in einem Raum, in dem die frische, zirkulierende Luft fehlt, zerschlagen, träge und auch ein wenig unkonzentriert fühlst? Deinem Gehirn wird ein wichtiges Element zur ordentlichen Funktion vorenthalten. Ohne frische Luft können die&nbsp; Nerven keine ordentliche Leitung und Übertragung schaffen.</p>
@@ -63,8 +63,8 @@
 </section>
 
 <section>
-  <div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 u-shift--left--1-col--at-medium u-shift--left--1-col--at-large ">
-    <div class="c-article l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
+  <div class="l-grid l-grid--6-col l-grid-item--l--4-col u-shift--left--1-col--at-large">
+    <div class="l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
       <article class="text c-article__body u-spacing">
         <h3>Systemische Super-Schnellstraßen</h3>
         <p>Nicht nur das Gehirn, sondern jedes Organ des Körpers ist für optimale Funktion von frischer Luft abhängig. In gewissem Sinne ist dein Blut eine komplexe Super-Schnellstrasse für den Sauerstoff-Transport. Rote Blutzellen sind wild auf Sauerstoff, und wenn wir frische, saubere Luft einatmen, eilen die roten Blutzellen mit ihrer kostbaren Ladung Sauerstoff und Nährstoffen zum Körpergewebe (vorausgesetzt, du hattest genug Wasser getrunken, damit das Blut gut fließen kann!)</p>
@@ -131,8 +131,8 @@
 
 
 <section>
-  <div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 u-shift--left--1-col--at-medium u-shift--left--1-col--at-large ">
-    <div class="c-article l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
+  <div class="l-grid l-grid--6-col l-grid-item--l--4-col u-shift--left--1-col--at-large">
+    <div class="l-grid-item l-grid-item--l--4-col u-padding--zero--sides">
       <article class="text c-article__body u-spacing">
 
         <h3>Der Hauch des Lebens</h3>

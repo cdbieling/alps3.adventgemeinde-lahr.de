@@ -19,8 +19,8 @@
       <div class="u-spacing c-block__group c-media-block__group ">
         <div class="u-spacing u-width--100p">
           <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Lahr / Herbolzheim / Neuried</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">Daniel Heibutzkie</h3>
-            <strong>Email:</strong> daniel.Heibutzkie @ adventisten.de
+          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">Daniel Heibutzki</h3>
+            <strong>Email:</strong> daniel.Heibutzki @ adventisten.de
             <strong>Tel:</strong> 0151 44 06 58 05
         </div>
         <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
@@ -66,9 +66,9 @@
 </section>
 
 
-<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--4-of-7 u-shift--left--1-col--at-large">
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--6-of-7 u-shift--left--1-col--at-large l-grid-item--m--4-col">
   <div class="l-grid-item u-padding--zero--sides u-flex">
-    <div class="c-block-wrap l-grid-wrap--4-of-7">
+    <div class="c-block-wrap l-grid-wrap--6-of-7">
     <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
       <h3 class="c-block__heading-title u-theme--color--darker">Öffentlichkeitswirksame Gemeindeämter</h3>
     </div>
@@ -173,7 +173,7 @@
   </div>
 </section>
 
-<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--4-of-7 u-shift--left--1-col--at-large">
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--6-of-7 u-shift--left--1-col--at-large l-grid-item--m--4-col">
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
     <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">

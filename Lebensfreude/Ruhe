@@ -1,6 +1,5 @@
-<!-- wp:html -->
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
+  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
     <nav class="c-breadcrumbs" role="navigation">
       <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
@@ -20,122 +19,122 @@
         </li>
       </ul>
     </nav> <!-- /.breadcrumbs -->
-  <!--<div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large">-->
+  <!-- <div class="l-grid l-grid--6-col l-grid-wrap--3-of-7 u-shift--left--1-col--at-large"> -->
     <article class="text c-article__body u-spacing">
 
       <h1>Übersicht zum Thema Ruhe</h1>
       <!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td>1.</td><td>Ruhe</td><td>Müder als je zuvor!</td></tr><tr><td>2.</td><td>Schlaf</td><td>... das notwendige Übel</td></tr><tr><td>3.</td><td>Stress</td><td>- und dein Körper</td></tr><tr><td>4.</td><td>Fernsehen &amp; Musik</td><td>Ruhe... oder Wahnsinn</td></tr></tbody></table>
-<!-- /wp:table -->
+      <table class="wp-block-table"><tbody><tr><td>1.</td><td>Ruhe</td><td>Müder als je zuvor!</td></tr><tr><td>2.</td><td>Schlaf</td><td>... das notwendige Übel</td></tr><tr><td>3.</td><td>Stress</td><td>- und dein Körper</td></tr><tr><td>4.</td><td>Fernsehen &amp; Musik</td><td>Ruhe... oder Wahnsinn</td></tr></tbody></table>
+      <!-- /wp:table -->
 
-<!-- wp:heading -->
-<h2>1. Müder als je zuvor!</h2>
-<!-- /wp:heading -->
+      <!-- wp:heading -->
+      <h2>1. Müder als je zuvor!</h2>
+      <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Amerikaner leiden laut Angaben von Fachleuten an der National Sleep Foundation (nationale Schlaf-Institution) tagsüber derart unter Schlappheit, dass ihre Müdigkeit sich auf ihre alltäglichen Tätigkeiten auswirkt. Bei den durchgeführten Umfragen gaben 40% der Erwachsenen an, dass ihre Müdigkeit, die sie während des Tages spüren, Auswirkungen auf ihre täglichen Aktivitäten hat.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Amerikaner leiden laut Angaben von Fachleuten an der National Sleep Foundation (nationale Schlaf-Institution) tagsüber derart unter Schlappheit, dass ihre Müdigkeit sich auf ihre alltäglichen Tätigkeiten auswirkt. Bei den durchgeführten Umfragen gaben 40% der Erwachsenen an, dass ihre Müdigkeit, die sie während des Tages spüren, Auswirkungen auf ihre täglichen Aktivitäten hat.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Zum Beispiel verursacht Müdigkeit am Steuer in den USA jedes Jahr 100.000 Unfälle. 60%&nbsp; der unter 18jährigen Kinder klagen über Müdigkeit am Tage, von denen 15% regelmäßig in der Schule einschlafen. Erstaunlicher Weise klagen 62% aller Amerikaner darüber, dass sie mehrmals in der Woche Probleme beim Einschlafen haben, wobei es Raucher und Alkoholtrinker sind, die am häufigsten Probleme mit dem Schlafen haben.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Zum Beispiel verursacht Müdigkeit am Steuer in den USA jedes Jahr 100.000 Unfälle. 60%&nbsp; der unter 18jährigen Kinder klagen über Müdigkeit am Tage, von denen 15% regelmäßig in der Schule einschlafen. Erstaunlicher Weise klagen 62% aller Amerikaner darüber, dass sie mehrmals in der Woche Probleme beim Einschlafen haben, wobei es Raucher und Alkoholtrinker sind, die am häufigsten Probleme mit dem Schlafen haben.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Von beiden Enden her abbrennen?</h3>
-<!-- /wp:heading -->
+      <!-- wp:heading {"level":3} -->
+      <h3>Von beiden Enden her abbrennen?</h3>
+      <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Steht rechtzeitiges Zubettgehen auf unserer Liste, auf der wir Dinge festhalten, die wir für wichtig halten? Wenn um Mitternacht noch die Lampe brennt, kann das für den Menschen bedeuten, dass er in mehr als einer Hinsicht ausbrennt!</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Steht rechtzeitiges Zubettgehen auf unserer Liste, auf der wir Dinge festhalten, die wir für wichtig halten? Wenn um Mitternacht noch die Lampe brennt, kann das für den Menschen bedeuten, dass er in mehr als einer Hinsicht ausbrennt!</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Michael Irwin, ein Psychologe am Medizinischen Zentrum für Veteranen in San Diego, untersuchte mit seinem Mitarbeiterstab 23 Männer im Alter zwischen 22 und 61 Jahren, die vier Nächte in einem Schlaflaboratorium verbrachten. Er stellte fest, dass selbst bei mäßiger Einbüßung von Schlaf die Immunfunktion um 30% absank. Bei Wiederaufnahme des normalen Schlafrhytmus stellte sich ihre normale Immunität wieder ein. Gott richtete es so ein, dass sich Tiere des Nachts regen, nicht aber der Mensch! „Du machst Finsternis, dass es Nacht wird; da regen sich alle wilden Tiere“ (Psalm 104,20).</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Michael Irwin, ein Psychologe am Medizinischen Zentrum für Veteranen in San Diego, untersuchte mit seinem Mitarbeiterstab 23 Männer im Alter zwischen 22 und 61 Jahren, die vier Nächte in einem Schlaflaboratorium verbrachten. Er stellte fest, dass selbst bei mäßiger Einbüßung von Schlaf die Immunfunktion um 30% absank. Bei Wiederaufnahme des normalen Schlafrhytmus stellte sich ihre normale Immunität wieder ein. Gott richtete es so ein, dass sich Tiere des Nachts regen, nicht aber der Mensch! „Du machst Finsternis, dass es Nacht wird; da regen sich alle wilden Tiere“ (Psalm 104,20).</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Früh zu Bett gehen, früh aufstehen</h3>
-<!-- /wp:heading -->
+      <!-- wp:heading {"level":3} -->
+      <h3>Früh zu Bett gehen, früh aufstehen</h3>
+      <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Stimmt es, dass frühes Zubettgehen und frühes Aufstehen den Menschen gesund, reich und weise macht, wie ein Sprichwort im Englischen sagt? Dies ist zwar kein biblischer Spruch, aber eine ähnliche Aussage machte unser Schöpfer: „Wenn aber die Sonne aufgeht, heben sie (die Raubtiere) sich davon und legen sich in ihre Höhlen. So geht dann der Mensch aus an seine Arbeit und sein Werk bis an den Abend“ (Psalm 104,22.23). Die Wissenschaft bestätigt diese schlichte Aussage darüber, dass es nicht lange nach Sonnenuntergang für den Menschen Zeit ist, zu Bett zu gehen.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Stimmt es, dass frühes Zubettgehen und frühes Aufstehen den Menschen gesund, reich und weise macht, wie ein Sprichwort im Englischen sagt? Dies ist zwar kein biblischer Spruch, aber eine ähnliche Aussage machte unser Schöpfer: „Wenn aber die Sonne aufgeht, heben sie (die Raubtiere) sich davon und legen sich in ihre Höhlen. So geht dann der Mensch aus an seine Arbeit und sein Werk bis an den Abend“ (Psalm 104,22.23). Die Wissenschaft bestätigt diese schlichte Aussage darüber, dass es nicht lange nach Sonnenuntergang für den Menschen Zeit ist, zu Bett zu gehen.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Dr. Thomas Weir, Leiter des klinischen Psychologiezweigs des Nationalen Instituts für mentale Gesundheit, führt einige interessante Untersuchungen durch, um herauszufinden, ob Personen, die sich an frühes Zubettgehen und frühes Aufstehen halten, tatsächlich ihrer Gesundheit etwas Gutes tun. Bisher ergaben seine Studien, dass frühes Zubettgehen und frühes Aufstehen im Gegensatz zu spätem Zubettgehen und spätem Aufstehen eine vermehrte Gehirnproduktion von Melatonin hervorruft.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Dr. Thomas Weir, Leiter des klinischen Psychologiezweigs des Nationalen Instituts für mentale Gesundheit, führt einige interessante Untersuchungen durch, um herauszufinden, ob Personen, die sich an frühes Zubettgehen und frühes Aufstehen halten, tatsächlich ihrer Gesundheit etwas Gutes tun. Bisher ergaben seine Studien, dass frühes Zubettgehen und frühes Aufstehen im Gegensatz zu spätem Zubettgehen und spätem Aufstehen eine vermehrte Gehirnproduktion von Melatonin hervorruft.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Melatonin ist ein in der Zirbeldrüse produziertes Hormon, das mit der Regulierung des Schlafs, der Stimmung, der Pubertät und des Eisprungzyklus zu tun hat. Ein Mangel an&nbsp; Melatonin kann an Störungen wie chronischer Müdigkeit, Schlaflosigkeit und Zeitumstellung, Lethargie und Müdigkeit bei Nachtarbeitern, Depression und sogar Selbstmord beteiligt sein.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Melatonin ist ein in der Zirbeldrüse produziertes Hormon, das mit der Regulierung des Schlafs, der Stimmung, der Pubertät und des Eisprungzyklus zu tun hat. Ein Mangel an&nbsp; Melatonin kann an Störungen wie chronischer Müdigkeit, Schlaflosigkeit und Zeitumstellung, Lethargie und Müdigkeit bei Nachtarbeitern, Depression und sogar Selbstmord beteiligt sein.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Versiegeln von Unterweisungen</h3>
-<!-- /wp:heading -->
+      <!-- wp:heading {"level":3} -->
+      <h3>Versiegeln von Unterweisungen</h3>
+      <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Im Buch Hiob lesen wir: „Im Traume, im Nachtgesicht, wenn tiefer die Menschen befällt, im Schlummer auf dem Lager; dann öffnet er das Ohr der Menschen und besiegelt die Unterweisung, die er ihnen gibt“ (Hiob 33,15.16 EB). Vornehmlich im Tiefschlaf, vor allem in den Stunden vor Mitternacht, wird die Information, die man tagsüber erlangt hat, vom Hippocampus Bereich des Gehirns (Kurzzeitgedächtnis) zum Langzeitgedächtnis, dem Neocortex, übertragen.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Im Buch Hiob lesen wir: „Im Traume, im Nachtgesicht, wenn tiefer die Menschen befällt, im Schlummer auf dem Lager; dann öffnet er das Ohr der Menschen und besiegelt die Unterweisung, die er ihnen gibt“ (Hiob 33,15.16 EB). Vornehmlich im Tiefschlaf, vor allem in den Stunden vor Mitternacht, wird die Information, die man tagsüber erlangt hat, vom Hippocampus Bereich des Gehirns (Kurzzeitgedächtnis) zum Langzeitgedächtnis, dem Neocortex, übertragen.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Untersuchungen weisen darauf hin, dass das Einprägen im Gehirn vor allem dann erfolgt, wenn der Mensch tief und ohne Unterbrechung schläft. In einer Studie, die in der Zeitschrift<em>Science </em>veröffentlicht wurde, berichteten Forscher, dass der Tiefschlaf für den Lernprozess ungeheuer wichtig ist und dass der Mensch neue Kenntnisse und neues Können im Schlaf absorbiert. So sagen die Forscher beispielsweise: „Ebenso wie andere haben wir herausgefunden, dass eine Verbesserung in der Wahrnehmung weder während noch unmittelbar nach der Übung eines Vorgangs stattfindet, sondern vielmehr acht bis zehn Stunden nach Beendigung des Unterrichts.“</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Untersuchungen weisen darauf hin, dass das Einprägen im Gehirn vor allem dann erfolgt, wenn der Mensch tief und ohne Unterbrechung schläft. In einer Studie, die in der Zeitschrift<em>Science </em>veröffentlicht wurde, berichteten Forscher, dass der Tiefschlaf für den Lernprozess ungeheuer wichtig ist und dass der Mensch neue Kenntnisse und neues Können im Schlaf absorbiert. So sagen die Forscher beispielsweise: „Ebenso wie andere haben wir herausgefunden, dass eine Verbesserung in der Wahrnehmung weder während noch unmittelbar nach der Übung eines Vorgangs stattfindet, sondern vielmehr acht bis zehn Stunden nach Beendigung des Unterrichts.“</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Schlafzeit – wertvolle Zeit!</h3>
-<!-- /wp:heading -->
+      <!-- wp:heading {"level":3} -->
+      <h3>Schlafzeit – wertvolle Zeit!</h3>
+      <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Viele Menschen gehen nicht nur spät zu Bett, sondern stehen auch früh auf und machen zwischendurch ein Nickerchen, um leistungsfähig zu bleiben. Einige Forscher fanden jedoch heraus, dass in Fragmente zerlegter Schlaf schlimmer sein kann als eine Runde ohne Schlaf, wenn es um die Wirkung auf Antrieb, Stimmung und Aufnahmefähigkeit geht.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Viele Menschen gehen nicht nur spät zu Bett, sondern stehen auch früh auf und machen zwischendurch ein Nickerchen, um leistungsfähig zu bleiben. Einige Forscher fanden jedoch heraus, dass in Fragmente zerlegter Schlaf schlimmer sein kann als eine Runde ohne Schlaf, wenn es um die Wirkung auf Antrieb, Stimmung und Aufnahmefähigkeit geht.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Nach einem Untersuchungsbericht einer nationalen Kommission für Schlafstörungen aus dem Jahr 1990 schlafen Amerikaner heutzutage 20% weniger als ihre Landsleute vor 100 Jahren. Die verschiedenen Schlafphasen während der Nacht stellen das Verhältnis zwischen dem Nervensystem und Muskeln, Drüsen, dem Immunsystem und anderen Körpersystemen wieder her und sorgen für Ausgewogenheit im Bereich des Lernens, des Verstandes und der Gefühle.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Nach einem Untersuchungsbericht einer nationalen Kommission für Schlafstörungen aus dem Jahr 1990 schlafen Amerikaner heutzutage 20% weniger als ihre Landsleute vor 100 Jahren. Die verschiedenen Schlafphasen während der Nacht stellen das Verhältnis zwischen dem Nervensystem und Muskeln, Drüsen, dem Immunsystem und anderen Körpersystemen wieder her und sorgen für Ausgewogenheit im Bereich des Lernens, des Verstandes und der Gefühle.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Vier Voraussetzungen</h3>
-<!-- /wp:heading -->
+      <!-- wp:heading {"level":3} -->
+      <h3>Vier Voraussetzungen</h3>
+      <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Machen wir uns nichts vor! Um zu guten Schlafgewohnheiten zu kommen, ist viererlei zu beachten.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Machen wir uns nichts vor! Um zu guten Schlafgewohnheiten zu kommen, ist viererlei zu beachten.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol><li><strong>Quantität</strong>. Der Mensch braucht im Durchschnitt acht bis neun Stunden Schlaf täglich. Dies ist für eine gute Funktion des Immunsystems, zur Gesunderhaltung des Gewebes und des Nervensystems sowie für die Ausgewogenheit der Hormone wichtig. Kinder und Jugendliche brauchen mehr.</li><li><strong>Regelmäßigkeit. </strong>Wer festgesetzte Zeiten zum Schlafengehen und Aufstehen, für Mahlzeiten, körperliche Betätigung, Studium und Arbeit hat, hilft seinem Körper, regelmäßige Biorhytmen zu entwickeln, die das Krebsrisiko reduzieren und den hormonellen Metabolismus normalisieren.</li><li><strong>Zeitplan</strong>. Wie bereits erwähnt, fördert frühes Zubettgehen das Lernen, die Stimmung, die allgemeine Gesundheit und die Kindheitsentwicklung.</li><li><strong>Qualität</strong>. Ist es schon vorgekommen, dass wir lange schlafen und trotzdem müde aufwachen? Viele Faktoren können die Qualität des Schlafes stören. Spätes Essen, süße Speisen, Mangel an regelmäßiger sportlicher Betätigung, Rauchen und der Genuss koffeinhaltiger Getränke oder Drogen können die Qualität des Schlafes ernsthaft beeinträchtigen. Bestimmte Drogen, die man auf Rezept bekommt, einschließlich Schlaftabletten und Antidepressiva, können Probleme mit dem Schlaf verursachen.</li></ol>
-<!-- /wp:list -->
+      <!-- wp:list {"ordered":true} -->
+      <ol><li><strong>Quantität</strong>. Der Mensch braucht im Durchschnitt acht bis neun Stunden Schlaf täglich. Dies ist für eine gute Funktion des Immunsystems, zur Gesunderhaltung des Gewebes und des Nervensystems sowie für die Ausgewogenheit der Hormone wichtig. Kinder und Jugendliche brauchen mehr.</li><li><strong>Regelmäßigkeit. </strong>Wer festgesetzte Zeiten zum Schlafengehen und Aufstehen, für Mahlzeiten, körperliche Betätigung, Studium und Arbeit hat, hilft seinem Körper, regelmäßige Biorhytmen zu entwickeln, die das Krebsrisiko reduzieren und den hormonellen Metabolismus normalisieren.</li><li><strong>Zeitplan</strong>. Wie bereits erwähnt, fördert frühes Zubettgehen das Lernen, die Stimmung, die allgemeine Gesundheit und die Kindheitsentwicklung.</li><li><strong>Qualität</strong>. Ist es schon vorgekommen, dass wir lange schlafen und trotzdem müde aufwachen? Viele Faktoren können die Qualität des Schlafes stören. Spätes Essen, süße Speisen, Mangel an regelmäßiger sportlicher Betätigung, Rauchen und der Genuss koffeinhaltiger Getränke oder Drogen können die Qualität des Schlafes ernsthaft beeinträchtigen. Bestimmte Drogen, die man auf Rezept bekommt, einschließlich Schlaftabletten und Antidepressiva, können Probleme mit dem Schlaf verursachen.</li></ol>
+      <!-- /wp:list -->
 
-<!-- wp:paragraph -->
-<p>Stress, Fernsehen, schrille Musik und grelles Licht am Abend können ebenfalls die innere Uhr des Körpers verstellen, so dass man spät abends noch wach ist und die Schlafqualität herabgesetzt wird. Auch Wut und Schuld können friedvollen Schlaf zunichte machen.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Stress, Fernsehen, schrille Musik und grelles Licht am Abend können ebenfalls die innere Uhr des Körpers verstellen, so dass man spät abends noch wach ist und die Schlafqualität herabgesetzt wird. Auch Wut und Schuld können friedvollen Schlaf zunichte machen.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Wir kennen den Spruch: „Ein gutes Gewissen ist ein sanftes Ruhekissen.“ Wer Groll und Wut hegt, sorgt dafür, dass ihm der innere Frieden verloren geht. Vielleicht fordert uns die Bibel deshalb auf, die Sonne nicht über unserem Zorn untergehen zu lassen, sondern so weit es an uns liegt, mit jedermann Frieden zu haben (1. Thessalonicher 5,13).</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Wir kennen den Spruch: „Ein gutes Gewissen ist ein sanftes Ruhekissen.“ Wer Groll und Wut hegt, sorgt dafür, dass ihm der innere Frieden verloren geht. Vielleicht fordert uns die Bibel deshalb auf, die Sonne nicht über unserem Zorn untergehen zu lassen, sondern so weit es an uns liegt, mit jedermann Frieden zu haben (1. Thessalonicher 5,13).</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Auf Schlaf sollte größter Wert gelegt werden!</h3>
-<!-- /wp:heading -->
+      <!-- wp:heading {"level":3} -->
+      <h3>Auf Schlaf sollte größter Wert gelegt werden!</h3>
+      <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Unser Schöpfer und Erlöser weiß um unser Schlafbedürfnis. Er will uns helfen, diesem Bedürfnis in unserem Leben Rechnung zu tragen. In der Tat ist aus der Wissenschaft bekannt, dass ein Preis dafür zu zahlen ist, wenn der Schlaf einen hohen Stellenwert erhält.</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Unser Schöpfer und Erlöser weiß um unser Schlafbedürfnis. Er will uns helfen, diesem Bedürfnis in unserem Leben Rechnung zu tragen. In der Tat ist aus der Wissenschaft bekannt, dass ein Preis dafür zu zahlen ist, wenn der Schlaf einen hohen Stellenwert erhält.</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>In der heutigen Zeit voller Unruhe und Schwierigkeiten hat unser Erlöser ein Interesse an unseren Schlafgewohnheiten: „Vergeblich ist es für euch, dass ihr … spät aufbleibet … also gibt er seinem Geliebten im Schlaf“ (Psalm 127,2 EB).</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>In der heutigen Zeit voller Unruhe und Schwierigkeiten hat unser Erlöser ein Interesse an unseren Schlafgewohnheiten: „Vergeblich ist es für euch, dass ihr … spät aufbleibet … also gibt er seinem Geliebten im Schlaf“ (Psalm 127,2 EB).</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Jesus, der sich mit viel Mühe um die Menschen kümmerte und dringend seinen Auftrag zu erfüllen hatte, sagte zu den Jüngern: „Geht ihr allein an eine einsame Stätte und ruhet ein wenig“ (Markus 6,31).</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Jesus, der sich mit viel Mühe um die Menschen kümmerte und dringend seinen Auftrag zu erfüllen hatte, sagte zu den Jüngern: „Geht ihr allein an eine einsame Stätte und ruhet ein wenig“ (Markus 6,31).</p>
+      <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Uns alle, die wir der Sünde leid geworden sind, fordert Jesus auf, zu ihm zu kommen und von unseren sündigen Wegen auszuruhen. Er will, dass wir Ruhe finden von unserer schweren Sündenlast, von Bestürzung und Kummer. Zugleich fordert er uns auf, erfrischende, wohltuende Ruhe für den Körper in unserem Leben einzuplanen. Mit seiner Hilfe können wir beides erreichen – und beides ist wichtig für uns – Ruhe für den Geist und Ruhe für den Körper!</p>
-<!-- /wp:paragraph -->
+      <!-- wp:paragraph -->
+      <p>Uns alle, die wir der Sünde leid geworden sind, fordert Jesus auf, zu ihm zu kommen und von unseren sündigen Wegen auszuruhen. Er will, dass wir Ruhe finden von unserer schweren Sündenlast, von Bestürzung und Kummer. Zugleich fordert er uns auf, erfrischende, wohltuende Ruhe für den Körper in unserem Leben einzuplanen. Mit seiner Hilfe können wir beides erreichen – und beides ist wichtig für uns – Ruhe für den Geist und Ruhe für den Körper!</p>
+      <!-- /wp:paragraph -->
 
     </article>
   </div>
 
-  <div class="c-sidebar c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
+  <div class="c-sidebar c-sidebar-responsive fix-sidebar--at-medium l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
     <div class="c-related-posts u-spacing">
       <div class="c-block__heading u-theme--border-color--darker">
         <h3 class="c-block__heading-title u-theme--color--darker">Weitere Artikel</h3>
@@ -231,7 +230,7 @@
 </section>
 
 <section>
-<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7">
+<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 l-grid-item--m--5-col l-grid-item--l--6-col">
   <h3> Lesen Sie weiter </h3>
   <!-- Media Block Inline: Weitere Artikel Footer -->
   <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">
@@ -267,4 +266,3 @@
   </div>
 </section>
 
-<!-- /wp:html -->

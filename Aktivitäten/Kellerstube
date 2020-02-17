@@ -1,0 +1,137 @@
+<!-- wp:html -->
+<section class="l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large u-shift--left--1-col--at-xxlarge">
+  <div class="l-grid-item l-grid-item--6-col">
+    <nav class="c-breadcrumbs" role="navigation">
+      <ul class="c-breadcrumbs__list">
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/aktivitaeten/" class="c-breadcrumbs__link can-be--white">Angebot</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <span class="c-breadcrumbs__link can-be--white">Kellerstube</span>
+          </strong>
+        </li>
+      </ul>
+    </nav> <!-- /.breadcrumbs -->
+  </div>  
+</section>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+    <article class="text c-article__body u-spacing--double">
+      <p>Eine jahrzehntelang bewährte Tradition im gastfreundschaftlichen Hause von Familie Lachmann lässt die „Kellerstube“ fast schon zum gemeinschaftlichen und christlichen Kulturerbe der Stadt Lahr erwachsen.</p>
+      
+      <div class="o-pullquote--extended">
+       <blockquote class="pullquote u-theme--border-color--darker--left u-theme--color--darker u-padding--right">
+        <p>Sie blieben aber beständig in der Apostel Lehre und in der Gemeinschaft und im Brotbrechen und im Gebet.</p>
+        <cite class="o-citation u-theme--color--base">— Apostelgeschichte 2,42</cite>
+       </blockquote> <!-- /.pullquote -->
+      </div>
+      <p>Gemeinschaftliches Beisammensein und ein gemütlicher Sabbatausklang geben den Abenden eine besondere Atmosphäre. Umrahmt mit Andacht, Gebet und einem christlichen Spielfilm gestalten sich die Abende kurzlebig und geben immer wieder Anlass, in lebhafte und sinnreiche Gespräche hineinzuführen. </p><p>Das Gemeinsame Teilen von  Erfahrungen und auch die Anteilnahme am Wochengeschehen geben diesen Zusammenkünften eine familiäre Stimmung, bei der sich jeder angenommen fühlt. 
+Jeder ist eingeladen, die herzliche Gemeinschaft an den Abenden mit seinem Kommen zu bereichern. Für Rückfragen steht Familie Lachmann gerne telefonisch zur Verfügung. </p>
+ <p></p>
+
+
+    </article>
+  </div>
+  <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides fix-sidebar--at-medium">
+    <!-- RIGHT-SIDEBAR | Kellerstube in LAHR -->
+    <div class="c-related-posts u-spacing">
+      <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">Kellerstube in Lahr</h3>
+      </div>
+      <div class="c-related-posts__blocks u-spacing">
+        <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap ">
+              <picture class="picture">
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_Kellerstube_150x100.jpg" media="(min-width: 500px)">
+                <!--[if IE 9]></video><![endif]-->
+                <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_Kellerstube_500x375.jpg" alt="Kellerstube in Lahr - In Gemeinschaft den Sabbat ausklingen lassen">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group ">
+              <div class="u-spacing u-width--100p">
+                <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+                  <a href="https://goo.gl/maps/aRyjrRGMUDT2" class="c-block__title-link u-theme--link-hover--dark" target="_blank" rel="noopener noreferrer">
+                    Kellerstube bei Fam. Lachmann
+                  </a>
+                </h3>
+                <small>Weiherstr. 18 <br>
+                77933 Lahr<br>
+                <span class="u-icon u-icon--s u-path-fill--gray">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                    <title>Telefon:</title>
+                    <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"></path>
+                  </svg>
+                </span>
+                <a href="tel:+49782124157"> 24157
+                </a>
+                </small> 
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper">Jeden Sa. | 19.00 Uhr</span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+      </div>
+      
+      <!-- Weitere Veranstaltungen bei Familie Lachmann -->
+            <div class="c-block__heading u-theme--border-color--darker">
+        <h3 class="c-block__heading-title u-theme--color--darker">Weitere Veranstaltungen bei Fam. Lachmann</h3>
+      </div>
+      <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid--7-col">
+          <div class="c-media-block__image c-block__image l-grid-item--2-col l-grid-item--m--1-col l-grid-item--l--1-col u-padding--right">
+            <div class="c-block__image-wrap ">
+              <picture class="picture">
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr2_150x100.jpg" media="(min-width: 500px)">
+                <!--[if IE 9]></video><![endif]-->
+                <img itemprop="image" srcset="/wp-content/uploads/2018/12/Aktivitaeten_BibelkreiseInDerOrtenau_Lahr2_500x375.jpg" alt="Alt Text">
+              </picture>
+            </div>
+          </div> <!-- c-media-block__image -->
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--1-col u-border--left u-theme--border-color--darker--left u-color--gray u-spacing--half">
+            <div class="u-spacing c-block__group c-media-block__group ">
+              <div class="u-spacing u-width--100p">
+                <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+                  <a href="https://goo.gl/maps/aRyjrRGMUDT2" class="c-block__title-link u-theme--link-hover--dark" target="_blank" rel="noopener noreferrer">
+                    Bibelkreis mit Fam. Lachmann
+                  </a>
+                </h3>
+                <small>Weiherstr. 18 <br>
+                77933 Lahr<br>
+                <span class="u-icon u-icon--s u-path-fill--gray">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                    <title>Telefon:</title>
+                    <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#777"></path>
+                  </svg>
+                </span>
+                <a href="tel:+49782124157"> 24157
+                </a>
+                </small> 
+              </div>
+              <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+                <span class="c-block__category u-text-transform--upper">Jeden Di. | 20.00 Uhr</span>
+              </div>
+            </div>
+          </div> <!-- c-media-block__content -->
+        </div> <!-- c-media-block -->
+      
+    </div>
+    <!-- END RIGHT-SIDEBAR | Kellerstube in LAHR -->
+</div></section>
+<!-- /wp:html -->

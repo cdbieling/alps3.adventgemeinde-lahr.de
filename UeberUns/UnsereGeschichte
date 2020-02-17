@@ -106,7 +106,7 @@
 <!-- /wp:alps-gutenberg-blocks/blockquote -->
 
 <!-- wp:image {"id":6028,"width":1348,"height":862} -->
-<figure class="wp-block-image is-resized"><a class="thickbox" href="/wp-content/uploads/2019/06/UnsereGeschichte_04_Gemeindesaal-Bertholdstrasse_web.jpg"><img src="/wp-content/uploads/2019/06/UnsereGeschichte_04_Gemeindesaal-Bertholdstrasse_web.jpg" alt="Unsere Geschichte - Gemeindesaal Bertholdstrasse" class="wp-image-6028" width="1348" height="862"/></a><figcaption>Gemeindesaal Bertholdstraße </figcaption></figure>
+<figure class="wp-block-image is-resized"><a class="thickbox" href="/wp-content/uploads/2019/06/UnsereGeschichte_04_Gemeindesaal-Bertholdstrasse_web.jpg"><img src="/wp-content/uploads/2019/06/UnsereGeschichte_04_Gemeindesaal-Bertholdstrasse_web.jpg" alt="Unsere Geschichte - Gemeindesaal Bertholdstrasse" class="wp-image-6028" width="1348" /></a><figcaption>Gemeindesaal Bertholdstraße </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"justify"} -->
@@ -117,7 +117,7 @@
 <p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:columns -->
+<!-- wp:columns {"className":"has-2-columns"} -->
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":6071} -->
 <figure class="wp-block-image"><a class="thickbox" href="/wp-content/uploads/2019/06/UnsereGeschichte_05_Gemeindesaal-Bismarckstrasse_Large.jpg"><img src="/wp-content/uploads/2019/06/UnsereGeschichte_05_Gemeindesaal-Bismarckstrasse_web.jpg" alt="Gemeindesaal Bismarckstrasse" class="wp-image-6071"/></a><figcaption>Gemeindesaal Bismarckstrasse 19</figcaption></figure>
@@ -575,7 +575,7 @@
           <span class="u-theme--color--base"><em>Alle Versammlungsorte</em></span> in der Übersicht.
         </h2>
         <div>
-          <table class="wp-block-table"><tbody><tr><td>1970 – 2006</td><td>Geroldsecker Vorstadt 10</td></tr><tr><td>1959 – 1970</td><td>Alleestraße 4</td></tr><tr><td>1952 – 1959</td><td>Bismarckstraße 19</td></tr></tbody></table>
+          <table class="wp-block-table"><tbody><tr><td style="width:200px">1970 – 2006</td><td>Geroldsecker Vorstadt 10</td></tr><tr><td>1959 – 1970</td><td>Alleestraße 4</td></tr><tr><td>1952 – 1959</td><td>Bismarckstraße 19</td></tr></tbody></table>
         </div>
         <div class="c-block__toggle">
           <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this"><span class="u-icon u-icon--xs u-path-fill--white"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>o-icon__plus</title><path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/></svg></span>
@@ -585,7 +585,7 @@
     </div> <!-- /.c-block__header -->
     <div class="c-block__body u-padding u-padding--zero--top u-spacing">
       <p>
-        <table class="wp-block-table"><table class="wp-block-table"><tbody><tr><td>1945 – 1952</td><td>Bertholdstraße</td></tr><tr><td>1932 – 1945</td><td>Roßgasse</td></tr><tr><td>1920 – 1932</td><td>Privatwohnung Fam. Fehrer, Huberweg</td></tr><tr><td>1906 – 1920</td><td>Privatwohnung Fam. Aberle</td></tr></tbody></table>
+        <table class="wp-block-table"><table class="wp-block-table"><tbody><tr><td style="width:200px">1945 – 1952</td><td>Bertholdstraße</td></tr><tr><td>1932 – 1945</td><td>Roßgasse</td></tr><tr><td>1920 – 1932</td><td>Privatwohnung Fam. Fehrer, Huberweg</td></tr><tr><td>1906 – 1920</td><td>Privatwohnung Fam. Aberle</td></tr></tbody></table>
       </p>
     </div> <!-- /.c-block__body -->
   </div> <!-- /.c-block -->
@@ -601,7 +601,7 @@
           <span class="u-theme--color--base"><em>Alle Prediger</em></span> in der Übersicht.
         </h2>
         <div>
-          <table class="wp-block-table"><tbody><tr><td>seit 2018</td><td>Erhard Vasicek</td></tr><tr><td>seit 2018</td><td>Daniel Heibutzkie</td></tr><tr><td>2017</td><td>Sebastian Wulff</td></tr><tr><td>2011 - 217</td><td>Br. W. Tytschina</td></tr><tr><td>2010 - 2018</td><td>Br. B. Reinhold</td></tr><tr><td>2006 - 2011</td><td>Br. J. Fries</td></tr><tr><td>2005 - 2008</td><td>Br. M. Dörnbrack *</td></tr><tr><td>2002 – 2005</td><td>Br. N. Taubert *</td></tr><tr><td>2000 – 2002</td><td>Br. D. Pazanin *</td></tr></tbody></table>
+          <table class="wp-block-table"><tbody><tr><td style="width:200px">seit 2018</td><td>Erhard Vasicek</td></tr><tr><td>seit 2018</td><td>Daniel Heibutzkie</td></tr><tr><td>2017</td><td>Sebastian Wulff</td></tr><tr><td>2011 - 217</td><td>Br. W. Tytschina</td></tr><tr><td>2010 - 2018</td><td>Br. B. Reinhold</td></tr><tr><td>2006 - 2011</td><td>Br. J. Fries</td></tr><tr><td>2005 - 2008</td><td>Br. M. Dörnbrack *</td></tr><tr><td>2002 – 2005</td><td>Br. N. Taubert *</td></tr><tr><td>2000 – 2002</td><td>Br. D. Pazanin *</td></tr></tbody></table>
         </div>
         <div class="c-block__toggle">
           <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this"><span class="u-icon u-icon--xs u-path-fill--white"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>o-icon__plus</title><path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/></svg></span>
@@ -610,13 +610,12 @@
       </div> <!-- /.c-block__title -->
     </div> <!-- /.c-block__header -->
     <div class="c-block__body u-padding u-padding--zero--top u-spacing">
-      <p><table class="wp-block-table"><tbody><tr><td>1997 – 2000</td><td>Br. H. Wischnat</td></tr><tr><td>1997 – 2006</td><td>Br. M. Werner</td></tr><tr><td>1995 – 1997</td><td>Schw. C. Wischnat *</td></tr><tr><td>1993 – 1997</td><td>Br. E. Dan</td></tr><tr><td>1991 – 1993</td><td>Br. D. Brozovic *</td></tr><tr><td>1988 – 1995</td><td>Br. H. Krause</td></tr><tr><td>1987 – 1989</td><td>Br. R. Albig *</td></tr><tr><td>1987 – 1988</td><td>Schw. A. Lindig *</td></tr><tr><td>1984 – 1989</td><td>Br. A. Thäder</td></tr><tr><td>1981 – 1988</td><td>Br. E. Biró</td></tr><tr><td>1980 – 1981</td><td>Br. E. Hofmann</td></tr><tr><td>1978 – 1980</td><td>Br. H. Wosimsky</td></tr><tr><td>1975 – 1977</td><td>Br. K. Bialas</td></tr></tbody></table>
+      <p><table class="wp-block-table"><tbody><tr><td style="width:200px">1997 – 2000</td><td>Br. H. Wischnat</td></tr><tr><td>1997 – 2006</td><td>Br. M. Werner</td></tr><tr><td>1995 – 1997</td><td>Schw. C. Wischnat *</td></tr><tr><td>1993 – 1997</td><td>Br. E. Dan</td></tr><tr><td>1991 – 1993</td><td>Br. D. Brozovic *</td></tr><tr><td>1988 – 1995</td><td>Br. H. Krause</td></tr><tr><td>1987 – 1989</td><td>Br. R. Albig *</td></tr><tr><td>1987 – 1988</td><td>Schw. A. Lindig *</td></tr><tr><td>1984 – 1989</td><td>Br. A. Thäder</td></tr><tr><td>1981 – 1988</td><td>Br. E. Biró</td></tr><tr><td>1980 – 1981</td><td>Br. E. Hofmann</td></tr><tr><td>1978 – 1980</td><td>Br. H. Wosimsky</td></tr><tr><td>1975 – 1977</td><td>Br. K. Bialas</td></tr></tbody></table>
       </p>
       <p>
-        <table class="wp-block-table"><tbody><tr><td>1968 – 1975</td><td>Br. H. Meyer</td></tr><tr><td>1964 – 1971</td><td>Br. F. Dombrowsky</td></tr><tr><td>1961 – 1964</td><td>Br. W. Haas</td></tr><tr><td>1956 – 1961</td><td>Br. H. Erbenich</td></tr><tr><td>1953 – 1956</td><td>Br. F. Ebner</td></tr><tr><td>1949 – 1953</td><td>Br. Grieser</td></tr><tr><td>1946 – 1949</td><td>Br. Glut</td></tr><tr><td>1946 – 1948</td><td>Br. M. Pönig</td></tr><tr><td>1940 – 1946</td><td>Br. Hörner</td></tr><tr><td>1938 – 1940</td><td>Br. Schmid</td></tr><tr><td>1935 - 1938</td><td>Br. F. Fleck</td></tr><tr><td>1930 - 1935</td><td>Schw. Gutmann</td></tr><tr><td>1926 – 1935</td><td>Br. Schwarz</td></tr><tr><td>1910 - 1926</td><td>Br. Aberle</td></tr><tr><td>1906 – 1926</td><td>Br. Adolf</td></tr><tr><td>1905</td><td>Br. Straubert</td></tr></tbody></table>
+        <table class="wp-block-table"><tbody><tr><td style="width:200px">1968 – 1975</td><td>Br. H. Meyer</td></tr><tr><td>1964 – 1971</td><td>Br. F. Dombrowsky</td></tr><tr><td>1961 – 1964</td><td>Br. W. Haas</td></tr><tr><td>1956 – 1961</td><td>Br. H. Erbenich</td></tr><tr><td>1953 – 1956</td><td>Br. F. Ebner</td></tr><tr><td>1949 – 1953</td><td>Br. Grieser</td></tr><tr><td>1946 – 1949</td><td>Br. Glut</td></tr><tr><td>1946 – 1948</td><td>Br. M. Pönig</td></tr><tr><td>1940 – 1946</td><td>Br. Hörner</td></tr><tr><td>1938 – 1940</td><td>Br. Schmid</td></tr><tr><td>1935 - 1938</td><td>Br. F. Fleck</td></tr><tr><td>1930 - 1935</td><td>Schw. Gutmann</td></tr><tr><td>1926 – 1935</td><td>Br. Schwarz</td></tr><tr><td>1910 - 1926</td><td>Br. Aberle</td></tr><tr><td>1906 – 1926</td><td>Br. Adolf</td></tr><tr><td>1905</td><td>Br. Straubert</td></tr></tbody></table>
       </p>
     </div> <!-- /.c-block__body -->
   </div> <!-- /.c-block -->
 </section>
-
 <!-- /wp:html -->

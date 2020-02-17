@@ -1,0 +1,212 @@
+<!-- wp:html -->
+<section class="l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large u-shift--left--1-col--at-xxlarge">
+  <div class="l-grid-item l-grid-item--6-col u-padding--bottom">
+    <nav class="c-breadcrumbs" role="navigation">
+      <ul class="c-breadcrumbs__list">
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/" class="c-breadcrumbs__link can-be--white">Home</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <a href="/aktivitaeten/" class="c-breadcrumbs__link can-be--white">Angebot</a>
+          </strong>
+        </li>
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+          <strong>
+            <span class="c-breadcrumbs__link can-be--white">Jugendtreff</span>
+          </strong>
+        </li>
+      </ul>
+    </nav> <!-- /.breadcrumbs -->
+  </div>
+  <div class="l-grid-item u-padding--zero--sides u-flex l-grid-item--3-col">
+<div class="text u-spacing">
+<h4>Wer sind wir?</h4>
+<p>Die Adventjugend ist die Vereinigung aller Jugendlichen, die in der Erwartung der baldigen Wiederkunft Jesu, leben. Die Adventjugend ist eine offene Einrichtung der Freikirche der Siebenten-Tags-Adventisten. Wir, als Adventjugend Ortenau kommen überwiegend aus der Umgebung. </p>
+
+<div class="o-pullquote--extended">
+  <blockquote class="pullquote u-theme--border-color--darker--left u-theme--color--darker u-padding--right">
+  <p>'Lauf hin und sage diesem Jüngling...' Sach. 2,8. So ist auch heute den jungen Leuten der Adventbewegung im Schlußdrama der Menschheitsgeschichte eine wichtige Rolle übertragen worden. <small style="font-size:8px"><i>E.White - RJ 5.1</i></small></p>
+  <cite class="o-citation u-theme--color--base">Sei auch du ein Teil der jugendlichen Adventbewegung, die sich für Gott einsetzt.</cite>
+  </blockquote> <!-- /.pullquote -->
+</div>
+<h4>Was motiviert uns?</h4>
+<p>Wir wünschen Jesus besser kennen zu lernen um unser Leben nach seinem Vorbild auszurichten. In der Regel betrachten wir bei den wöchentlichen ein biblisches Thema. Das Wort Gottes ist Fundament unseres Glaubens und Lebens. Wir reden mit und über Gott, studieren die Bibel und suchen ihren Bezug zu den aktuellen Ereignissen dieser Welt.</p>
+<h4>Was uns zusammen hält </h4>
+<p>Das Zentrum unseres Glaubens ist Jesus. In ihm ist unsere Hoffnung auf Erlösung garantiert und seine Wiederkunft.</p>
+<h4>Für wen sind die Jugendtreffs?</h4>
+<p>Unsere Treffen sind für jedermann offen. Es gibt keine Mitgliedsverträge und -beiträge, auch keine Verpflichtung zur Teilnahme. Das heißt, jeder Jugendliche kann ganz unverbindlich kommen, mitmachen und wieder gehen. Wir freuen uns über Besucher. </p>
+<h4>Wo sind die Treffen?</h4>
+<p>Wir treffen uns abwechselnd an verschiedenen Orten. Die Adressen der jeweiligen Adventgemeinden könnt ihr hier finden: adventisten-ortenau.de.</p>
+
+<p>Du überlegst dir, auch zu unseren Jugendtreffs zu kommen? Wir laden dich ganz herzlich dazu ein! Wir treffen uns jeden Samstag um 16:00 Uhr. Den genauen Ort entnimmst du am besten aus dem Jugendplan in unserem Mitteilungsblatt. Doch um immer aktuell informiert zu sein, ist es ratsam, sich kurz davor nochmals mit der Jugendleitung kurzzuschließen.</p>
+
+<p>Wir freuen uns auf dein Kommen. Du hast noch Fragen? Dann schreib uns doch einfach mal eine Email. jugend -at- adventgemeinde-lahr.de</p>
+</div>
+</div>
+
+  <div class="l-grid-item u-padding--left u-flex l-grid-item--2-col" style="margin-top:-90px">
+[MEC id="6391"]
+</div>
+</section>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid--7-col l-grid-wrap--6-of-7">
+  <div class="l-grid-item u-padding--zero--sides u-flex">
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Bible_500x275.jpg" alt="Gemeinsam die Bibel studieren">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Die Bibel als Grundlage für den Start ins Leben. Bibel lesen, auftanken, weitergeben und dabei geistlich wachsen.
+            </h3>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Bibel studieren</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Jugendstunde_500x275.jpg" alt="Gemeinsam biblische Themen studieren">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Austausch und Erarbeitung von Themen rund um die Bibel, den Alltag und aktuelle Ereignisse.   .
+            </h3>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Jugendthemenstunden</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Service_500x275.jpg" alt="Gemeinsam die Bibel studieren">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Mitmenschen dienen und anderen helfen. Soziales Engagement als christusähnliches Leitbild.
+            </h3>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Service</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Social_500x275.jpg" alt="Gemeinsam die Bibel studieren">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Gemeinschaftspiele und miteinander die Zeit teilen. Gemeinsame Zeit bedeutet auch zusammen zu wachsen.
+            </h3>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Spiel &amp; Zeit</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Sport_500x275.jpg" alt="Gemeinsam die Bibel studieren">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Sportliche Betätigung ist wichtiger Bestandteil der Jugend. Komm und spiel mit uns Fußabll.
+            </h3>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Sport &amp; Freizeit</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+        <div class="c-block__image-wrap ">
+          <picture class="picture">
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 500px)">
+            <!--[if IE 9]></video><![endif]-->
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Aktivitaeten_Jugendtreff_Veranstaltungen_500x275.jpg" alt="Große Veranstaltungen gemeinsam erleben">
+          </picture>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            Kongresse, landesweite Sabbate und Treffen mit anderen Jugendgruppen bilden die Highlights.
+            </h3>
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper">Veranstaltungen</span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+  </div>
+</section>
+<!-- /wp:html -->

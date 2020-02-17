@@ -1,6 +1,6 @@
 <!-- wp:html -->
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
+  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
     <nav class="c-breadcrumbs" role="navigation">
       <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
         <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
@@ -56,7 +56,7 @@
 
     </article>
   </div>
-  <div class="c-sidebar c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
+  <div class="c-sidebar c-sidebar-responsive fix-sidebar--at-medium l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
     <div class="c-related-posts u-spacing">
       <div class="c-block__heading u-theme--border-color--darker">
         <h3 class="c-block__heading-title u-theme--color--darker">Weitere Artikel</h3>
@@ -287,7 +287,7 @@
 </section>
 
 <section>
-<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7">
+<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 l-grid-item--m--5-col l-grid-item--l--6-col">
   <h3> Lesen Sie weiter </h3>
   <!-- Media Block Inline: Weitere Artikel Footer -->
   <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">

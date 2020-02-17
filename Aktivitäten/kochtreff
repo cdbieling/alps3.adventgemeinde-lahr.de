@@ -1,6 +1,6 @@
 <!-- wp:html -->
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
+  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
     <article class="text c-article__body u-spacing--double">
       <h2>Jeden Monat Kochtreff mit Gesundheitsvortrag - und Sie sind dazu herzlich eingeladen!</h2>
       <p>Ob jung oder alt - in der heutigen Zeit wird jeder mit Krebs, Osteoporose, Diabetes oder Bluthochdruck konfrontiert. Ob in der Familie, im Verwandten- oder Freundeskreis. Die neusten wissenschaftlichen Erkenntnisse bestätigen, dass es sich in den meisten Fällen um Wohlstandskrankheiten handelt. Kann man also ein großteil der Krankheiten vorbeugen?</p>
@@ -23,7 +23,7 @@
 
 
   <!-- Right Section -->
-  <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
+  <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides fix-sidebar--at-medium">
     <!-- RIGHT-SIDEBAR | Kochtreff in LAHR -->
     <div class="c-related-posts u-spacing">
       <div class="c-block__heading u-theme--border-color--darker">
@@ -175,10 +175,10 @@
       <div class="o-figure__image">
       <picture class="picture">
       <!--[if IE 9]><video style="display: none;"><![endif]-->
-      <source srcset="/wp-content/uploads/2019/03/image900x500_2.jpg" media="(min-width: 900px)">
-      <source srcset="/wp-content/uploads/2019/03/image700x400_2.jpg" media="(min-width: 500px)">
+      <source srcset="/wp-content/uploads/2019/03/SonnigesGemuet_900x500_2.jpg" media="(min-width: 900px)">
+      <source srcset="/wp-content/uploads/2020/02/Wasserglas_700x400_1.jpg" media="(min-width: 500px)">
       <!--[if IE 9]></video><![endif]-->
-      <img itemprop="image" srcset="/wp-content/uploads/2019/03/image500x280_v2.jpg" alt="Alt Text">
+      <img itemprop="image" srcset="/wp-content/uploads/2019/03/image500x280_v2.jpg" alt="Ernährung bildet eine wichtige Säule der Gesundheit">
       </picture>
       </div> <!-- /.o-figure__image -->
 
@@ -195,10 +195,10 @@
       <div class="o-figure__image">
         <picture class="picture">
           <!--[if IE 9]><video style="display: none;"><![endif]-->
-          <source srcset="/wp-content/uploads/2019/03/image900x500_2.jpg" media="(min-width: 900px)">
+          <source srcset="/wp-content/uploads/2020/02/Aktivitaeten_Kochtreff_Freude_900x500.jpg" media="(min-width: 900px)">
           <source srcset="/wp-content/uploads/2019/03/image700x400_2.jpg" media="(min-width: 500px)">
           <!--[if IE 9]></video><![endif]-->
-          <img itemprop="image" srcset="/wp-content/uploads/2019/03/image500x280_v2.jpg" alt="Alt Text">
+          <img itemprop="image" srcset="/wp-content/uploads/2019/03/image500x280_v2.jpg" alt="Ernährung bildet eine wichtige Säule der Gesundheit">
           </picture>
           </div> <!-- /.o-figure__image -->
       <div class="o-figure__caption">
@@ -214,7 +214,7 @@
 <!-- wp:html -->
 <!-- Aktuelle Gesundheitsvorträge -->
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
+  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
     <article class="text c-article__body">
 
       <h2 style="padding-bottom:15px;">Themen der Gesundheitsvorträge 2019</h2>
@@ -231,7 +231,7 @@
 <!-- Gesundheitsvorträge 2018 | Buttons Show More -->
 <!-- EXPAND BLOCK -->
 <section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
+  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
 
     <div class="js-this c-block__expand ">
       <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
@@ -240,7 +240,7 @@
             <title>Gesundheitsvorträge 2018</title>
             <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
           </svg>
-        </span> Gesundheitsvorträge 2018
+        </span> Gesundheitsvorträge 2018&nbsp;
       </button>
 
       <div class="c-block__body u-spacing"><!-- Expanding Part-->
@@ -264,7 +264,7 @@
             <title>Gesundheitsvorträge 2017</title>
             <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
           </svg>
-        </span> Gesundheitsvorträge 2017
+        </span> Gesundheitsvorträge 2017&nbsp;
       </button>
 
       <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
@@ -286,7 +286,7 @@
             <title>Gesundheitsvorträge 2016</title>
             <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
           </svg>
-        </span> Gesundheitsvorträge 2016
+        </span> Gesundheitsvorträge 2016&nbsp;
       </button>
 
       <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
@@ -308,7 +308,7 @@
             <title>Kochkurs 2016</title>
             <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
           </svg>
-        </span> Kochkurs 2016
+        </span> Kochkurs 2016&nbsp;
       </button>
 
       <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
@@ -328,10 +328,10 @@
       <button class="js-toggle o-button o-button--outline o-button--toggle o-button--small" data-toggled="this" data-prefix="this">
         <span class="u-icon u-icon--xs u-path-fill--white">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-            <title>Gesundheitsvorträge 2016</title>
+            <title>Gesundheitsvorträge 2015</title>
             <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
           </svg>
-        </span> Gesundheitsvorträge 2015
+        </span> Gesundheitsvorträge 2015&nbsp;
       </button>
 
       <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->
@@ -353,7 +353,7 @@
             <title>Gesundheitsvorträge 2014</title>
             <path d="M10,4H6V0H4V4H0V6H4v4H6V6h4Z" fill="#9b9b9b"/>
           </svg>
-        </span> Gesundheitsvorträge <2014
+        </span> Gesundheitsvorträge 2014&nbsp;
       </button>
 
       <div class="c-block__body u-spacing" style="margin-bottom:30px"><!-- Expanding Part-->

@@ -1,20 +1,21 @@
 <section class="l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="l-grid-item l-grid-item--6-col">
-    <nav class="c-breadcrumbs" role="navigation">
-      <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
-        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+<div class="l-grid-item l-grid-item--6-col">
+<nav class="c-breadcrumbs" role="navigation">
+<ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
+<li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
             <a href="/" class="c-breadcrumbs__link can-be--white"><strong>Home</strong></a>
         </li>
-        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+<li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
           <a href="/wir-adventisten/" class="c-breadcrumbs__link can-be--white"><strong>Über uns</strong></a>
         </li>
-        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
-            <span class="c-breadcrumbs__link can-be--white"><strong>Die Siebenten-Tags-Adventisten</strong></span><br>
+<li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray">
+            <span class="c-breadcrumbs__link can-be--white"><strong>Die Siebenten-Tags-Adventisten</strong></span>
         </li>
-      </ul>
-    </nav>
-      <!-- /.breadcrumbs -->
-  </div>
+</ul>
+</nav>
+<p>      <!-- /.breadcrumbs -->
+  </p>
+</div>
 </section>
 
 <!-- wp:heading -->
@@ -22,20 +23,16 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":4928,"width":1315,"height":739} -->
-<figure class="wp-block-image is-resized"><img
-    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_HumanitaereHilfe2.jpg" alt=""
-    class="wp-image-4928" width="1315" height="739" />
-  <figcaption>Mitmenschen (in Not) helfen, gehört zu den Fundamentalprinzipien der Bibel. Eine Freikirche, die sich der
-    Nöte ihrer Mitmenschen annimmt.</figcaption>
-</figure>
+<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_HumanitaereHilfe2.jpg" alt="" class="wp-image-4928" width="1315" /><figcaption>Mitmenschen (in Not) helfen, gehört zu den Fundamentalprinzipien der Bibel. Eine Freikirche, die sich der
+    Nöte ihrer Mitmenschen annimmt.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p style="text-align:justify">Wir Siebenten-Tags-Adventisten kümmern uns um das Wohl unserer Mitmenschen, insbesondere
+<p><p style="text-align:justify">Wir Siebenten-Tags-Adventisten kümmern uns um das Wohl unserer Mitmenschen, insbesondere
   der schutzlosen und hilfsbedürftigen; ob in Friedens- oder Kriegszeiten oder in Naturkatastrophen. Dazu haben wir das
   ADRA-Hilfswerk entwickelt - ein weltweites Netz humanitärer Hilfe. ADRA steht für Adventist Development and Relief
   Agency (Adventistisches Entwicklungs- und Hilfswerk). Über hundert ADRA-Zweigstellen auf mehreren Kontinenten
-  verteilt, führen weltweit jährlich Tausende von Hilfsprojekten durch. Mehr unter:</p>
+  verteilt, führen weltweit jährlich Tausende von Hilfsprojekten durch. Mehr unter:</p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:button {"className":"is-style-squared"} -->
@@ -64,13 +61,9 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":4929,"width":1380,"height":776} -->
-<figure class="wp-block-image is-resized"><img
-    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Gesundheit.jpg" alt=""
-    class="wp-image-4929" width="1380" height="776" />
-  <figcaption>In Gesundheitsthemen sind die Prinzipien welche Gott durch die Bibel und durch Propheten Gottes der
+<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Gesundheit.jpg" alt="" class="wp-image-4929" width="1380" /><figcaption>In Gesundheitsthemen sind die Prinzipien welche Gott durch die Bibel und durch Propheten Gottes der
     Menschheit offenbart haben, der zeitgenössischen Wissenschaft schon seit Jahrtausenden immer ein Schritt voraus.
-  </figcaption>
-</figure>
+  </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -96,35 +89,28 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<section
-  class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
   <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--bottom">
     <h3 class="c-block__heading-title u-theme--color--darker">Schulen in der Nähe der Ortenau</h3>
-    <a href="https://herbolzheim.adventisten.schule"
-      class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark" target="_blank">Zur Website</a>
+    <a href="https://herbolzheim.adventisten.schule" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark" target="_blank">Zur Website</a>
   </div>
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
-    <div
-      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--4-col l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col">
-      <div
-        class="c-media-block__image c-block__image l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--4-col l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col">
+      <div class="c-media-block__image c-block__image l-grid-item--4-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--4-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Herbolzheim_1100x750.jpg"
-              alt="Adventschule in Herbolzheim">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Herbolzheim_1100x750.jpg" alt="Adventschule in Herbolzheim">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
       <div class="l-wrap u-padding--zero--sides u-flex">
 
-        <div
-          class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-          <div
-            class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
             <div class="u-spacing c-block__group c-media-block__group ">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
@@ -134,56 +120,44 @@
                   Geiger</p>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <a href="https://herbolzheim.adventisten.schule" target="_blank"
-                  class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Herbolzheim /
+                <a href="https://herbolzheim.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Herbolzheim /
                   Tutschfelden</a>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
         </div>
-        <div
-          class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--2-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--2-col">
-          <div
-            class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--3-col l-grid-item--xl--2-col">
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--2-col l-grid-item--s--6-col l-grid-item--m--2-col l-grid-item--xl--2-col">
+          <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--s--6-col l-grid-item--m--3-col l-grid-item--xl--2-col">
             <div class="u-spacing c-block__group c-media-block__group ">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
                   Kontaktdaten der Schule.
                 </h3>
                 <div class="u-spacing-half">
-                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 10 10">
+                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
                       <title>Website</title>
-                      <path
-                        d="M9,1.27A3.4,3.4,0,0,0,5,.73a3.4,3.4,0,0,0-4,.54A3.34,3.34,0,0,0,1,6l4,4L9,6A3.34,3.34,0,0,0,9,1.27ZM7.6,4.57,5,7.17,2.4,4.57a1.34,1.34,0,0,1,0-1.89,1.36,1.36,0,0,1,1.89,0L5,3.39l.71-.71a1.37,1.37,0,0,1,1.89,0A1.34,1.34,0,0,1,7.6,4.57Z"
-                        fill="#9b9b9b"></path>
-                    </svg></span><a href="https://herbolzheim.adventisten.schule" target="_blank"
-                    rel="noopener noreferrer"> herbolzheim.adventisten.schule</a><br>
-                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 10 10">
+                      <path d="M9,1.27A3.4,3.4,0,0,0,5,.73a3.4,3.4,0,0,0-4,.54A3.34,3.34,0,0,0,1,6l4,4L9,6A3.34,3.34,0,0,0,9,1.27ZM7.6,4.57,5,7.17,2.4,4.57a1.34,1.34,0,0,1,0-1.89,1.36,1.36,0,0,1,1.89,0L5,3.39l.71-.71a1.37,1.37,0,0,1,1.89,0A1.34,1.34,0,0,1,7.6,4.57Z" fill="#9b9b9b"></path>
+                    </svg></span><a href="https://herbolzheim.adventisten.schule" target="_blank" rel="noopener noreferrer"> herbolzheim.adventisten.schule</a><br>
+                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
                       <title>Email</title>
                       <path d="M0,4,2,8l4,2L10,0ZM5,7.24,3.49,6.51,2.76,5.05,6.41,3.59Z" fill="#9b9b9b"></path>
                     </svg></span> schulleitung@ elisa-schule.de<br>
-                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 10 10">
+                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
                       <title>Telefon</title>
                       <path d="M0,0V8H6l4,2V0ZM8,6.76,6.47,6H2V2H8Z" fill="#9b9b9b"></path>
                     </svg></span> 07643 933 890<br>
-                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 10.01 10">
+                  <span class="u-icon u-icon--s u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.01 10">
                       <title>Mobil</title>
                       <path d="M10,2.31H0V0H10ZM6.36,3.85H0v2.3H6.36ZM8.22,7.7H0V10H8.22Z" fill="#9b9b9b"></path>
                     </svg></span>(+49)157 57958048<br>
                 </div>
               </div>
               <div class="wp-block-button is-style-squared" style="margin-top:30px">
-                <a class="wp-block-button__link c-block__button o-button o-button--outline"
-                  href="https://herbolzheim.adventisten.schule" target="_blank">elisa-schule.de
+                <a class="wp-block-button__link c-block__button o-button o-button--outline" href="https://herbolzheim.adventisten.schule" target="_blank">elisa-schule.de
                   <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                       <title>o-arrow__long--left</title>
-                      <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z"
-                        fill="#9b9b9b" />
+                      <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
                     </svg>
                   </span></a>
               </div>
@@ -191,18 +165,14 @@
           </div> <!-- c-media-block__content -->
         </div>
 
-        <div
-          class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col">
-          <div
-            class="c-media-block__image c-block__image l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col u-padding--zero--sides u-space--top c-block__icon c-block__icon--gallery">
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col">
+          <div class="c-media-block__image c-block__image l-grid-item--1-col l-grid-item--s--6-col l-grid-item--m--4-col l-grid-item--xl--1-col u-padding--zero--sides u-space--top c-block__icon c-block__icon--gallery">
             <div class="c-block__image-wrap ">
               <picture class="picture">
                 <!--[if IE 9]><video style="display: none;"><![endif]-->
                 <source srcset="" media="(min-width: 500px)">
                 <!--[if IE 9]></video><![endif]-->
-                <img itemprop="image"
-                  srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Schulleitung_Herbolzheim_250x175.jpg"
-                  alt="Schulleiterin Frau Geiger">
+                <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Schulleitung_Herbolzheim_250x175.jpg" alt="Schulleiterin Frau Geiger">
               </picture>
               <p style="font-style:italic; padding:10px 0px 0px 20px;">Schulleiterin: Sylvia Geiger</p>
             </div>
@@ -222,31 +192,25 @@
 <!-- /wp:spacer -->
 
 <!-- wp:html -->
-<section
-  class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid--7-col l-grid-wrap--4-of-7 l-grid-item--s--6-col l-grid-item--m--4-col">
   <div class="l-grid-wrap c-block__heading u-theme--border-color--darker u-space--bottom">
     <h3 class="c-block__heading-title u-theme--color--darker">Weitere Schulen in Baden-Württemberg</h3>
-    <a href="https://adventisten.schule/" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark"
-      target="_blank">Alle Schulen besichtigen</a>
+    <a href="https://adventisten.schule/" class="c-block__heading-link u-theme--color--base u-theme--link-hover--dark" target="_blank">Alle Schulen besichtigen</a>
   </div>
   <div class="l-grid-item u-padding--zero--sides u-flex">
 
-    <div
-      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div
-        class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Heilbronn_250x175.jpg"
-              alt="Adventschule in Heilbronn">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Heilbronn_250x175.jpg" alt="Adventschule in Heilbronn">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div
-        class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
@@ -255,29 +219,24 @@
             <p>Grund- und Realschule<br>Oststr. 10<br>74072 Heilbronn<br>Kontakt: Caroline Montoya</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://heilbronn.adventisten.schule" target="_blank"
-              class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Heilbronn</a>
+            <a href="https://heilbronn.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Heilbronn</a>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
     </div> <!-- c-media-block -->
 
-    <div
-      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div
-        class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Murrhardt_250x175.jpg"
-              alt="Adventschule in Murrhardt">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Murrhardt_250x175.jpg" alt="Adventschule in Murrhardt">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div
-        class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s">
@@ -286,29 +245,24 @@
             <p>Grund- und Realschule<br>Fornsbacherstr. 121<br>71540 Murrhardt<br>Kontakt: Talita Schmitt</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://murrhardt.adventisten.schule" target="_blank"
-              class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Murrhardt</a>
+            <a href="https://murrhardt.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Murrhardt</a>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
     </div> <!-- c-media-block -->
 
-    <div
-      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div
-        class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Isny_250x175.jpg"
-              alt="Adventschule in Isny">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Adventschulen_Isny_250x175.jpg" alt="Adventschule in Isny">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div
-        class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
@@ -317,29 +271,24 @@
             <p>Grund- und Hauptschule<br>Dekan Marquard Str. 18<br>88316 Isny-Allgäu<br>Kontakt: Ulrike Pelczar.</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://isny.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper"
-              rel="noopener noreferrer">Isny</a>
+            <a href="https://isny.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Isny</a>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
     </div> <!-- c-media-block -->
 
-    <div
-      class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
-      <div
-        class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
           <picture class="picture">
             <!--[if IE 9]><video style="display: none;"><![endif]-->
             <source srcset="" media="(min-width: 500px)">
             <!--[if IE 9]></video><![endif]-->
-            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Rastatt_250x175.jpg"
-              alt="Adventschule in Rastatt">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/06/UeberUns_Adventschulen_Rastatt_250x175.jpg" alt="Adventschule in Rastatt">
           </picture>
         </div>
       </div> <!-- c-media-block__image -->
-      <div
-        class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
         <div class="u-spacing c-block__group c-media-block__group ">
           <div class="u-spacing u-width--100p">
             <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
@@ -348,8 +297,7 @@
             <p>Grund- und Realschule<br>Karlstr. 40<br>76437 Rastatt<br>Kontakt: Waldemar Ott</p>
           </div>
           <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-            <a href="https://rastatt.adventisten.schule" target="_blank"
-              class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Rastatt</a>
+            <a href="https://rastatt.adventisten.schule" target="_blank" class="c-block__category u-text-transform--upper" rel="noopener noreferrer">Rastatt</a>
           </div>
         </div>
       </div> <!-- c-media-block__content -->
@@ -368,11 +316,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5169,"width":1450,"height":815} -->
-<figure class="wp-block-image is-resized"><img
-    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Ethik.jpg" alt="" class="wp-image-5169"
-    width="1450" height="815" />
-  <figcaption>Ethik der Siebenten-Tags-Adventisten</figcaption>
-</figure>
+<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Ethik.jpg" alt="" class="wp-image-5169" width="1450" /><figcaption>Ethik der Siebenten-Tags-Adventisten</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -393,9 +337,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5176,"width":1397,"height":785} -->
-<figure class="wp-block-image is-resized"><img
-    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Glaubensbekenntnis.jpg" alt=""
-    class="wp-image-5176" width="1397" height="785" /></figure>
+<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Glaubensbekenntnis.jpg" alt="" class="wp-image-5176" width="1397" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -407,6 +349,7 @@
   vollzogen wird. In Übereinstimmung mit dem biblischen Bericht heiligen&nbsp; wir den Siebenten-Tags-Sabbat, das ist
   der Samstag.&nbsp; als einen Gedenktag der Gnade Gottes, ihres Schöpfers und Erlösers.</p>
 <!-- /wp:paragraph -->
+
 <!-- wp:button {"className":"is-style-squared"} -->
 <div class="wp-block-button is-style-squared" style="margin-left:20px">
   <a class="wp-block-button__link c-block__button o-button o-button--outline"
@@ -430,9 +373,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5179,"width":1444,"height":812} -->
-<figure class="wp-block-image is-resized"><img
-    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Mission.jpg" alt="" class="wp-image-5179"
-    width="1444" height="812" /></figure>
+<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Mission.jpg" alt="" class="wp-image-5179" width="1444" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -451,9 +392,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5180,"width":1398,"height":786} -->
-<figure class="wp-block-image is-resized"><img
-    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Akzeptanz.jpg" alt=""
-    class="wp-image-5180" width="1398" height="786" /></figure>
+<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Akzeptanz.jpg" alt="" class="wp-image-5180" width="1398" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -471,9 +410,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":5181,"width":1359,"height":764} -->
-<figure class="wp-block-image is-resized"><img
-    src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Statistik2016.jpg" alt=""
-    class="wp-image-5181" width="1359" height="764" /></figure>
+<figure class="wp-block-image is-resized"><img src="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberSTA_Statistik2016.jpg" alt="" class="wp-image-5181" width="1359" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:table -->
@@ -625,6 +562,7 @@
 <!-- /wp:table -->
 
 <!-- wp:download /-->
+
 <!-- wp:button {"className":"is-style-squared"} -->
 <div class="wp-block-button is-style-squared" style="margin-left:20px">
   <a class="wp-block-button__link c-block__button o-button o-button--outline"
