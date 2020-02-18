@@ -118,7 +118,7 @@
       &nbsp;
       <h3>Die „Link“- Lektion</h3>
       <p>Die folgende wahre Geschichte trug sich in den 30er Jahren des letzten Jahrhunderts zu. Ein entmutigter, verzagter Mann kam in Dr. Harry Links Sprechstunde, einem beliebten Arzt in New York City. Der mutlose Mann hatte seine Arbeit verloren. Er hatte das Gefühl, von niemandem mehr geliebt zu werden. Nun wollte er Selbstmord begehen, um seinem Leid ein Ende zu setzen.</p>
-      <p>Dr. Link erklärte ihm, dass er zu wenig körperliche Bewegung gehabt hatte, dass er nur seinen Verstand beschäftigt und seinen  Körper vernachlässigt hatte. „Ich gebe ihnen ein Programm mit körperlicher Tätigkeit und bald werden sie sich besser fühlen,“ sagte er. „Ich mag körperliche Arbeit nicht,“ sagte der Mann. „Ich will nicht arbeiten. Ich will mich umbringen.“ Dr. Link versuchte alles mögliche, um den Mann dazu zu bringen, ein Arbeitsprogramm zu akzeptieren, aber es nützte alles nichts. In letzter Verzweiflung sagte er: „Nun gut, dann bringen sie sich halt um. Aber wenn sie es schon tun, dann wenigsten auf eine etwas ungewöhnliche Weise, etwas heldenhaftes, damit sie in die Schlagzeilen kommen, wenn sie sterben.“</p>
+      <p>Dr. Link erklärte ihm, dass er zu wenig körperliche Bewegung gehabt hatte, dass er nur seinen Verstand beschäftigt und seinen&nbsp; Körper vernachlässigt hatte. „Ich gebe ihnen ein Programm mit körperlicher Tätigkeit und bald werden sie sich besser fühlen,“ sagte er. „Ich mag körperliche Arbeit nicht,“ sagte der Mann. „Ich will nicht arbeiten. Ich will mich umbringen.“ Dr. Link versuchte alles mögliche, um den Mann dazu zu bringen, ein Arbeitsprogramm zu akzeptieren, aber es nützte alles nichts. In letzter Verzweiflung sagte er: „Nun gut, dann bringen sie sich halt um. Aber wenn sie es schon tun, dann wenigsten auf eine etwas ungewöhnliche Weise, etwas heldenhaftes, damit sie in die Schlagzeilen kommen, wenn sie sterben.“</p>
 
       <p>Dem Mann gefiel dieser Gedanke. „Was schlagen sie vor, Doktor?“ fragte er. Der Doktor sagte: „Ich habe noch nie von einem Mann gehört, der sich zu Tode rannte. Wenn sie Schlagzeilen machen wollen, dann rennen sie ums Viertel bis sie tot umfallen, und jede Zeitung wird sie auf der Titelseite haben.“ „Das werde ich tun,“ sagte der Mann und ging davon, um in die Zeitung zu kommen. Er ging nach Hause, schrieb seinen Abschiedsbrief und lief los. Er lief und lief, aber er brach nicht tot zusammen. Er wurde so müde, dass er sich sagte, „Ich werde das morgen Abend zu Ende bringen müssen.“ Er ging nach Hause zurück und schlief besser als seit langer Zeit. Den nächsten Abend lief er wieder, eine Runde nach der anderen; aber er konnte nicht tot zusammenbrechen, und – Sie haben es sicher schon erraten – er brach überhaupt nicht tot zusammen. Er rannte sich buchstäblich gesund und stark!</p>
 
@@ -129,12 +129,12 @@
       &nbsp;
       <h3>Kraftvoll – aber nicht gewaltsam</h3>
       <p>Was ist die beste Art der Bewegung? Um Stress zu vermindern und den meisten Spaß dabei zu haben, versuchen Sie es mit lebhaften, aber nicht heftigen und kooperativen und nicht auf Wettbewerb ausgelegten Aktivitäten. Zügiges Gehen, Wandern, Fahrradfahren, Schwimmen, Arbeiten wie Holz hacken, Gärtnern, Trampolin springen, Fitnessmaschinen, dies alles bringt gute, nicht zerrende Bewegung.</p>
-      <p>Möchten Sie, mit der Hilfe Gottes, mäßige Bewegung  – wenigstens zwei mal täglich 20 Minuten –  zu einer von Gott verordneten  Priorität in Ihrem Leben machen? Gut! Sie können sofort anfangen!</p>
+      <p>Möchten Sie, mit der Hilfe Gottes, mäßige Bewegung&nbsp; – wenigstens zwei mal täglich 20 Minuten –&nbsp; zu einer von Gott verordneten&nbsp; Priorität in Ihrem Leben machen? Gut! Sie können sofort anfangen!</p>
       &nbsp;
 
     </article>
   </div>
-  <div class="c-sidebar c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides">
+  <div class="c-sidebar c-sidebar-responsive l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides fix-sidebar--at-medium">
     <div class="c-related-posts u-spacing">
       <div class="c-block__heading u-theme--border-color--darker">
         <h3 class="c-block__heading-title u-theme--color--darker">Weitere Artikel</h3>
@@ -206,5 +206,4 @@
   </div><!-- c-media-block -->
   </div>
 </section>
-
 <!-- /wp:html -->

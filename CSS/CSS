@@ -42,3 +42,9 @@ span.db_widget_line {
 	margin: 1em 0;
 	display: block;
 }
+
+@media(min-width: 701px) {
+.u-shift--left--0-col--at-medium {
+	margin-left: calc((100vw/7) * -1 - 0.01px);
+}
+}
