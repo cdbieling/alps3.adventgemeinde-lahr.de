@@ -1,22 +1,26 @@
 /* Additional CSS for fixing some issues */
+
+
 /* Inject into the Themes Custom-CSS-Setting */
 
 @media (max-width: 900px) and (min-width: 701px) {
-.body .c-sidebar.fix-sidebar--at-medium {
-	margin-left: 0px
-}
+    .body .c-sidebar.fix-sidebar--at-medium {
+        margin-left: 0px
+    }
 }
 
 @media (min-width: 901px) {
-p.p-fontsize-06--l {
-  font-size: 0.8rem;
+    p.p-fontsize-06--l {
+        font-size: 0.8rem;
+    }
 }
+
+.u-font--size--11 {
+    font-size: 11px;
 }
-.u-font--size--11 { 
-font-size: 11px;}
 
 .text-hyphens {
-	hyphens: auto;
+    hyphens: auto;
 }
 
 @media(min-width:1300px) {
@@ -25,26 +29,34 @@ font-size: 11px;}
     }
 }
 
-@media(min-width:701px)   {
-.l-grid-wrap--5-of-7-responsive {
-	width: calc((100vw / 7) * 5 - 0.01px)
+@media(min-width:701px) {
+    .l-grid-wrap--5-of-7-responsive {
+        width: calc((100vw / 7) * 5 - 0.01px)
+    }
 }
-}
+
 @media(max-width: 701px) {
-	.l-grid-wrap--5-of-7-responsive {
-		width: calc((100vw / 7) * 6 - 0.01px)}
+    .l-grid-wrap--5-of-7-responsive {
+        width: calc((100vw / 7) * 6 - 0.01px)
+    }
 }
 
 span.db_widget_line {
-	width: 80%;
-	border-bottom: 1px solid #666;
-	padding: 0;
-	margin: 1em 0;
-	display: block;
+    width: 80%;
+    border-bottom: 1px solid #666;
+    padding: 0;
+    margin: 1em 0;
+    display: block;
 }
 
 @media(min-width: 701px) {
-.u-shift--left--0-col--at-medium {
-	margin-left: calc((100vw/7) * -1 - 0.01px);
+    .u-shift--left--0-col--at-medium {
+        margin-left: calc((100vw/7) * -1 - 0.01px);
+    }
 }
+
+@media(min-width: 900px) and (max-width: 1300px) {
+    .u-shift--left--0-col--at-large-and-xlarge {
+        margin-left: calc((100vw/7) * -1 - 0.01px);
+    }
 }
