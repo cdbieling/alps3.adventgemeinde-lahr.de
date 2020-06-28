@@ -20,7 +20,7 @@
                     <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
                         <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
                             <div class="c-carousel__item-text--inner u-spacing--half">
-                                <h2 class="c-carousel__item-heading u-font--primary--xl"><span style="color:white" ;="">Die Welt nach der Krise</span></h2>
+                                <h2 class="c-carousel__item-heading u-font--primary--xl"><a href="/2020/06/04-07-die-welt-nach-der-krise/"><span style="color:white" ;="">Die Welt nach der Krise</span></a></h2>
                                 <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
                                     <strong><span style="color:white" ;="">Ronny Schreiber</span></strong>
                                 </h3>
@@ -79,8 +79,10 @@
                     <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
                         <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
                             <div class="c-carousel__item-text--inner u-spacing--half">
-                                <h2 class="c-carousel__item-heading u-font--primary--xl"><span style="color:white" ;="">Berufen, beauftragt und bis zum Ende begleitet</span></h2>
                                 <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
+                                    <h2 class="c-carousel__item-heading u-font--primary--xl">
+                                        <a href="/predigten/berufen-beauftragt-und-bis-zum-ende-begleitet-pastor-erhard-vasicek/"><span style="color:white">Berufen, beauftragt und bis zum Ende begleitet</span></a>
+                                    </h2>
                                     <strong><span style="color:white" ;="">Erhard Vasicek</span></strong>
                                 </h3>
                                 <div class="c-carousel__item-dek">
