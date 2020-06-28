@@ -10,11 +10,11 @@
                 <picture class="picture">
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
                     <source srcset="/wp-content/uploads/2020/06/Zukunft-Erde-2.0-Art_1080.jpg" media="(min-width: 900px)">
-                    <source srcset="/wp-content/uploads/2020/06/Zukunft-Erde-2.0-Art_1080.jpg" media="(min-width: 700px)">
-                    <source srcset="/wp-content/uploads/2020/06/Zukunft-Erde-2.0-Art_1080.jpg" media="(min-width: 500px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_ZukunftErde_2_0_700.jpg" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_ZukunftErde_2_0_700.jpg" media="(min-width: 500px)">
                     <!--[if IE 9]></video><![endif]-->
 
-                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/Zukunft-Erde-2.0-Art_1080.jpg" alt="Zukunft Erde 2.0 mit Ronny Schreiber">
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_ZukunftErde_2_0_700.jpg" alt="Zukunft Erde 2.0 mit Ronny Schreiber">
                 </picture>
                 <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
                     <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
@@ -39,12 +39,12 @@
             <div class="c-carousel__item u-position--relative ">
                 <picture class="picture">
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_900" media="(min-width: 900px)">
-                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_900" media="(min-width: 700px)">
-                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_900" media="(min-width: 500px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_Slide.jpg" media="(min-width: 900px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_Slide_700.jpg" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_Slide_700.jpg" media="(min-width: 500px)">
                     <!--[if IE 9]></video><![endif]-->
 
-                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_900" alt="Alt Text">
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_Slide_700.jpg" alt="Alt Text">
                 </picture>
                 <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
                     <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
@@ -69,7 +69,11 @@
             <div class="c-carousel__item u-position--relative ">
                 <picture class="picture">
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1.jpg" alt="Alt Text">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1.jpg" media="(min-width: 900px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1_700.jpg" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1_700.jpg" media="(min-width: 500px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1_700.jpg" alt="Alt Text">
                 </picture>
                 <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
                     <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
@@ -93,7 +97,12 @@
 
             <div class="c-carousel__item u-position--relative ">
                 <picture class="picture">
-                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1.jpg" alt="10 unglaubliche Fakten über den Himmel">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1.jpg" media="(min-width: 900px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1_700.jpg" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1_700.jpg" media="(min-width: 500px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1_700.jpg" alt="10 unglaubliche Fakten über den Himmel">
                 </picture>
                 <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
                     <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
