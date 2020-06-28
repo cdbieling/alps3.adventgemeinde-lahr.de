@@ -1,0 +1,184 @@
+<!-- wp:heading -->
+<h2>Aus unserer Gemeinde</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<section class="c-hero-carousel">
+    <div class="c-carousel u-position--relative ">
+        <div class="c-carousel__slides js-carousel__single-item">
+            <div class="c-carousel__item u-position--relative ">
+                <picture class="picture">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="/wp-content/uploads/2020/06/Zukunft-Erde-2.0-Art_1080.jpg" media="(min-width: 900px)">
+                    <source srcset="/wp-content/uploads/2020/06/Zukunft-Erde-2.0-Art_1080.jpg" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/Zukunft-Erde-2.0-Art_1080.jpg" media="(min-width: 500px)">
+                    <!--[if IE 9]></video><![endif]-->
+
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/Zukunft-Erde-2.0-Art_1080.jpg" alt="Zukunft Erde 2.0 mit Ronny Schreiber">
+                </picture>
+                <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
+                    <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+                        <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
+                            <div class="c-carousel__item-text--inner u-spacing--half">
+                                <h2 class="c-carousel__item-heading u-font--primary--xl"><span style="color:white" ;="">Die Welt nach der Krise</span></h2>
+                                <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
+                                    <strong><span style="color:white" ;="">Ronny Schreiber</span></strong>
+                                </h3>
+                                <div class="c-carousel__item-dek">
+                                    <p>Flüchtlingskrise, Klimakrise, Coronakrise, Wirtschafts- und Finanzkrise wo führt das hin? Als Jesus sagte: „Ihr werdet aber von Kriegen und Kriegsgerüchten hören </p>
+                                </div>
+                                <!-- /.c-carousel__item-dek -->
+                            </div>
+                            <a href="/2020/06/04-07-die-welt-nach-der-krise/" class="c-carousel__item-cta o-button u-theme--secondary-background-color">Weitere Details</a>
+                        </div>
+                        <!-- /.c-carousel__item-text -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="c-carousel__item u-position--relative ">
+                <picture class="picture">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_900" media="(min-width: 900px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_900" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_900" media="(min-width: 500px)">
+                    <!--[if IE 9]></video><![endif]-->
+
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_900" alt="Alt Text">
+                </picture>
+                <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
+                    <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+                        <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
+                            <div class="c-carousel__item-text--inner u-spacing--half">
+                                <h2 class="c-carousel__item-heading u-font--primary--xl"><span style="color:white" ;="">Die Türen der Gemeinde stehen wieder offen</span></h2>
+                                <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
+                                    <strong><span style="color:white" ;="">Adventgemeinde Lahr | Gottesdienste</span></strong>
+                                </h3>
+                                <div class="c-carousel__item-dek">
+                                    <p>Ab sofort dürfen wir wieder mit tiefem Dank zusammenkommen, um Gott zu loben und zu preisen und ihm gebührende Ehre darbringen! Gottesdienstbesuche sind ohne Anmeldung möglich. </p>
+                                </div>
+                                <!-- /.c-carousel__item-dek -->
+                            </div>
+                            <a href="" class="c-carousel__item-cta o-button u-theme--secondary-background-color">Jeden Sabbat | 09:30 Uhr</a>
+                        </div>
+                        <!-- /.c-carousel__item-text -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="c-carousel__item u-position--relative ">
+                <picture class="picture">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1.jpg" alt="Alt Text">
+                </picture>
+                <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
+                    <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+                        <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
+                            <div class="c-carousel__item-text--inner u-spacing--half">
+                                <h2 class="c-carousel__item-heading u-font--primary--xl"><span style="color:white" ;="">Berufen, beauftragt und bis zum Ende begleitet</span></h2>
+                                <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
+                                    <strong><span style="color:white" ;="">Erhard Vasicek</span></strong>
+                                </h3>
+                                <div class="c-carousel__item-dek">
+                                    <p>Ein bereichernder Kurzinput mit einer interessanten Gesichichte von Pastor Erhard Vasicek.</p>
+                                </div>
+                                <!-- /.c-carousel__item-dek -->
+                            </div>
+                            <a href="/predigten/berufen-beauftragt-und-bis-zum-ende-begleitet-pastor-erhard-vasicek/" class="c-carousel__item-cta o-button u-theme--secondary-background-color">Anschauen</a>
+                        </div>
+                        <!-- /.c-carousel__item-text -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="c-carousel__item u-position--relative ">
+                <picture class="picture">
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1.jpg" alt="10 unglaubliche Fakten über den Himmel">
+                </picture>
+                <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
+                    <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+                        <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
+                            <div class="c-carousel__item-text--inner u-spacing--half">
+                                <h2 class="c-carousel__item-heading u-font--primary--xl"><span style="color:white" ;="">10 Fakten über den Himmel - Was sagt die Bibel wirklich?</span></h2>
+                                <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
+                                    <strong><span style="color:white" ;="">Daniel Heibuztki</span></strong>
+                                </h3>
+                                <div class="c-carousel__item-dek">
+                                    <p>Unser Pastor Daniel Heibuztki erläutert 10 interessante Details über die Neue Erde.</p>
+                                </div>
+                                <!-- /.c-carousel__item-dek -->
+                            </div>
+                            <a href="/predigten/kw-17-10-unglaubliche-fakten-ueber-den-himmel-was-sagt-die-bibel-wirklich-daniel-heibutzki/" class="c-carousel__item-cta o-button u-theme--secondary-background-color">Anschauen</a>
+                        </div>
+                        <!-- /.c-carousel__item-text -->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.carousel__slides -->
+    </div>
+    <!-- /.c-carousel -->
+</section>
+<!-- /.c-hero-carousel -->
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":80} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>Veranstaltungen:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html /-->
+
+<!-- wp:alps-gutenberg-blocks/latest-posts /-->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>Neueste Predigten aus der Gemeinde Lahr</h2>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[sermons hide_pagination="1" per_page="3"]
+<!-- /wp:shortcode -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+    <!-- wp:button {"borderRadius":2,"backgroundColor":"secondary"} -->
+    <div class="wp-block-button"><a class="wp-block-button__link has-secondary-background-color has-background" href="https://adventgemeinde-lahr.de/mediathek/" title="Mediathek" style="border-radius:2px">Alle Predigten</a></div>
+    <!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":60} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+    <!-- wp:button {"borderRadius":2,"backgroundColor":"secondary"} -->
+    <div class="wp-block-button"><a class="wp-block-button__link has-secondary-background-color has-background" href="https://adventgemeinde-lahr.de/aktuell/mitteilungsblatt/" title="Mitteilungsblatt" style="border-radius:2px">Zum Mitteilungsblatt</a></div>
+    <!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":40} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:spacer {"height":20} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:shortcode -->
+[instagram-feed]
+<!-- /wp:shortcode -->
+
+<!-- wp:spacer {"height":60} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
