@@ -60,3 +60,10 @@ span.db_widget_line {
         margin-left: calc((100vw/7) * -1 - 0.01px);
     }
 }
+
+.c-carousel__item-dek {
+text-shadow: 1px 1px #2e2e2e;
+}
+.c-carousel__item-heading.u-font--primary--xl a {
+ text-shadow: 1px 1px #2e2e2e;   
+}
