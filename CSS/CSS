@@ -64,6 +64,6 @@ span.db_widget_line {
 .c-carousel__item-dek {
 text-shadow: 1px 1px #2e2e2e;
 }
-.c-carousel__item-heading.u-font--primary--xl a {
+.c-carousel__item-heading.u-font--primary--xl {
  text-shadow: 1px 1px #2e2e2e;   
 }
