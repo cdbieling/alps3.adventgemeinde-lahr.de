@@ -67,3 +67,50 @@ text-shadow: 1px 1px #2e2e2e;
 .c-carousel__item-heading.u-font--primary--xl a {
  text-shadow: 1px 1px #2e2e2e;   
 }
+
+
+
+/*** THEME CUSTOMIZER SETTINGS ***/ 
+/*** TRANSFERRED TO HERE ***/
+
+@media (max-width: 900px) and (min-width: 701px) {
+.body .c-sidebar.fix-sidebar--at-medium {
+	margin-left: 0px
+}
+}
+
+@media (min-width: 901px) {
+p.p-fontsize-06--l {
+  font-size: 0.8rem;
+}
+}
+.u-font--size--11 { 
+font-size: 11px;}
+
+.text-hyphens {
+	hyphens: auto;
+}
+
+@media(min-width:1300px) {
+    .u-spacing--from-xxl {
+        margin: 1.25rem
+    }
+}
+
+@media(min-width:701px)   {
+.l-grid-wrap--5-of-7-responsive {
+	width: calc((100vw / 7) * 5 - 0.01px)
+}
+}
+@media(max-width: 701px) {
+	.l-grid-wrap--5-of-7-responsive {
+		width: calc((100vw / 7) * 6 - 0.01px)}
+}
+
+span.db_widget_line {
+	width: 80%;
+	border-bottom: 1px solid #666;
+	padding: 0;
+	margin: 1em 0;
+	display: block;
+}
