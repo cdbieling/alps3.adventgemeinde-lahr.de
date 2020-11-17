@@ -179,9 +179,9 @@
     <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
       <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
         <div class="c-block__image-wrap ">
-          <a href="/wp-content/uploads/2020/02/UnsereGemeindeabteilungen_SaskiaH_900x500.jpg" class="thickbox"
+          <a href="/wp-content/uploads/2020/11/UnsereGemeindeabteilungen_SaskiaH_900x500.jpg" class="thickbox"
           <picture class="picture">
-            <img itemprop="image" srcset="/wp-content/uploads/2020/02/UnsereGemeindeabteilungen_SaskiaH_500x275.jpg" alt="Jugendleitung">
+            <img itemprop="image" srcset="/wp-content/uploads/2020/11/UnsereGemeindeabteilungen_SaskiaH_500x275.jpg" alt="Jugendleitung">
           </picture></a>
         </div>
       </div> <!-- c-media-block__image -->
