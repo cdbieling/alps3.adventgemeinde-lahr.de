@@ -1,0 +1,60 @@
+<!-- wp:heading -->
+<h2>Mitteilungsblatt</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"secondary","style":{"border":{"radius":"2px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-secondary-background-color has-background wp-element-button" href="/aktuell/mitteilungsblatt/" title="Mitteilungsblatt" style="border-radius:2px">Zum Mitteilungsblatt</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Veranstaltungsbeiträge</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:alps-gutenberg-blocks/latest-posts {"categories":"2","postsToShow":2,"linkLabel":"Alle Beiträge"} /-->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"secondary","style":{"border":{"radius":"2px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-secondary-background-color has-background wp-element-button" href="/thema/aktuelle-veranstaltungen/" title="Mediathek" style="border-radius:2px">Zu allen Veranstaltungsbeiträgen</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>Gemeindekalender</h2>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[MEC id="7084"]
+<!-- /wp:shortcode -->
+
+<!-- wp:spacer -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>Wöchentliche Termine</h2>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[MEC id="8830"]
+<!-- /wp:shortcode -->
+
+<p><!-- /wp:buttons --><br>
+<!-- /wp:buttons --></p>
