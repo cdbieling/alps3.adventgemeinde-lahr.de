@@ -1,69 +1,111 @@
-<!-- wp:heading {"className":"home-heading home-heading-size"} -->
-<h2 class="home-heading home-heading-size" id="nachste-veranstaltungen">Unsere aktuellen Live-Videoübertragungen:</h2>
+<!-- wp:heading -->
+<h2>Aus unserer Gemeinde</h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3 id="livestream-gottesdienst-mit-ruth-bieling">Predigt mit Eva Paul (25.06):</h3>
-<!-- /wp:heading -->
+<!-- wp:html -->
+<section class="c-hero-carousel">
+    <div class="c-carousel u-position--relative ">
+        <div class="c-carousel__slides js-carousel__single-item">
+           
 
-<!-- wp:embed {"url":"https://youtu.be/PjUXePl6hho","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/PjUXePl6hho
-</div><figcaption>Livestream - 25. Juni 2022 - 11:00 Uhr</figcaption></figure>
-<!-- /wp:embed -->
+            <div class="c-carousel__item u-position--relative ">
+                <picture class="picture">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_Slide.jpg" media="(min-width: 900px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_Slide_700.jpg" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_Slide_700.jpg" media="(min-width: 500px)">
+                    <!--[if IE 9]></video><![endif]-->
 
-<!-- wp:spacer {"height":"80px"} -->
-<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_AdventgemeindeLahr_OpenDoors_Slide_700.jpg" alt="Alt Text">
+                </picture>
+                <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
+                    <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+                        <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
+                            <div class="c-carousel__item-text--inner u-spacing--half">
+                                <h2 class="c-carousel__item-heading u-font--primary--xl"><span style="color:white" ;="">Die Türen der Gemeinde stehen wieder offen</span></h2>
+                                <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
+                                    <strong><span style="color:white" ;="">Adventgemeinde Lahr | Gottesdienste</span></strong>
+                                </h3>
+                                <div class="c-carousel__item-dek">
+                                    <p>Ab sofort dürfen wir wieder mit tiefem Dank zusammenkommen, um Gott zu loben und zu preisen und ihm gebührende Ehre darbringen! Gottesdienstbesuche sind ohne Anmeldung möglich. </p>
+                                </div>
+                                <!-- /.c-carousel__item-dek -->
+                            </div>
+                            <a href="" class="c-carousel__item-cta o-button u-theme--secondary-background-color">Jeden Sabbat | 09:30 Uhr</a>
+                        </div>
+                        <!-- /.c-carousel__item-text -->
+                    </div>
+                </div>
+            </div>
 
-<!-- wp:alps-gutenberg-blocks/latest-posts {"categories":"2","postsToShow":3,"title":"Veranstaltungen:","className":"custom-db-css "} /-->
+            <div class="c-carousel__item u-position--relative ">
+                <picture class="picture">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1.jpg" media="(min-width: 900px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1_700.jpg" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1_700.jpg" media="(min-width: 500px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_KW16_Videoblog2020_ImpulsErhardV._Slide1_700.jpg" alt="Alt Text">
+                </picture>
+                <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
+                    <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+                        <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
+                            <div class="c-carousel__item-text--inner u-spacing--half">
+                                <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
+                                    <h2 class="c-carousel__item-heading u-font--primary--xl">
+                                        <a href="/predigten/berufen-beauftragt-und-bis-zum-ende-begleitet-pastor-erhard-vasicek/"><span style="color:white">Berufen, beauftragt und bis zum Ende begleitet</span></a>
+                                    </h2>
+                                    <strong><span style="color:white" ;="">Erhard Vasicek</span></strong>
+                                </h3>
+                                <div class="c-carousel__item-dek">
+                                    <p>Ein bereichernder Kurzinput mit einer interessanten Gesichichte von Pastor Erhard Vasicek.</p>
+                                </div>
+                                <!-- /.c-carousel__item-dek -->
+                            </div>
+                            <a href="/predigten/berufen-beauftragt-und-bis-zum-ende-begleitet-pastor-erhard-vasicek/" class="c-carousel__item-cta o-button u-theme--secondary-background-color">Anschauen</a>
+                        </div>
+                        <!-- /.c-carousel__item-text -->
+                    </div>
+                </div>
+            </div>
 
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+            <div class="c-carousel__item u-position--relative ">
+                <picture class="picture">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1.jpg" media="(min-width: 900px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1_700.jpg" media="(min-width: 700px)">
+                    <source srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1_700.jpg" media="(min-width: 500px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img itemprop="image" srcset="/wp-content/uploads/2020/06/2020_KW17_Videoblog2020_ImpulsDaniel_Slide1_700.jpg" alt="10 unglaubliche Fakten über den Himmel">
+                </picture>
+                <div class="c-carousel__item-text__wrap l-grid l-grid--7-col u-shift--left--1-col--at-large">
+                    <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+                        <div class="c-carousel__item-text  u-spacing u-padding--double--top u-padding--double--bottom">
+                            <div class="c-carousel__item-text--inner u-spacing--half">
+                                <h2 class="c-carousel__item-heading u-font--primary--xl"><span style="color:white" ;="">10 Fakten über den Himmel - Was sagt die Bibel wirklich?</span></h2>
+                                <h3 class="c-carousel__item-subtitle u-font--secondary--s u-text-transform--upper">
+                                    <strong><span style="color:white" ;="">Daniel Heibuztki</span></strong>
+                                </h3>
+                                <div class="c-carousel__item-dek">
+                                    <p>Unser Pastor Daniel Heibuztki erläutert 10 interessante Details über die Neue Erde.</p>
+                                </div>
+                                <!-- /.c-carousel__item-dek -->
+                            </div>
+                            <a href="/predigten/kw-17-10-unglaubliche-fakten-ueber-den-himmel-was-sagt-die-bibel-wirklich-daniel-heibutzki/" class="c-carousel__item-cta o-button u-theme--secondary-background-color">Anschauen</a>
+                        </div>
+                        <!-- /.c-carousel__item-text -->
+                    </div>
+                </div>
+            </div>
 
-<!-- wp:spacer {"height":"60px"} -->
+        </div>
+        <!-- /.carousel__slides -->
+    </div>
+    <!-- /.c-carousel -->
+</section>
+<!-- /.c-hero-carousel -->
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":80} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
-
-<!-- wp:heading {"className":"home-heading home-heading-size"} -->
-<h2 class="home-heading home-heading-size" id="schnelle-navigation-zum-ziel">Schnelle Navigation zum Ziel:</h2>
-<!-- /wp:heading -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"secondary","style":{"border":{"radius":"2px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-secondary-background-color has-background wp-element-button" href="/aktuell/mitteilungsblatt/" title="Mediathek" style="border-radius:2px">Mitteilungsblatt</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"backgroundColor":"secondary","style":{"border":{"radius":"2px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-secondary-background-color has-background wp-element-button" href="https://www.youtube.com/c/Adventgemeinde-lahrDe" title="Mediathek" style="border-radius:2px">Youtube-Kanal</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"style":{"border":{"radius":0}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link no-border-radius wp-element-button" href="/mediathek/2020-zukunft-erde-was-die-bibel-wirklich-ueber-unsere-zukunft-sagt/">Zukunft Erde - Videos</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:spacer {"height":"20px"} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"className":"home-heading home-heading-size"} -->
-<h2 class="home-heading home-heading-size" id="adventgemeinde-lahr-auf-in-sta-gram">Adventgemeinde Lahr auf in-STA-gram</h2>
-<!-- /wp:heading -->
-
-<!-- wp:shortcode -->
-[instagram-feed]
-<!-- /wp:shortcode -->
-
-<!-- wp:spacer {"height":"60px"} -->
-<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
