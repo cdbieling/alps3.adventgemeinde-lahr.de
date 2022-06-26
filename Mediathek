@@ -1,0 +1,158 @@
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/mediathek/livestream/">Livestream-Seite</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.youtube.com/c/Adventgemeinde-lahrDe" target="_blank" rel="noreferrer noopener">Direkt zu Youtube</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"80px"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2>Vortragsserien</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<section class="class-one class-one l-grid-item l-grid-item--l--6-colx l-grid-item--s--6-col">
+<section class="c-section c-section__block-feed u-spacing--double">
+<div class="l-grid l-grid--7-col u-no-gutters">
+<div class="l-grid-item l-grid-item l-grid-item--s--3-col l-grid-item--xl--2-col">
+<div class="c-media-block c-block c-block__stacked u-space--right u-space--double--bottom">
+<div class="c-block__image ">
+<div class="c-block__image-outer-wrap">
+<div class="c-block__image-wrap "><picture class="picture"> <!-- [if IE 9]><video style="display: none;"><![endif]--><source srcset="/wp-content/uploads/2020/11/Media_Predigten_700x400.jpg" media="(min-width: 500px)"><!-- [if IE 9]></video><![endif]--></picture> <picture class="picture"><img srcset="/wp-content/uploads/2020/11/Media_Predigten_700x400.jpg" alt="Mediathek - Predigten"> </picture></div>
+</div>
+</div>
+<p><!-- image --></p>
+<div class="c-block__content u-spacing u-border--left u-color--gray u-theme--border-color--darker--left">
+<div class="u-spacing c-block__group ">
+<div class="u-width--100p u-spacing">
+<h3 class="c-block__title u-theme--color--darker u-font--primary--m "><a class="c-block__title-link u-theme--link-hover--dark" href="/mediathek/predigten/"><br>Predigten<br></a></h3>
+<p class="c-block__description">Hören Sie aktuelle Predigten aus der Adventgemeinde Lahr. Das Technikteam veröffentlicht von vielen Sabbaten die Predigten.</p>
+</div>
+<div class="c-block__meta hide">&nbsp;</div>
+<p><a class="c-block__button o-button o-button--outline" href="/mediathek/predigten/"><br>Predigten anhören<br><span class="u-icon u-icon--m u-path-fill--base u-space--half--left"><br></span><br></a></p>
+</div>
+</div>
+<p><!-- content --></p>
+</div>
+<p><!-- c-media-block --></p>
+</div>
+<div class="l-grid-item l-grid-item l-grid-item--s--3-col l-grid-item--xl--2-col">
+<div class="c-media-block c-block c-block__stacked u-space--right u-space--double--bottom">
+<div class="c-block__image ">
+<div class="c-block__image-outer-wrap">
+<div class="c-block__image-wrap "><picture class="picture"> <!-- [if IE 9]><video style="display: none;"><![endif]--><source srcset="/wp-content/uploads/2020/11/Media_ZukunftErde_700x400.jpg" media="(min-width: 500px)"><!-- [if IE 9]></video><![endif]--></picture> <picture class="picture"><img srcset="/wp-content/uploads/2020/11/Media_ZukunftErde_700x400.jpg" alt="Abendgottesdienste - Zukunft Erde"> </picture></div>
+</div>
+</div>
+<p><!-- image --></p>
+<div class="c-block__content u-spacing u-border--left u-color--gray u-theme--border-color--darker--left">
+<div class="u-spacing c-block__group ">
+<div class="u-width--100p u-spacing">
+<h3 class="c-block__title u-theme--color--darker u-font--primary--m "><a class="c-block__title-link u-theme--link-hover--dark" href="/mediathek/2020-zukunft-erde-was-die-bibel-wirklich-ueber-unsere-zukunft-sagt/"><br>Zukunft Erde - Medienarchiv<br></a></h3>
+<p class="c-block__description">Was sagt die Bibel wirklich über die Zukunft? Tauchen Sie in eine spannende Themenserie ein.</p>
+</div>
+<div class="c-block__meta hide">&nbsp;</div>
+<p><a class="c-block__button o-button o-button--outline" href="/mediathek/2020-zukunft-erde-was-die-bibel-wirklich-ueber-unsere-zukunft-sagt/"><br>Themenreihe<br><span class="u-icon u-icon--m u-path-fill--base u-space--half--left"><br></span><br></a></p>
+</div>
+</div>
+<p><!-- content --></p>
+</div>
+<p><!-- c-media-block --></p>
+</div>
+<div class="l-grid-item l-grid-item l-grid-item--s--3-col l-grid-item--xl--2-col">
+<div class="c-media-block c-block c-block__stacked u-space--right u-space--double--bottom">
+<div class="c-block__image ">
+<div class="c-block__image-outer-wrap">
+<div class="c-block__image-wrap "><picture class="picture"> <!-- [if IE 9]><video style="display: none;"><![endif]--><source srcset="/wp-content/uploads/2020/11/Media_Gesundheit_700x400.jpg"><!-- [if IE 9]></video><![endif]--></picture> <picture class="picture"><img srcset="/wp-content/uploads/2020/11/Media_Gesundheit_700x400.jpg" alt="Gesundheit - Vorträge"> </picture></div>
+</div>
+</div>
+<p><!-- image --></p>
+<div class="c-block__content u-spacing u-border--left u-color--gray u-theme--border-color--darker--left">
+<div class="u-spacing c-block__group ">
+<div class="u-width--100p u-spacing">
+<h3 class="c-block__title u-theme--color--darker u-font--primary--m "><a class="c-block__title-link u-theme--link-hover--dark" href="/mediathek/gesundheit/"><br>Gesundheit<br></a></h3>
+<p class="c-block__description">Vorträge rund um das Thema Gesundheit, Ernährung und Lebensstil. Hilfreiche bibelorientierte Ratschläge unterstützen Sie dabei, ihre Gesundheit zu verbessern.</p>
+</div>
+<div class="c-block__meta hide">&nbsp;</div>
+<p><a class="c-block__button o-button o-button--outline" href="/mediathek/gesundheit/"><br>Gesundheitsvorträge<br><span class="u-icon u-icon--m u-path-fill--base u-space--half--left"><br></span><br></a></p>
+</div>
+</div>
+<p><!-- content --></p>
+</div>
+<p><!-- c-media-block --></p>
+</div>
+<div class="l-grid-item l-grid-item l-grid-item--s--3-col l-grid-item--xl--2-col">
+<div class="c-media-block c-block c-block__stacked u-space--right u-space--double--bottom">
+<div class="c-block__image ">
+<div class="c-block__image-outer-wrap">
+<div class="c-block__image-wrap "><picture class="picture"> <!-- [if IE 9]><video style="display: none;"><![endif]--><source srcset="/wp-content/uploads/2020/11/Media_Videoblog2020_700x400.jpg" media="(min-width: 500px)"><!-- [if IE 9]></video><![endif]--></picture> <picture class="picture"><img srcset="/wp-content/uploads/2020/11/Media_Videoblog2020_700x400.jpg" alt="Videoblog der Ortenau"> </picture></div>
+</div>
+</div>
+<p><!-- image --></p>
+<div class="c-block__content u-spacing u-border--left u-color--gray u-theme--border-color--darker--left">
+<div class="u-spacing c-block__group ">
+<div class="u-width--100p u-spacing">
+<h3 class="c-block__title u-theme--color--darker u-font--primary--m "><a class="c-block__title-link u-theme--link-hover--dark" href="/mediathek/videoblog-ortenau/"><br>Videoblog 2020<br></a></h3>
+<p class="c-block__description">Videobenachrichtigung aus den Adventgemeinden in der Ortenau während der Zeit ohne Gottesdienste.</p>
+</div>
+<div class="c-block__meta hide">&nbsp;</div>
+<p><a class="c-block__button o-button o-button--outline" href="/mediathek/videoblog-ortenau/"><br>Videoblog<br><span class="u-icon u-icon--m u-path-fill--base u-space--half--left"><br></span><br></a></p>
+</div>
+</div>
+<p><!-- content --></p>
+</div>
+<p><!-- c-media-block --></p>
+</div>
+<div class="l-grid-item l-grid-item l-grid-item--s--3-col l-grid-item--xl--2-col">
+<div class="c-media-block c-block c-block__stacked u-space--right u-space--double--bottom">
+<div class="c-block__image ">
+<div class="c-block__image-outer-wrap">
+<div class="c-block__image-wrap "><picture class="picture"> <!-- [if IE 9]><video style="display: none;"><![endif]--><source srcset="/wp-content/uploads/2020/11/Media_Videothek_700x400.jpg" media="(min-width: 500px)"><!-- [if IE 9]></video><![endif]--></picture> <picture class="picture"><img srcset="/wp-content/uploads/2020/11/Media_Videothek_700x400.jpg" alt="VIDEOTHEK der Ortenau"> </picture></div>
+</div>
+</div>
+<p><!-- image --></p>
+<div class="c-block__content u-spacing u-border--left u-color--gray u-theme--border-color--darker--left">
+<div class="u-spacing c-block__group ">
+<div class="u-width--100p u-spacing">
+<h3 class="c-block__title u-theme--color--darker u-font--primary--m "><a class="c-block__title-link u-theme--link-hover--dark" href="/mediathek/videothek/"><br>Videothek<br></a></h3>
+<p class="c-block__description">Alle Videovorträge der Adventgemeinde Lahr.</p>
+</div>
+<div class="c-block__meta hide">&nbsp;</div>
+<p><a class="c-block__button o-button o-button--outline" href="/mediathek/videothek/"><br>Videothek<br><span class="u-icon u-icon--m u-path-fill--base u-space--half--left"><br></span><br></a></p>
+</div>
+</div>
+<p><!-- content --></p>
+</div>
+<p><!-- c-media-block --></p>
+</div>
+<div class="l-grid-item l-grid-item l-grid-item--s--3-col l-grid-item--xl--2-col">
+<div class="c-media-block c-block c-block__stacked u-space--right u-space--double--bottom">
+<div class="c-block__image ">
+<div class="c-block__image-outer-wrap">
+<div class="c-block__image-wrap "><picture class="picture"> <!-- [if IE 9]><video style="display: none;"><![endif]--><source srcset="/wp-content/uploads/2020/11/Media_Videothek_700x400.jpg" media="(min-width: 500px)"><!-- [if IE 9]></video><![endif]--></picture> <picture class="picture"><img srcset="/wp-content/uploads/2020/11/Media_Videothek_700x400.jpg" alt="Adventgeschichte-Seminar"> </picture></div>
+</div>
+</div>
+<p><!-- image --></p>
+<div class="c-block__content u-spacing u-border--left u-color--gray u-theme--border-color--darker--left">
+<div class="u-spacing c-block__group ">
+<div class="u-width--100p u-spacing">
+<h3 class="c-block__title u-theme--color--darker u-font--primary--m "><a class="c-block__title-link u-theme--link-hover--dark" href="/mediathek/seminare/"><br>Seminare<br></a></h3>
+<p class="c-block__description">Alle verfügbaren Seminarreihen der Adventgemeinde Lahr.</p>
+</div>
+<div class="c-block__meta hide">&nbsp;</div>
+<p><a class="c-block__button o-button o-button--outline" href="/mediathek/seminare/"><br>Seminare<br><span class="u-icon u-icon--m u-path-fill--base u-space--half--left"><br></span><br></a></p>
+</div>
+</div>
+<p><!-- content --></p>
+</div>
+<p><!-- c-media-block --></p>
+</div>
+</div>
+</section>
+</section>
+<!-- /wp:html -->
