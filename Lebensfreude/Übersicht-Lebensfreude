@@ -1,326 +1,345 @@
-
 <!-- wp:html -->
-<section class="c-section c-section__blocks u-spacing--double l-grid l-grid-wrap--6-of-7">
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--4-of-7-responsive">
+  <div class="l-grid-item u-padding--zero--sides u-flex">
+    <div class="c-block-wrap l-grid-wrap--5-of-7-responsive">
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
+      <h3 class="c-block__heading-title u-theme--color--darker">8 Naturärzte für Ihre Gesundheit  </h3>
+    </div>
+    </div>
 
-  <!-- 1.Sonne -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides" style="margin-top:2.5rem">
-      <div class="c-block__image-wrap ">
-        <picture class="picture">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_300x300.jpg" media="(min-width: 1000px)">
-        <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
-        <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_300x300.jpg" alt="(Arzt Nr.1 Sonne)">
-        </picture>
-      </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--3-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/lebensfreude/sonnenschein" class="c-block__title-link u-theme--link-hover--dark">
-            1.Sonne
-            </a>
-          </h3>
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right">
+        <div class="c-block__image-wrap">
+          <a href="/lebensfreude/sonnenschein/">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_300x300.jpg" alt="Arzt Nr.1 Sonne">
+          </picture></a>
         </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Gesundheit</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p text-hyphens">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            1. Sonne</h3>
+            Die Sonne, einst das Symbol für Leben und Frohsinn; entwickelt sie sich allmählich...
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper"><a href="/lebensfreude/sonnenschein/">Mehr</a></span>
+          </div>
         </div>
-        <a href="/lebensfreude/sonnenschein" class="c-block__button o-button o-button--outline">Mehr erfahren
-          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-              <title>o-arrow__long--left</title>
-              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div> <!-- c-media-block -->
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
 
-  <!-- 2.Luft -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-      <div class="c-block__image-wrap ">
-        <picture class="picture">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Luft_300x300.jpg" media="(min-width: 1000px)">
-        <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
-        <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Luft_300x300.jpg" alt="(Arzt Nr.2 Frische Luft)">
-        </picture>
-      </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--3-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/lebensfreude/frische-luft" class="c-block__title-link u-theme--link-hover--dark">
-            2.Luft
-            </a>
-          </h3>
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right">
+        <div class="c-block__image-wrap">
+          <a href="/lebensfreude/frische-luft/">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Luft_300x300.jpg" alt="Arzt Nr.2 Luft">
+          </picture></a>
         </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Gesundheit</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p text-hyphens">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            2. Luft</h3>
+            Das Gehirn wiegt nur ungefähr 3 Pfund, benötigt aber enorme Mengen Glukose und...
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper"><a href="/lebensfreude/frische-luft/">Mehr</a></span>
+          </div>
         </div>
-        <a href="/lebensfreude/frische-luft" class="c-block__button o-button o-button--outline">Mehr erfahren
-          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-              <title>o-arrow__long--left</title>
-              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div> <!-- c-media-block -->
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
 
-<!-- 3.Bewegung -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-      <div class="c-block__image-wrap ">
-        <picture class="picture">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Bewegung_300x300.jpg" media="(min-width: 1000px)">
-        <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
-        <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Bewegung_300x300.jpg" alt="(Arzt Nr.3 Bewegung)">
-        </picture>
-      </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/lebensfreude/bewegung" class="c-block__title-link u-theme--link-hover--dark">
-            3.Bewegung
-            </a>
-          </h3>
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right">
+        <div class="c-block__image-wrap">
+          <a href="/lebensfreude/bewegung/">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Bewegung_300x300.jpg" alt="Arzt Nr.3 Bewegung">
+          </picture></a>
         </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Gesundheit</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p text-hyphens">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            3. Bewegung</h3>
+            Erinnern sie sich an die Sit-in-Demonstrationen in den 1960er und 70er Jahre?...          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper"><a href="/lebensfreude/bewegung/">Mehr</a></span>
+          </div>
         </div>
-        <a href="/lebensfreude/bewegung" class="c-block__button o-button o-button--outline">Mehr erfahren
-          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-              <title>o-arrow__long--left</title>
-              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div> <!-- c-media-block -->
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
 
-  <!-- 4.Wasser -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-      <div class="c-block__image-wrap ">
-        <picture class="picture">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Wasser_300x300.jpg" media="(min-width: 1000px)">
-        <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
-        <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Wasser_300x300.jpg" alt="(Arzt Nr.4 Frisches Wasser)">
-        </picture>
-      </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col -grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/lebensfreude/wasser" class="c-block__title-link u-theme--link-hover--dark">
-            4.Wasser
-            </a>
-          </h3>
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right">
+        <div class="c-block__image-wrap">
+          <a href="/lebensfreude/wasser/">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Wasser_300x300.jpg" alt="Arzt Nr.4 Wasser">
+          </picture></a>
         </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Gesundheit</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p text-hyphens">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            4. Wasser</h3>
+            Haben Sie schon einmal die riesigen Niagarafälle in den USA gesehen, wo das Wasser...
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper"><a href="/lebensfreude/wasser/">Mehr</a></span>
+          </div>
         </div>
-        <a href="/lebensfreude/wasser" class="c-block__button o-button o-button--outline">Mehr erfahren
-          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-              <title>o-arrow__long--left</title>
-              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div> <!-- c-media-block -->
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
 
-  <!-- 5.Nahrung -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-      <div class="c-block__image-wrap ">
-        <picture class="picture">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Nahrung_300x300.jpg" media="(min-width: 1000px)">
-        <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
-        <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Nahrung_300x300.jpg" alt="(Arzt Nr.5 Gesunde Nahrung)">
-        </picture>
-      </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/lebensfreude/ernaehrung" class="c-block__title-link u-theme--link-hover--dark">
-            5.Ernährung
-            </a>
-          </h3>
-        </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Gesundheit</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
-        </div>
-        <a href="/lebensfreude/ernaehrung" class="c-block__button o-button o-button--outline">Mehr erfahren
-          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-              <title>o-arrow__long--left</title>
-              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div> <!-- c-media-block -->
+  </div>
+</section>
 
-  <!-- 6.Ruhe -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-      <div class="c-block__image-wrap ">
-        <picture class="picture">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Ruhe_300x300.jpg" media="(min-width: 1000px)">
-        <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
-        <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Ruhe_300x300.jpg" alt="(Arzt Nr.6 Ruhe)">
-        </picture>
-      </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/lebensfreude/ruhe" class="c-block__title-link u-theme--link-hover--dark">
-            6.Ruhe
-            </a>
-          </h3>
-        </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Gesundheit</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
-        </div>
-        <a href="/lebensfreude/ruhe" class="c-block__button o-button o-button--outline">Mehr erfahren
-          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-              <title>o-arrow__long--left</title>
-              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div> <!-- c-media-block -->
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--5-of-7-responsive">
+  <div class="l-grid-item u-padding--zero--sides u-flex">
 
-  <!-- 7.Gottvertrauen -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-      <div class="c-block__image-wrap ">
-        <picture class="picture">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Gottvertrauen_300x300.jpg" media="(min-width: 1000px)">
-        <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
-        <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Gottvertrauen_300x300.jpg" alt="(Arzt Nr.7 Gottvertrauen)">
-        </picture>
-      </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/lebensfreude/gottvertrauen" class="c-block__title-link u-theme--link-hover--dark">
-            7.Gottvertrauen
-            </a>
-          </h3>
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right">
+        <div class="c-block__image-wrap">
+          <a href="/lebensfreude/ernaehrung/">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Nahrung_300x300.jpg" alt="Arzt Nr.5 Ernährung">
+          </picture></a>
         </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Gesundheit</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p text-hyphens">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            5. Ernährung</h3>
+            Die gute Nachricht ist, dass das Risiko für bestimmte Krebsarten deutlich ...
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper"><a href="/lebensfreude/ernaehrung/">Mehr</a></span>
+          </div>
         </div>
-        <a href="/lebensfreude/gottvertrauen" class="c-block__button o-button o-button--outline">Mehr erfahren
-          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-              <title>o-arrow__long--left</title>
-              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div> <!-- c-media-block -->
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
 
-  <!-- 8.Mäßigkeit -->
-  <div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-item--l--3-col l-grid-wrap l-standard-break">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-      <div class="c-block__image-wrap ">
-        <picture class="picture">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Maessigkeit_300x300.jpg" media="(min-width: 1000px)">
-        <!--<source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_200x200.jpg" media="(min-width: 700px)">
-        <source srcset="/wp-content/uploads/2019/03/Lebensfreude_Sonne_150x150.jpg" media="(min-width: 500px)">-->
-        <!--[if IE 9]></video><![endif]-->
-        <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Maessigkeit_300x300.jpg" alt="(Arzt Nr.8 Mäßigkeit)">
-        </picture>
-      </div>
-    </div> <!-- c-media-block__image -->
-    <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
-      <div class="u-spacing c-block__group c-media-block__group ">
-        <div class="u-spacing u-width--100p">
-          <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">8 Faktoren zur Lebensfreude</h4>
-          <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
-            <a href="/lebensfreude/maessigkeit" class="c-block__title-link u-theme--link-hover--dark">
-            8.Mäßigkeit
-            </a>
-          </h3>
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right">
+        <div class="c-block__image-wrap">
+          <a href="/lebensfreude/ruhe/">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Ruhe_300x300.jpg" alt="Arzt Nr.1 Sonne">
+          </picture></a>
         </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-          <span class="c-block__category u-text-transform--upper">Gesundheit</span>
-          <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p text-hyphens">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            6. Ruhe</h3>
+            Steht rechtzeitiges Zubettgehen auf unserer Liste, auf der wir Dinge festhalten ...
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper"><a href="/lebensfreude/ruhe/">Mehr</a></span>
+          </div>
         </div>
-        <a href="/lebensfreude/maessigkeit" class="c-block__button o-button o-button--outline">Mehr erfahren
-          <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-              <title>o-arrow__long--left</title>
-              <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"/>
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div> <!-- c-media-block__content -->
-  </div> <!-- c-media-block -->
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
 
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right">
+        <div class="c-block__image-wrap">
+          <a href="/lebensfreude/gottvertrauen/">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Gottvertrauen_300x300.jpg" alt="Arzt Nr.1 Sonne">
+          </picture></a>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p text-hyphens">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            7. Gottvertrauen</h3>
+            Hast du schon einmal den Gesichtsausdruck der Menschen beobachtet, wenn du ...</div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper"><a href="/lebensfreude/gottvertrauen/">Mehr</a></span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+    <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+      <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right">
+        <div class="c-block__image-wrap">
+          <a href="/lebensfreude/maessigkeit/">
+          <picture class="picture">
+            <img itemprop="image" srcset="/wp-content/uploads/2019/03/Lebensfreude_Maessigkeit_300x300.jpg" alt="Arzt Nr.1 Sonne">
+          </picture></a>
+        </div>
+      </div> <!-- c-media-block__image -->
+      <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+        <div class="u-spacing c-block__group c-media-block__group ">
+          <div class="u-spacing u-width--100p text-hyphens">
+            <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
+            8. Mäßigkeit</h3>
+            SELBSTBEHERRSCHUNG – … das ist kein Thema das Schlagzeilen macht, weder in der Presse...
+          </div>
+          <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
+            <span class="c-block__category u-text-transform--upper"><a href="/lebensfreude/maessigkeit/">Mehr</a></span>
+          </div>
+        </div>
+      </div> <!-- c-media-block__content -->
+    </div> <!-- c-media-block -->
+
+  </div>
 </section>
 <!-- /wp:html -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2></h2>
+<!-- /wp:heading -->
+
+<!-- wp:alps-gutenberg-blocks/latest-posts {"categories":"296","postsToShow":3,"title":"Letzte Artikel über Gesundheit, Wohlbefinden und Glaubensstärkung"} /-->
+
+<!-- wp:heading -->
+<h2>Weiterführende Ressourcen </h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=ytXSg3D7rRo","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=ytXSg3D7rRo
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Deutscher Verein für Gesundheitspflege (DVG)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Der Deutsche Verein für Gesundheitspflege (DVG)&nbsp;wurde 1899&nbsp; durch unsere Freikirche gegründet mit dem Ziel, die Volksgesundheit zu heben. Heute stellt sich der DVG folgenden Aufgaben:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Ausbildung von Gesundheitsberatern</li><li>Durchführung von Seminaren, Kursen, Vorträgen, die das Ziel haben, den Menschen in seiner Ganzheit zu sehen:</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Körperlich fit</li><li>Seelisch stabil</li><li>Geistig rege</li><li>Sozial verantwortlich</li><li>Geistlich ausgerichtet</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Weitere Informationen gibt es hier:&nbsp;<strong><a href="http://www.dvg-online.de/" target="_blank" rel="noreferrer noopener">www.dvg-online.de</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:html -->
+<!-- Section Gesundheitsmaganzin -->
+<div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+    <div class="c-block__image-wrap u-space--left">
+      <picture class="picture">
+        <img itemprop="image" srcset="/wp-content/uploads/2019/07/LuG_Mag_300x300_3.jpg" alt="Leben und Gesundheit - Gesundheitsmagazin">
+      </picture>
+    </div>
+  </div> <!-- c-media-block__image -->
+  <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="u-spacing c-block__group c-media-block__group ">
+      <div class="u-spacing u-width--100p">
+        <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Leben und Gesundheit</h4>
+        <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+          <a href="https://www.lug-mag.ch/" class="c-block__title-link u-theme--link-hover--dark" target="_blank" rel="noopener noreferrer">
+            Das Magazin für ganzheitliche Gesundheit
+          </a>
+        </h3>
+        <p>Vorbeugen ist besser und billiger als heilen. Seit 1929 beschäftigt sich das Magazin „Leben und Gesundheit" mit dem Thema der ganzheitlichen Gesundheit und erfreut sich einer breiten Leserschaft.
+        </p>  
+      </div>
+      <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+        <span class="c-block__category u-text-transform--upper">Magazin</span>
+      </div>
+      <a href="https://www.lug-mag.ch/" class="c-block__button o-button o-button--outline" target="_blank" rel="noopener noreferrer">Mehr erfahren
+        <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+            <title>Gesundheitsmagazin</title>
+            <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
+          </svg>
+        </span>
+      </a>
+    </div>
+  </div> <!-- c-media-block__content -->
+</div>
+<!-- END Section Gesundheitsmagazin -->
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<!-- Section Gesundheitsmaganzin -->
+<div class="c-media-block c-block c-media-block__row c-block__row l-grid--7-col l-grid-wrap l-standard-break">
+  <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
+    <div class="c-block__image-wrap u-space--left">
+      <picture class="picture">
+        <!--[if IE 9]><video style="display: none;"><![endif]-->
+        <source srcset="/wp-content/uploads/2019/07/DVG_Youtube_300x300.jpg" media="(min-width: 1000px)">
+        <source srcset="/wp-content/uploads/2019/07/DVG_Youtube_300x300.jpg" media="(min-width: 700px)">
+        <source srcset="/wp-content/uploads/2019/07/DVG_Youtube_300x300.jpg" media="(min-width: 500px)">
+        <!--[if IE 9]></video><![endif]-->
+        <img itemprop="image" srcset="/wp-content/uploads/2019/07/DVG_Youtube_300x300.jpg" alt="Youtube-KochKanal des DVG ">
+      </picture>
+    </div>
+  </div> <!-- c-media-block__image -->
+  <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--4-col l-grid-item--m--3-col l-grid-item--xl--2-col u-flex--justify-start">
+    <div class="u-spacing c-block__group c-media-block__group ">
+      <div class="u-spacing u-width--100p">
+        <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Gesund kochen</h4>
+        <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">
+          <a href="https://www.youtube.com/channel/UCAbIs2B-8q7Y9sHOp8Dw84A/featured" class="c-block__title-link u-theme--link-hover--dark" target="_blank" rel="noopener noreferrer">
+            Rezepte-Youtube-Kanal
+          </a>
+        </h3>
+        <p>Auf dem Youtube-Kanal des Deutschen Vereins für Gesundheitspflege erscheinen jede Woche Rezeptideen für gesunde Leckereien.
+        </p>  
+      </div>
+      <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
+        <span class="c-block__category u-text-transform--upper">Youtube-Kanal</span>
+      </div>
+      <a href="https://www.youtube.com/channel/UCAbIs2B-8q7Y9sHOp8Dw84A/featured" class="c-block__button o-button o-button--outline" target="_blank" rel="noopener noreferrer">Mehr erfahren
+        <span class="u-icon u-icon--m u-path-fill--base u-space--half--left">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+            <title>Gottesdienst</title>
+            <path d="M18.29,8.59l-3.5-3.5L13.38,6.5,15.88,9H.29v2H15.88l-2.5,2.5,1.41,1.41,3.5-3.5L19.71,10Z" fill="#9b9b9b"></path>
+          </svg>
+        </span>
+      </a>
+    </div>
+  </div> <!-- c-media-block__content -->
+</div>
+<!-- END Section Gottesdienst -->
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2>Geistliche Gesundheit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lesen Sie unsere geistlichen Impulse. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"secondary","style":{"border":{"radius":"2px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-secondary-background-color has-background wp-element-button" href="/thema/lebensfreude/bibelthemen/" title="Bibelimpulse" style="border-radius:2px">Zu den Bibelthemen</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
