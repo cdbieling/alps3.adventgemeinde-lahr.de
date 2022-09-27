@@ -1,6 +1,3 @@
-/* Additional CSS for fixing some issues */
-
-
 /* Inject into the Themes Custom-CSS-Setting */
 
 @media (max-width: 900px) and (min-width: 701px) {
@@ -66,4 +63,49 @@ text-shadow: 1px 1px #2e2e2e;
 }
 .c-carousel__item-heading.u-font--primary--xl {
  text-shadow: 1px 1px #2e2e2e;   
+}
+
+/*** FIX For Countdown-Blog ***/
+.text ul:not(.c-breadcrumbs__list):not(.o-inline-list) li.eb-countdown-item::before {
+	content: none !important; 
+}
+
+.button-align-right {
+	float: right; 
+}
+
+/*** Einheitliche Headings on Startpage ***/
+@media (min-width: 901px) {
+.home .c-block__heading-title {
+    font-size: 1.70rem;
+    }
+}
+
+.c-block__heading u-theme--border-color--darker {
+	
+}
+.home-heading  {
+	border-color: #05132b;
+	border-left: .1875rem solid #000;
+	}
+
+.wp-block-embed-youtube .fluid-width-video-wrapper {
+	padding-top: 56.25% !important;
+}
+
+/*** Startseite - Erweitere den "Latest Post Block von 4 Spalten auf 5 ***/
+
+@media (min-width: 1301px) {
+.custom-db-css .l-standard-break {
+    width: calc((100vw/7) * 4 - 0.01px) !important;
+	}
+}
+
+.custom-db-css .l-grid--7-col .l-grid-item--xl--2-col {
+    width: calc((100vw/7) * 4 - 0.01px) !important;
+}
+
+.custom-db-css .c-media-block__meta {
+	font-size: 12px;
+	font-weight: normal;
 }
