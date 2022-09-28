@@ -1,4 +1,7 @@
 /* Inject into the Themes Custom-CSS-Setting */
+.o-button--toggle::after {
+	content: "" !important;
+}
 
 @media (max-width: 900px) and (min-width: 701px) {
     .body .c-sidebar.fix-sidebar--at-medium {
