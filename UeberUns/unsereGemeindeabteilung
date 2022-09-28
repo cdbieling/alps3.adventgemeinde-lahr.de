@@ -20,48 +20,88 @@
             <strong>Email:</strong> <a href="mailto:daniel.heibutzki@adventisten.de">daniel.heibutzki@adventisten.de</a>
             <strong>Tel:</strong> 0151 44 06 58 05
             </div>
-        <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Prediger</span>
-        <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>--></div>
-    </div>
-</div>
-<!-- c-media-block__content -->
-
-<!-- c-media-block -->
-<div class="c-block-wrap l-grid-wrap--4-of-7">
-    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
-    <h3 class="c-block__heading-title u-theme--color--darker">Unser Gemeindeleitung</h3>
-    </div>
-</div>
-<!-- Gemeindeleitung -->
-<div class="c-media-block c-block c-media-block__row c-block__row l-grid--3-col l-grid-item--l--3-col l-grid-wrap l-standard-break u-padding--double--bottom">
-    <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-        <div class="c-block__image-wrap ">
-            <div class="c-media-block__image c-block__image l-grid-item l-grid-item--2-col l-grid-item--m--1-col l-grid-item--xl--1-col u-padding--zero--sides">
-                <div class="c-block__image-wrap "><picture class="picture"><img srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_BerndH_300x300.jpg" alt="Unser Gemeindeleiter Bernd Heck"> </picture>
-                </div>
-            </div>
-            <!-- c-media-block__image -->
-            <div class="c-media-block__content c-block__content u-spacing l-grid-item l-grid-item--3-col l-grid-item--m--3-col l-grid-item--l--2-col l-grid-item--xl--2-col u-flex--justify-start">
-                <div class="u-spacing c-block__group c-media-block__group ">
-                    <div class="u-spacing u-width--100p">
-                    <h4 class="c-media-block__kicker c-block__kicker u-theme--color--base can-be--light">Adventgemeinde Lahr</h4>
-                    <h3 class="c-media-block__title c-block__title u-theme--color--darker u-font--primary--m u-space--zero">Bernd Heck</h3>
-                    <strong>Email:</strong> <a href="mailto:gemeindeleitung@adventgemeinde-lahr.de">gemeindeleitung@adventgemeinde-lahr.de</a>
-                    <strong>Tel:</strong> 0171 2046981
-                    </div>
-                    <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs">
-                    <span class="c-block__category u-text-transform--upper">Gemeindeleiter</span>
-                    </div>
-                </div>
+            <div class="c-media-block__meta c-block__meta u-theme--color--dark u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Prediger</span>
+            <!--<time class="c-block__date u-text-transform--upper" datetime="2019-03-10">Mar 28, 2016</time>-->
             </div>
         </div>
     </div>
     <!-- c-media-block__content -->
 </div>
-
-<!-- c-media-block -->
-
 </section>
+
+<!-- Start of Additional Content (Gemeindeleitung-Section)-->
+<section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--6-of-7 u-shift--left--1-col--at-large l-grid-item--m--4-col">
+    <div class="l-grid-item u-padding--zero--sides u-flex">
+        <div class="c-block-wrap l-grid-wrap--6-of-7">
+            <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
+            <h3 class="c-block__heading-title u-theme--color--darker">Unsere Gemeindeleitung</h3>
+            </div>
+        </div>
+        <!-- c-media-block -->
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+            <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+                <div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_GeppiR_900x500.jpg"> <img srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_GeppiR_500x275.jpg" alt="Gemeindeleiter Gebhard Rupps"></a>
+                </div>
+            </div>
+            <!-- c-media-block__image -->
+            <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+                <div class="u-spacing c-block__group c-media-block__group ">
+                    <div class="u-spacing u-width--100p">
+                    <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Gemeindeleiter</h3>
+                    Im Leitungsteam der Gemeinde.
+                    <p class="u-font--size--11"><a href="tel:015123688734">Tel: 0151 236 88 734</a></p>
+                    </div>
+                    <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Gebhard Rupps</span>
+                    </div>
+                </div>
+            </div>
+            <!-- c-media-block__content -->
+        </div>
+        <!-- c-media-block -->
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+            <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+                <div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_ClausK_900x500.jpg"> <picture class="picture"> <img srcset="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_ClausK_500x275.jpg" alt="Gemeindeleiter Claus Kunst"></picture></a>
+                </div>
+            </div>
+            <!-- c-media-block__image -->
+            <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+                <div class="u-spacing c-block__group c-media-block__group ">
+                    <div class="u-spacing u-width--100p">
+                    <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Gemeindeleiter</h3>
+                    Im Leitungsteam der Gemeinde.
+                    <p class="u-font--size--11"><a href="tel:01712949182-lahr.de">Tel: 0171 294 91 82</a></p> 
+                    </div>
+                    <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Claus Kunst</span>
+                    </div>
+                </div>
+            </div>
+            <!-- c-media-block__content -->
+        </div>
+        <!-- c-media-block -->
+        <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
+            <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
+                <div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_EdgarW_900x500.jpg"> <picture class="picture"> <img class="" srcset="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_EdgarW_500x275.jpg" alt="Gemeindeleiter Edgar Wittwer" width="411" height="226"></picture></a>
+                </div>
+            </div>
+            <!-- c-media-block__image -->
+            <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
+                <div class="u-spacing c-block__group c-media-block__group ">
+                    <div class="u-spacing u-width--100p">
+                    <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Gemeindeleiter</h3>
+                    Im Leitungsteam der Gemeinde.
+                    <p class="u-font--size--11"><a href="tel:01702951508">Tel: 0170 295 15 08</a></p> 
+                    </div>
+                    <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Edgar Wittwer</span>
+                    </div>
+                </div>
+            </div>
+            <!-- c-media-block__content -->
+        </div>
+        <!-- c-media-block -->
+    </div>
+</section>
+
+<!-- End of Additional Content (Gemeindeleitung-Section)-->
 <section class="l-section__block-row l-section__block-row--6-col l-grid l-grid-wrap--6-of-7 u-shift--left--1-col--at-large l-grid-item--m--4-col">
 <div class="l-grid-item u-padding--zero--sides u-flex">
 <div class="c-block-wrap l-grid-wrap--6-of-7">
@@ -71,19 +111,19 @@
 </div>
 <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
 <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
-<div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_MartinaS_900x500.jpg"> <img srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_MartinaS_500x275.jpg" alt="Pressesprecher">
+<div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_BiancaB_900x500.jpg"> <img srcset="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_BiancaB_500x275.jpg" alt="Pressesprecher">
 </a></div>
 </div>
 <!-- c-media-block__image -->
 <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
 <div class="u-spacing c-block__group c-media-block__group ">
 <div class="u-spacing u-width--100p">
-<h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Pressesprecher</h3>
+<h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Pressesprecherin</h3>
 Zuständig für Public Relation und Presseanfragen.
 <p class="u-font--size--11"><a href="mailto:presse@adventgemeinde-lahr.de">presse@adventgemeinde-lahr.de</a></p>
 
 </div>
-<div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Martina Siefert</span></div>
+<div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Bianca Braun</span></div>
 </div>
 </div>
 <!-- c-media-block__content -->
@@ -100,7 +140,7 @@ Zuständig für Public Relation und Presseanfragen.
 <div class="u-spacing u-width--100p">
 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Mission &amp; Evangelisation</h3>
 Arbeitet mit Feuer daran, dass andere Menschen auch von dem ewigen Evangelium hören dürfen.
-<p class="u-font--size--11"><a href="mailto:heimatmission@adventgemeinde-lahr.de">heimatmission@adventgemeinde-lahr.de</a></p>
+<p class="u-font--size--11"><a href="tel:015510110967">0155 101 109 67</a></p>
 
 </div>
 <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Jürgen Engler</span></div>
@@ -112,18 +152,18 @@ Arbeitet mit Feuer daran, dass andere Menschen auch von dem ewigen Evangelium h�
 <!-- c-media-block -->
 <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
 <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
-<div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_GeppiR_900x500.jpg"> <picture class="picture"> <img class="" srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_GeppiR_500x275.jpg" alt="Diakonie" width="411" height="226"></picture></a></div>
+<div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_BrigitteW_900x500.jpg"> <picture class="picture"> <img class="" srcset="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_BrigitteW_500x275.jpg" alt="Diakonie" width="411" height="226"></picture></a></div>
 </div>
 <!-- c-media-block__image -->
 <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
 <div class="u-spacing c-block__group c-media-block__group ">
 <div class="u-spacing u-width--100p">
 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Diakonie</h3>
-Unermüdlich sorgt er sich um das Wohl aller Gemeindeglieder.
-<p class="u-font--size--11"><a href="mailto:diakonie@adventgemeinde-lahr.de">diakonie@adventgemeinde-lahr.de</a></p>
+Unermüdlich sorgt sie sich um das Wohl aller Gemeindeglieder.
+<p class="u-font--size--11"><a href="tel:01704804918">0170 480 49 18</a></p>
 
 </div>
-<div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Gebhard Rupps</span></div>
+<div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Brigitte Winkelsesser</span></div>
 </div>
 </div>
 <!-- c-media-block__content -->
@@ -140,6 +180,7 @@ Unermüdlich sorgt er sich um das Wohl aller Gemeindeglieder.
 <div class="u-spacing u-width--100p">
 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Kinder</h3>
 Ihr Herzensanliegen ist es, dass Kinder von dem großartigen Gott erfahren, durch den sie erschaffen wurden.
+<p class="u-font--size--11"><a href="tel:016092222739">0160 922 227 39</a></p>
 
 </div>
 <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Anette Heck</span></div>
@@ -165,10 +206,10 @@ Ihr Herzensanliegen ist es, dass Kinder von dem großartigen Gott erfahren, durc
 <div class="u-spacing u-width--100p">
 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Jugend</h3>
 Trägt die Verantwortung über das Wohl der Jugend.
-<p class="u-font--size--11"><a href="mailto:jugend@adventgemeinde-lahr.de">jugend@adventgemeinde-lahr.de</a></p>
+<p class="u-font--size--11"><a href="tel:017647363298">Tel: 0176 473 632 98</a></p>
 
 </div>
-<div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Saskia</span></div>
+<div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Saskia Heck</span></div>
 </div>
 </div>
 <!-- c-media-block__content -->
@@ -185,7 +226,7 @@ Trägt die Verantwortung über das Wohl der Jugend.
 <div class="u-spacing u-width--100p">
 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">Ernährung &amp; Gesundheit</h3>
 Freut sich, wenn die Gemeinde einen gesunden Lebensstil verkündigen und praktizieren tut.
-<p class="u-font--size--11"><a href="mailto:gesundheit@adventgemeinde-lahr.de">gesundheit@adventgemeinde-lahr.de</a></p>
+<p class="u-font--size--11"><a href="tel:01785226223">Tel: 0178 522 62 23</a></p>
 
 </div>
 <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Esther Bieling</span></div>
@@ -197,7 +238,7 @@ Freut sich, wenn die Gemeinde einen gesunden Lebensstil verkündigen und praktiz
 <!-- c-media-block -->
 <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
 <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
-<div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_Technik_900x500.jpg"> <picture class="picture"> <img srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_Technik_500x275.jpg" alt="Technik"></picture></a></div>
+<div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_JohannK_900x500.jpg"> <picture class="picture"> <img srcset="/wp-content/uploads/2022/09/UnsereGemeindeabteilungen_JohannK_500x275.jpg" alt="Technik"></picture></a></div>
 </div>
 <!-- c-media-block__image -->
 <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
@@ -217,7 +258,7 @@ Sorgt sich immerwährend um das technische Wohl der Gemeinde und stellt den Onli
 <!-- c-media-block -->
 <div class="c-media-block c-block c-block__stacked c-media-block__stacked l-grid-wrap l-grid--7-col l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col">
 <div class="c-media-block__image c-block__image l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-padding--zero--sides u-space--right c-block__icon c-block__icon--gallery">
-<div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_DanielB_900x500.jpg"> <picture class="picture"> <img srcset="/wp-content/uploads/2019/06/UnsereGemeindeabteilungen_DanielB_500x275.jpg" alt="Mission"> </picture></a></div>
+<div class="c-block__image-wrap "><a class="thickbox" href="/wp-content/uploads/2022/10/UnsereGemeindeabteilungen_TobiasL_900x500.jpg"> <picture class="picture"> <img srcset="/wp-content/uploads/2022/10/UnsereGemeindeabteilungen_TobiasL_500x275.jpg" alt="Homepage"> </picture></a></div>
 </div>
 <!-- c-media-block__image -->
 <div class="c-media-block__content c-block__content u-spacing l-grid-item--3-col l-grid-item--m--2-col l-grid-item--xl--1-col u-border--left">
@@ -227,7 +268,7 @@ Sorgt sich immerwährend um das technische Wohl der Gemeinde und stellt den Onli
 Kümmert sich um alle Dinge, die weder an Raum noch Zeit gebunden sind.
 
 </div>
-<div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Daniel Bieling</span></div>
+<div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs"><span class="c-block__category u-text-transform--upper">Tobias Laufersweiler</span></div>
 </div>
 </div>
 <!-- c-media-block__content -->
