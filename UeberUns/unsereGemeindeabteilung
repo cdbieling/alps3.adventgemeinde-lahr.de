@@ -1,4 +1,4 @@
-<section class="c-section c-section__blocks u-spacing l-grid l-grid-wrap--4-of-7 u-shift--left--1-col--at-large">
+<section class="c-section c-section__blocks u-spacing l-grid l-grid-wrap--6-of-7 u-shift--left--1-col--at-large">
 <div class="c-block-wrap l-grid-wrap--4-of-7">
 <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
 <h3 class="c-block__heading-title u-theme--color--darker">Unser Prediger</h3>
@@ -29,7 +29,7 @@
 <!-- c-media-block -->
 <div class="c-block-wrap l-grid-wrap--4-of-7">
 <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col">
-<h3 class="c-block__heading-title u-theme--color--darker">Unser Gemeindeleiter</h3>
+<h3 class="c-block__heading-title u-theme--color--darker">Unser Gemeindeleitung</h3>
 </div>
 </div>
 <!-- Gemeindeleitung -->
