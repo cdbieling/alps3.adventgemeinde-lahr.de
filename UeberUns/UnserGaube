@@ -1,5 +1,5 @@
 <!-- wp:html -->
-<section class="l-grid u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+<section class="l-grid  l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="l-grid-item l-grid-item--6-col">
 
     <nav class="c-breadcrumbs" role="navigation">
@@ -28,9 +28,7 @@
       <h1>Präambel</h1>
         <figure class="wp-block-image is-resized u-padding">
           <picture class="picture">
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="http://new.adventgemeinde-lahr.de/wp-content/uploads/2019/05/UeberUns_Glaube_Praembel_1200x500.jpg" media="(min-width: 1080px)">
-            <!--[if IE 9]></video><![endif]-->
+            <source srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Praembel_1200x500.jpg" media="(min-width: 1080px)">
             <img itemprop="image" srcset="/wp-content/uploads/2019/05/UeberUns_Glaube_Praembel_600x250.jpg" alt="Präembel unserer fundamentalen Glaubensüberzeugungen." class="wp-image-5271">
           </picture>
         </figure>
@@ -438,7 +436,7 @@
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
                     <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum" class="c-block__title-link u-theme--link-hover--dark">
                       Das Heiligtum</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-wiederkunft-christi" class="c-block__title-link u-theme--link-hover--dark">
                       Die Wiederkunft Christi</a><br>
                     <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung" class="c-block__title-link u-theme--link-hover--dark">
                       Die Auferstehung</a><br>

@@ -1,5 +1,5 @@
 <!-- wp:html -->
-<section class="l-grid u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+<section class="l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="l-grid-item l-grid-item--6-col">
     <nav class="c-breadcrumbs" role="navigation">
       <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
@@ -381,7 +381,7 @@
                 <h3 class="u-theme--color--dark u-font--primary--xs c-block__inactive-link">
                     <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
                       Das Heiligtum</a><br>
-                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/das-heiligtum/" class="c-block__title-link u-theme--link-hover--dark">
+                    <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-wiederkunft-christi/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Wiederkunft Christi</a><br>
                     <a href="/wir-adventisten/unser-glaube/wiederherstellung/die-auferstehung/" class="c-block__title-link u-theme--link-hover--dark">
                       Die Auferstehung</a><br>

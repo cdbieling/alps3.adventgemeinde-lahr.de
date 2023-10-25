@@ -287,7 +287,7 @@
 </section>
 
 <section>
-<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 l-grid-item--m--5-col l-grid-item--l--6-col">
+<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 l-grid-item--m--5-col l-grid-item--l--6-col u-shift--left--0-col--at-medium">
   <h3> Lesen Sie weiter </h3>
   <!-- Media Block Inline: Weitere Artikel Footer -->
   <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">

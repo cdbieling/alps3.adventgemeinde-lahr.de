@@ -1,6 +1,6 @@
 <!-- wp:html -->
-<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+<section class="l-grid l-grid--7-col l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--3-col">
     <article class="text c-article__body u-spacing--double">
       <h2>Jeden Monat Kochtreff mit Gesundheitsvortrag - und Sie sind dazu herzlich eingeladen!</h2>
       <p>Ob jung oder alt - in der heutigen Zeit wird jeder mit Krebs, Osteoporose, Diabetes oder Bluthochdruck konfrontiert. Ob in der Familie, im Verwandten- oder Freundeskreis. Die neusten wissenschaftlichen Erkenntnisse bestätigen, dass es sich in den meisten Fällen um Wohlstandskrankheiten handelt. Kann man also ein großteil der Krankheiten vorbeugen?</p>
@@ -21,8 +21,7 @@
     </article>
   </div>
 
-
-  <!-- Right Section -->
+<!-- Right Section -->
   <div class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-padding--zero--sides fix-sidebar--at-medium">
     <!-- RIGHT-SIDEBAR | Kochtreff in LAHR -->
     <div class="c-related-posts u-spacing">
@@ -45,7 +44,7 @@
             <div class="u-spacing c-block__group c-media-block__group ">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                <a href="https://goo.gl/maps/ZQqw1e7MEeF2" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
+                <a href="https://goo.gl/maps/ZQqw1e7MEeF2" class="c-block__title-link u-theme--link-hover--dark" target="_blank" rel="noopener">
                 Gemeinsames Kochen & Essen
                 </a>
                 </h3>
@@ -82,7 +81,7 @@
             <div class="u-spacing c-block__group c-media-block__group ">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                  <a href="https://goo.gl/maps/ZQqw1e7MEeF2" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
+                  <a href="https://goo.gl/maps/ZQqw1e7MEeF2" class="c-block__title-link u-theme--link-hover--dark" target="_blank" rel="noopener">
                     Gesundheitsvortrag
                   </a>
                 </h3>
@@ -131,7 +130,7 @@
             <div class="u-spacing c-block__group c-media-block__group ">
               <div class="u-spacing u-width--100p">
                 <h3 class="c-media-block__title c-block__title u-theme--color--dark u-font--primary--s ">
-                <a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" class="c-block__title-link u-theme--link-hover--dark" target="_blank">
+                <a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" class="c-block__title-link u-theme--link-hover--dark" target="_blank" rel="noopener">
                 Flyer:  Kochtreff und Gesundheitsvortrag
                 </a>
                 </h3>
@@ -156,20 +155,8 @@
 </section><!-- End First Text Section -->
 <!-- /wp:html -->
 
-<!-- wp:file {"id":2565,"href":"/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf"} -->
-<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col">
-    <article class="text c-article__body u-spacing--double">
-      <div class="wp-block-file"><a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" target="_blank">Kochtreff &amp; Gesunheitsvortrag Flyer</a><a href="/wp-content/uploads/2019/03/Kochtreff_Flyer.pdf" class="wp-block-file__button" download>Download Flyer<br></a></div>
-    </article>
-  </div>
-</section>
-<!-- /wp:file -->
-
-
-
-  <!-- wp:html -->
-<section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7">
+<!-- wp:html -->
+<section class="l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7 u-shift--left--0-col--at-medium">
   <div class="l-grid-item--m--3-col u-padding--zero--left">
     <figure class="o-figure ">
       <div class="o-figure__image">
@@ -184,7 +171,7 @@
 
       <div class="o-figure__caption">
       <figcaption class="o-figcaption">
-      <p class="o-caption u-color--gray u-font--secondary--s">Proin dictum lobortis luctus.</p>
+      <p class="o-caption u-color--gray u-font--secondary--s">Kochen mit Freunden steigert die Lebensfreude.</p>
       </figcaption>
       </div> <!-- /.o-figure__caption -->
     </figure> <!-- /.o-figure -->
@@ -203,7 +190,7 @@
           </div> <!-- /.o-figure__image -->
       <div class="o-figure__caption">
         <figcaption class="o-figcaption">
-          <p class="o-caption u-color--gray u-font--secondary--s">Proin dictum lobortis luctus.</p>
+          <p class="o-caption u-color--gray u-font--secondary--s">Gesundes Kochen stärkt das Wohlbefinden.</p>
         </figcaption>
       </div> <!-- /.o-figure__caption -->
     </figure> <!-- /.o-figure -->
@@ -213,24 +200,25 @@
 
 <!-- wp:html -->
 <!-- Aktuelle Gesundheitsvorträge -->
-<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+<section class="l-grid l-grid--7-col l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
     <article class="text c-article__body">
 
       <h2 style="padding-bottom:15px;">Themen der Gesundheitsvorträge 2019</h2>
       <table class="wp-block-table"><tbody><tr><td>Januar</td><td>- -</td></tr><tr><td>Februar</td><td>»­Einfach Traumhaft - Guter Schlaf«</td></tr><tr><td>März</td><td>»Unsere Füße tragen uns durchs Leben" Richtige Körperhaltung im Alltag und Fußgymnastik«</td></tr><tr><td>April</td><td>(noch Ausstehend)</td></tr><tr><td>Mai</td><td>(noch Ausstehend)</td></tr><tr><td>Juni</td><td>(noch Ausstehend)</td></tr><tr><td>Juli</td><td><br></td></tr><tr><td>August</td><td>- - </td></tr><tr><td>September</td><td>- - </td></tr><tr><td>Oktober</td><td></td></tr><tr><td>November</td><td></td></tr><tr><td>Dezember</td><td><br></td></tr></tbody></table>
       <p><span style="font-size: 8px;">* jeweils der 1.Montag im Monat.  Ausnahmen: Ferien und Feiertage</span></p>
-    </section>
+    </article>
   </div>
-</article>
+</section>
 <!-- Ende aktuelle Gesdunheitsvorträge -->
 <!-- /wp:html -->
+
 
 <!-- wp:html -->
 
 <!-- Gesundheitsvorträge 2018 | Buttons Show More -->
 <!-- EXPAND BLOCK -->
-<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+<section class="l-grid l-grid--7-col l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
 
     <div class="js-this c-block__expand ">

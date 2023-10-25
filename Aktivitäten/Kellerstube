@@ -1,5 +1,5 @@
 <!-- wp:html -->
-<section class="l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large u-shift--left--1-col--at-xxlarge">
+<section class="l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="l-grid-item l-grid-item--6-col">
     <nav class="c-breadcrumbs" role="navigation">
       <ul class="c-breadcrumbs__list">
@@ -25,8 +25,8 @@
 <!-- /wp:html -->
 
 <!-- wp:html -->
-<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
-  <div class="l-grid-item l-grid-item--m--4-col l-grid-item--xl--3-col">
+<section class="l-grid l-grid--7-col l-grid-wrap--6-of-7 u-spacing--double--until-large">
+  <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--3-col">
     <article class="text c-article__body u-spacing--double">
       <p>Eine jahrzehntelang bewährte Tradition im gastfreundschaftlichen Hause von Familie Lachmann lässt die „Kellerstube“ fast schon zum gemeinschaftlichen und christlichen Kulturerbe der Stadt Lahr erwachsen.</p>
       

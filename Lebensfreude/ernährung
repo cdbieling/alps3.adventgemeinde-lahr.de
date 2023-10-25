@@ -1,5 +1,5 @@
 <!-- wp:html -->
-<section class="l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-large">
+<section class="l-grid l-grid--7-col l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="l-grid-item l-grid-item--m--5-col l-grid-item--l--4-col l-grid-item--xl--3-col">
     <nav class="c-breadcrumbs" role="navigation">
       <ul class="c-breadcrumbs__list" style="margin-bottom:30px;">
@@ -112,7 +112,7 @@
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Ernährung & Suchtmittel</span>
+                <span class="c-block__category u-text-transform--upper">Ernährung &amp; Suchtmittel</span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -139,7 +139,7 @@
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Ernährung & Körperorgane</span>
+                <span class="c-block__category u-text-transform--upper">Ernährung &amp; Körperorgane</span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -166,7 +166,7 @@
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Ernährung & Suchtmittel</span>
+                <span class="c-block__category u-text-transform--upper">Ernährung &amp; Suchtmittel</span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -193,7 +193,7 @@
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Ernährung & Suchtmittel</span>
+                <span class="c-block__category u-text-transform--upper">Ernährung &amp; Suchtmittel</span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -220,7 +220,7 @@
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Ernährung & Praxis</span>
+                <span class="c-block__category u-text-transform--upper">Ernährung &amp; Praxis</span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -247,7 +247,7 @@
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Ernährung & Nährstoffe</span>
+                <span class="c-block__category u-text-transform--upper">Ernährung &amp; Nährstoffe</span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -274,7 +274,7 @@
                 </h3>
               </div>
               <div class="c-media-block__meta c-block__meta u-theme--color--base u-font--secondary--xs">
-                <span class="c-block__category u-text-transform--upper">Ernährung & Praxis</span>
+                <span class="c-block__category u-text-transform--upper">Ernährung &amp; Praxis</span>
               </div>
             </div>
           </div> <!-- c-media-block__content -->
@@ -289,7 +289,7 @@
 </section>
 
 <section>
-<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 l-grid-item--m--5-col  l-grid-item--l--6-col ">
+<div class="l-grid l-grid--6-col l-grid-wrap--6-of-7 l-grid-item--m--5-col  l-grid-item--l--6-col u-shift--left--0-col--at-medium">
   <!-- Media Block Inline: Weitere Artikel Footer -->
   <div class="c-media-block c-block c-block__inline c-media-block__inine c-block--reversed c-media-block--reversed l-grid--7-col">
       <div class="c-media-block__image c-block__image l-grid-item u-padding--zero--sides">
@@ -323,5 +323,4 @@
   </div><!-- c-media-block -->
   </div>
 </section>
-
 <!-- /wp:html -->

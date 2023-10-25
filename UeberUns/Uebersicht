@@ -1,5 +1,5 @@
 <!-- wp:html -->
-<section class="l-grid u-shift--left--1-col--at-large l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large">
+<section class="l-grid  l-grid l-grid-wrap--6-of-7 u-spacing--double--until-large">
   <div class="l-grid-item l-grid-item--6-col">
 
     <nav class="c-breadcrumbs" role="navigation">
@@ -18,10 +18,10 @@
 <section>
 
   <div class="c-block-wrap l-grid-wrap--5-of-7 u-padding--bottom">
-    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col u-shift--left--1-col--at-large u-spacing--double u-padding--bottom">
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col  u-spacing--double u-padding--bottom">
       <h2 class="u-theme--color--darker">Über unsere Weltweite Freikirche</h2>
     </div>
-    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col u-shift--left--1-col--at-large u-spacing--double">
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col  u-spacing--double">
       <div class="">
         <div class="c-media-block__meta c-block__meta u-theme--color--base">
           <span class="c-block__category u-text-transform--upper">Entdecke die Siebenten-Tags-Adventisten</span>
@@ -31,7 +31,7 @@
     </div>
   </div>
 
-  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large u-padding--bottom">
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col  u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
       <div class="c-block__image-wrap u-spacing--from-xxl">
         <picture class="picture">
@@ -61,13 +61,11 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large u-padding--bottom">
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col  u-padding--bottom">
       <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
         <div class="c-block__image-wrap u-spacing--from-xxl">
           <picture class="picture">
-            [if IE 9]><video style="display: none;"><![endif]
             <source srcset="/wp-content/uploads/2019/08/UeberUns_DieSTA_Geschichte_600x330.jpg media="(min-width: 500px)">
-              [if IE 9]></video><![endif]
               <img itemprop="image" srcset="/wp-content/uploads/2019/08/UeberUns_DieSTA_Geschichte_600x330.jpg" alt="Die Geschichte der Siebenten-Tags-Adventisten">
           </picture>
         </div>
@@ -94,7 +92,7 @@
       </div> <!-- c-media-block__content -->
     </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large">
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col ">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
       <div class="c-block__image-wrap u-spacing--from-xxl">
         <picture class="picture">
@@ -127,11 +125,11 @@
   <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
 
   <div class="c-block-wrap l-grid-wrap--5-of-7 u-padding--bottom">
-    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col u-shift--left--1-col--at-large u-spacing--double u-padding--bottom">
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col  u-spacing--double u-padding--bottom">
       <h2 class="u-theme--color--darker" id="adventgemeinde-lahr">Über unsere Adventgemeinde Lahr</h2>
     </div>
 
-    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col u-shift--left--1-col--at-large u-spacing--double">
+    <div class="c-block__heading u-theme--border-color--darker l-grid-item--l--4-col  u-spacing--double">
       <div class="">
         <div class="c-media-block__meta c-block__meta u-theme--color--base">
           <span class="c-block__category u-text-transform--upper">Entdecke mehr über unsere Gemeinde</span>
@@ -143,7 +141,7 @@
   </div>
 
 
-  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large u-padding--bottom">
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col  u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
       <div class="c-block__image-wrap u-spacing--from-xxl">
         <picture class="picture">
@@ -173,7 +171,7 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large u-padding--bottom">
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col  u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
       <div class="c-block__image-wrap u-spacing--from-xxl">
         <picture class="picture">
@@ -203,7 +201,7 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large u-padding--bottom">
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col  u-padding--bottom">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
       <div class="c-block__image-wrap u-spacing--from-xxl">
         <picture class="picture">
@@ -233,7 +231,7 @@
     </div> <!-- c-media-block__content -->
   </div> <!-- c-media-block -->
 
-  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col u-shift--left--1-col--at-large">
+  <div class="c-media-block c-block c-block--reversed c-media-block--reversed l-grid-wrap l-grid-wrap--6-of-7 l-grid--7-col ">
     <div class="c-media-block__image c-block__image l-grid-item l-grid-item--s--2-col l-grid-item--m--2-col l-grid-item--l--1-col l-grid-item--xl--2-col u-padding--zero--sides">
       <div class="c-block__image-wrap u-spacing--from-xxl">
         <picture class="picture">
